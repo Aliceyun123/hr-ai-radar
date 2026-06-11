@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-06-11T16:01:50.407593Z",
+  "generated_at": "2026-06-11T19:17:48.429687Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_358ff63a9284",
+      "title": "AI 使用报告更新 / AI usage report updates",
+      "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+      "primary_url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+          "title": "AI 使用报告更新 / AI usage report updates",
+          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T18:27:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+          "title": "AI 使用报告更新 / AI usage report updates",
+          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T18:27:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9648,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T18:27:05Z",
+      "latest_at": "2026-06-11T18:27:05Z",
+      "primary_item": {
+        "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+        "title": "AI 使用报告更新 / AI usage report updates",
+        "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_0c19e76fe6dc",
       "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
@@ -38,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.8607,
-      "importance_score": 0.8607,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9987,
+        "recency": 0.8626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +123,307 @@
         "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fae97ecdc455",
+      "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+      "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+      "primary_url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:44:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:44:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8938,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T16:44:55Z",
+      "latest_at": "2026-06-11T16:44:55Z",
+      "primary_item": {
+        "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
+        "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
+        "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0022fdabcfc4",
+      "title": "Replit Agent 新增自定义指令与技能功能",
+      "url": "https://x.com/Replit/status/2065146579326271883",
+      "primary_url": "https://x.com/Replit/status/2065146579326271883",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b92ddb30dc6e384bd87fbfdf2249fdc40f4d5f08",
+          "title": "Replit Agent 新增自定义指令与技能功能",
+          "url": "https://x.com/Replit/status/2065146579326271883",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T18:58:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "b92ddb30dc6e384bd87fbfdf2249fdc40f4d5f08",
+          "title": "Replit Agent 新增自定义指令与技能功能",
+          "url": "https://x.com/Replit/status/2065146579326271883",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T18:58:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9863,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T18:58:07Z",
+      "latest_at": "2026-06-11T18:58:07Z",
+      "primary_item": {
+        "id": "b92ddb30dc6e384bd87fbfdf2249fdc40f4d5f08",
+        "title": "Replit Agent 新增自定义指令与技能功能",
+        "url": "https://x.com/Replit/status/2065146579326271883",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_27ec170172da",
+      "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "primary_url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
+          "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T18:13:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
+          "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T18:13:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9552,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T18:13:16Z",
+      "latest_at": "2026-06-11T18:13:16Z",
+      "primary_item": {
+        "id": "857c5083b2fdbe30aeadada010bd5a494a3ebb31",
+        "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+        "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_686c53d337c6",
+      "title": "Perplexity Computer 集成 Deep Research",
+      "url": "https://x.com/perplexity_ai/status/2065124930463916317",
+      "primary_url": "https://x.com/perplexity_ai/status/2065124930463916317",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
+          "title": "Perplexity Computer 集成 Deep Research",
+          "url": "https://x.com/perplexity_ai/status/2065124930463916317",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T17:32:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
+          "title": "Perplexity Computer 集成 Deep Research",
+          "url": "https://x.com/perplexity_ai/status/2065124930463916317",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T17:32:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9266,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T17:32:06Z",
+      "latest_at": "2026-06-11T17:32:06Z",
+      "primary_item": {
+        "id": "f550ebcdc9848ab5f2575d89f719fc5e12074ae2",
+        "title": "Perplexity Computer 集成 Deep Research",
+        "url": "https://x.com/perplexity_ai/status/2065124930463916317",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_449f08f51e92",
+      "title": "Gemini Omni Flash 视频任务达 SOTA",
+      "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+      "primary_url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
+          "title": "Gemini Omni Flash 视频任务达 SOTA",
+          "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T17:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Logan Kilpatrick (@OfficialLoganK)"
+      ],
+      "items": [
+        {
+          "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
+          "title": "Gemini Omni Flash 视频任务达 SOTA",
+          "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+          "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T17:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9078,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T17:05:00Z",
+      "latest_at": "2026-06-11T17:05:00Z",
+      "primary_item": {
+        "id": "1d9aef927abaf6233ce992842a20f01bd45eb35d",
+        "title": "Gemini Omni Flash 视频任务达 SOTA",
+        "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+        "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -99,14 +461,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +521,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -219,14 +581,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9677,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,14 +701,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,6 +724,67 @@
         "url": "https://x.com/krea_ai/status/2065086662166901114",
         "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fed394f367ce",
+      "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
+      "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
+          "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
+          "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
+          "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
+          "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T16:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.863,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T16:00:35Z",
+      "latest_at": "2026-06-11T16:00:35Z",
+      "primary_item": {
+        "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
+        "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
+        "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -399,14 +822,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9375,
+        "recency": 0.8014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -459,14 +882,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -481,6 +904,66 @@
         "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
         "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8166025b2671",
+      "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
+      "url": "https://cursor.com/blog/auto-review",
+      "primary_url": "https://cursor.com/blog/auto-review",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "072275f03a31dd1345230b3c4408f114256003a1",
+          "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
+          "url": "https://cursor.com/blog/auto-review",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "072275f03a31dd1345230b3c4408f114256003a1",
+          "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
+          "url": "https://cursor.com/blog/auto-review",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T12:00:00Z",
+      "latest_at": "2026-06-11T12:00:00Z",
+      "primary_item": {
+        "id": "072275f03a31dd1345230b3c4408f114256003a1",
+        "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
+        "url": "https://cursor.com/blog/auto-review",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -519,14 +1002,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.828,
+        "recency": 0.692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -598,21 +1081,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7007,
+        "recency": 0.5646,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T08:50:49Z",
       "latest_at": "2026-06-11T08:50:49Z",
@@ -678,22 +1160,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3321,
+        "recency": 0.196,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T00:00:00Z",
       "latest_at": "2026-06-11T13:12:25Z",
@@ -706,527 +1187,48 @@
       }
     },
     {
-      "story_id": "story_ab9c9a679aa3",
-      "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型 / DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-      "primary_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-      "source": "Google DeepMind",
+      "story_id": "story_a38404c112e7",
+      "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
+      "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
+      "primary_url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9709f2ba9c086bd07d61f0a985e8693121f476b9",
-          "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型 / DiffusionGemma: 4x faster text generation",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-          "source": "Google DeepMind",
+          "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
+          "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
+          "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-10T16:24:11Z"
-        },
-        {
-          "id": "6099d9ebc00167e84cfa7c8d1fc9be56f11de74e",
-          "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-10T16:24:11Z"
-        },
-        {
-          "id": "ac238f5bab4b63918f825be686b8f058eae8e85b",
-          "title": "DiffusionGemma：文本生成速度加快 4 倍 / DiffusionGemma: 4x Faster Text Generation",
-          "url": "https://news.ycombinator.com/item?id=48478471",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-10T21:16:27.335000Z"
-        },
-        {
-          "id": "023c6e54448ec88f11820f8ad9dd37f0ca6a1314",
-          "title": "DiffusionGemma：文本生成速度提升4倍",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-10T18:02:01.701000Z"
-        },
-        {
-          "id": "ffd475ee66e7ed8a826002d955bc3812b13656f2",
-          "title": "DiffusionGemma：文本生成速度提升4倍 / DiffusionGemma: 4x Faster Text Generation",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-10T16:09:37Z"
+          "published_at": "2026-06-11T15:55:49Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）",
-        "Hacker News · 24h最热",
-        "blog.google",
-        "hackernews"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "9709f2ba9c086bd07d61f0a985e8693121f476b9",
-          "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型 / DiffusionGemma: 4x faster text generation",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-          "source": "Google DeepMind",
+          "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
+          "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
+          "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-10T16:24:11Z"
-        },
-        {
-          "id": "6099d9ebc00167e84cfa7c8d1fc9be56f11de74e",
-          "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-10T16:24:11Z"
-        },
-        {
-          "id": "ac238f5bab4b63918f825be686b8f058eae8e85b",
-          "title": "DiffusionGemma：文本生成速度加快 4 倍 / DiffusionGemma: 4x Faster Text Generation",
-          "url": "https://news.ycombinator.com/item?id=48478471",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-10T21:16:27.335000Z"
-        },
-        {
-          "id": "023c6e54448ec88f11820f8ad9dd37f0ca6a1314",
-          "title": "DiffusionGemma：文本生成速度提升4倍",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-10T18:02:01.701000Z"
-        },
-        {
-          "id": "ffd475ee66e7ed8a826002d955bc3812b13656f2",
-          "title": "DiffusionGemma：文本生成速度提升4倍 / DiffusionGemma: 4x Faster Text Generation",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-10T16:09:37Z"
+          "published_at": "2026-06-11T15:55:49Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.0155,
-        "story_heat": 1.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-10T16:09:37Z",
-      "latest_at": "2026-06-10T21:16:27.335000Z",
-      "primary_item": {
-        "id": "9709f2ba9c086bd07d61f0a985e8693121f476b9",
-        "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型 / DiffusionGemma: 4x faster text generation",
-        "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_db8a5fa20164",
-      "title": "Claude Fable 5 一句话生成桌面台球游戏",
-      "url": "https://x.com/vista8/status/2065079656324407345",
-      "primary_url": "https://x.com/vista8/status/2065079656324407345",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-          "title": "Claude Fable 5 一句话生成桌面台球游戏",
-          "url": "https://x.com/vista8/status/2065079656324407345",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:32:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-          "title": "Claude Fable 5 一句话生成桌面台球游戏",
-          "url": "https://x.com/vista8/status/2065079656324407345",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:32:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9377,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T14:32:12Z",
-      "latest_at": "2026-06-11T14:32:12Z",
-      "primary_item": {
-        "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-        "title": "Claude Fable 5 一句话生成桌面台球游戏",
-        "url": "https://x.com/vista8/status/2065079656324407345",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_52adfdd49a6a",
-      "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-      "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fbab4e4cd6de20b4e4f63b79a44ea3727a23cab3",
-          "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-          "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T10:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "fbab4e4cd6de20b4e4f63b79a44ea3727a23cab3",
-          "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-          "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T10:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7611,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T10:17:47Z",
-      "latest_at": "2026-06-11T10:17:47Z",
-      "primary_item": {
-        "id": "fbab4e4cd6de20b4e4f63b79a44ea3727a23cab3",
-        "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-        "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_264b03d6013b",
-      "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "source": "Bloomberg：Technology（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20e4fc2624d1896cb2ac0c5e302d575b4cb5ae9c",
-          "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T06:19:13Z"
-        },
-        {
-          "id": "77839df302b225271b7f88e334f02318ab9455bb",
-          "title": "AI浪潮在中国引发警觉，呼吁保护劳动者权益",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T06:50:06.656000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Bloomberg：Technology（RSS）",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "20e4fc2624d1896cb2ac0c5e302d575b4cb5ae9c",
-          "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T06:19:13Z"
-        },
-        {
-          "id": "77839df302b225271b7f88e334f02318ab9455bb",
-          "title": "AI浪潮在中国引发警觉，呼吁保护劳动者权益",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T06:50:06.656000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5954,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T06:19:13Z",
-      "latest_at": "2026-06-11T06:50:06.656000Z",
-      "primary_item": {
-        "id": "20e4fc2624d1896cb2ac0c5e302d575b4cb5ae9c",
-        "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-        "source": "Bloomberg：Technology（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f1091f4bcda",
-      "title": "Codex 维护仓库：5分钟循环并行自治",
-      "url": "https://x.com/steipete/status/2064998499780084154",
-      "primary_url": "https://x.com/steipete/status/2064998499780084154",
-      "source": "X：Peter Steinberger (@steipete)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "686242b9d38143b9f07d1441e04b89ad932da384",
-          "title": "Codex 维护仓库：5分钟循环并行自治",
-          "url": "https://x.com/steipete/status/2064998499780084154",
-          "source": "X：Peter Steinberger (@steipete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T09:09:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter Steinberger (@steipete)"
-      ],
-      "items": [
-        {
-          "id": "686242b9d38143b9f07d1441e04b89ad932da384",
-          "title": "Codex 维护仓库：5分钟循环并行自治",
-          "url": "https://x.com/steipete/status/2064998499780084154",
-          "source": "X：Peter Steinberger (@steipete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T09:09:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T09:09:42Z",
-      "latest_at": "2026-06-11T09:09:42Z",
-      "primary_item": {
-        "id": "686242b9d38143b9f07d1441e04b89ad932da384",
-        "title": "Codex 维护仓库：5分钟循环并行自治",
-        "url": "https://x.com/steipete/status/2064998499780084154",
-        "source": "X：Peter Steinberger (@steipete)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4600462b11c1",
-      "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex / Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "primary_url": "https://openai.com/index/openai-on-oracle-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "77d09c4f15c506d85cb73a2c0f7876fcc6a250d5",
-          "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex / Access OpenAI models and Codex through your Oracle cloud commitment",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-10T20:00:00Z"
-        },
-        {
-          "id": "5bf108e864afd3f1f74886cd7606b7437567ccde",
-          "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-10T20:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "77d09c4f15c506d85cb73a2c0f7876fcc6a250d5",
-          "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex / Access OpenAI models and Codex through your Oracle cloud commitment",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-10T20:00:00Z"
-        },
-        {
-          "id": "5bf108e864afd3f1f74886cd7606b7437567ccde",
-          "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-10T20:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.1654,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-10T20:00:00Z",
-      "latest_at": "2026-06-10T20:00:00Z",
-      "primary_item": {
-        "id": "77d09c4f15c506d85cb73a2c0f7876fcc6a250d5",
-        "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex / Access OpenAI models and Codex through your Oracle cloud commitment",
-        "url": "https://openai.com/index/openai-on-oracle-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_47d05adaf3b5",
-      "title": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP / Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "primary_url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc23449202e360ccb495d750124d3e05670bbafd",
-          "title": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP / Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-          "url": "https://huggingface.co/blog/torch-mlp-fusion",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "cc23449202e360ccb495d750124d3e05670bbafd",
-          "title": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP / Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-          "url": "https://huggingface.co/blog/torch-mlp-fusion",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.3321,
+        "ai_relevance": 0.87,
+        "recency": 0.8597,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1235,133 +1237,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T00:00:00Z",
-      "latest_at": "2026-06-11T00:00:00Z",
+      "earliest_at": "2026-06-11T15:55:49Z",
+      "latest_at": "2026-06-11T15:55:49Z",
       "primary_item": {
-        "id": "cc23449202e360ccb495d750124d3e05670bbafd",
-        "title": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP / Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-        "url": "https://huggingface.co/blog/torch-mlp-fusion",
-        "source": "Hugging Face Blog",
+        "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
+        "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
+        "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3c1dc05c3b7c",
-      "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
-      "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-      "primary_url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a06c4c1242a7c7ad76948ace2619062fe237e841",
-          "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
-          "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T08:40:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "a06c4c1242a7c7ad76948ace2619062fe237e841",
-          "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
-          "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T08:40:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T08:40:14Z",
-      "latest_at": "2026-06-11T08:40:14Z",
-      "primary_item": {
-        "id": "a06c4c1242a7c7ad76948ace2619062fe237e841",
-        "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
-        "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9fd56aacc717",
-      "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
-      "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-      "primary_url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ecf789da753b65a282e1d5d5303f62dc035cf0a0",
-          "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
-          "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T08:34:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "ecf789da753b65a282e1d5d5303f62dc035cf0a0",
-          "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
-          "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T08:34:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6897,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T08:34:59Z",
-      "latest_at": "2026-06-11T08:34:59Z",
-      "primary_item": {
-        "id": "ecf789da753b65a282e1d5d5303f62dc035cf0a0",
-        "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
-        "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
       }
     }
   ]
