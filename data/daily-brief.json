@@ -1,142 +1,8 @@
 {
-  "generated_at": "2026-06-27T16:38:33.793077Z",
+  "generated_at": "2026-06-27T18:03:15.828116Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "16719028a5059e2241b825bc64e62635a507448a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d10ba7986da26890936ed22db2de964970e772d3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Page Fallback"
-      ],
-      "items": [
-        {
-          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "16719028a5059e2241b825bc64e62635a507448a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d10ba7986da26890936ed22db2de964970e772d3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7878,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T17:47:59.460001Z",
-      "latest_at": "2026-06-27T00:07:29.469364Z",
-      "primary_item": {
-        "id": "1a3728283570a1e29361ad760b6a6db12750e731",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
-      }
-    },
     {
       "story_id": "story_fbd38ff6d7c7",
       "title": "一次失败的（民族国家？）攻击的剖析",
@@ -191,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9661,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -291,15 +157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7431,
+        "recency": 0.7281,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -316,6 +182,122 @@
         "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "16719028a5059e2241b825bc64e62635a507448a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Page Fallback"
+      ],
+      "items": [
+        {
+          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "16719028a5059e2241b825bc64e62635a507448a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7719,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T19:47:55.961881Z",
+      "latest_at": "2026-06-27T00:07:29.469364Z",
+      "primary_item": {
+        "id": "1a3728283570a1e29361ad760b6a6db12750e731",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -353,15 +335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7521,
+        "recency": 0.737,
         "story_heat": 0.0
       },
       "category": "official",
@@ -378,6 +360,128 @@
         "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_045a4dba0340",
+      "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+      "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
+      "primary_url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b369a2605193ddca0a52c5eddd6e7f639d9f357b",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b369a2605193ddca0a52c5eddd6e7f639d9f357b",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T16:59:58Z",
+      "latest_at": "2026-06-27T16:59:58Z",
+      "primary_item": {
+        "id": "b369a2605193ddca0a52c5eddd6e7f639d9f357b",
+        "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+        "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_198afd05cb9d",
+      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+      "url": "https://x.com/berryxia/status/2070916520822321292",
+      "primary_url": "https://x.com/berryxia/status/2070916520822321292",
+      "source": "X：Berry Xia (@berryxia)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8aebc04cd2da41a5136f79ed187a332c5445bced",
+          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+          "url": "https://x.com/berryxia/status/2070916520822321292",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T17:05:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Berry Xia (@berryxia)"
+      ],
+      "items": [
+        {
+          "id": "8aebc04cd2da41a5136f79ed187a332c5445bced",
+          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+          "url": "https://x.com/berryxia/status/2070916520822321292",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T17:05:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9863,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T17:05:48Z",
+      "latest_at": "2026-06-27T17:05:48Z",
+      "primary_item": {
+        "id": "8aebc04cd2da41a5136f79ed187a332c5445bced",
+        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+        "url": "https://x.com/berryxia/status/2070916520822321292",
+        "source": "X：Berry Xia (@berryxia)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -434,15 +538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9219,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -515,15 +619,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8861,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -539,87 +643,6 @@
         "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
         "url": "https://www.ithome.com/0/969/400.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_197d3e40effb",
-      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-      "primary_url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T23:31:29Z"
-        },
-        {
-          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
-          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-26T23:31:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T23:31:29Z"
-        },
-        {
-          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
-          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-26T23:31:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T23:31:29Z",
-      "latest_at": "2026-06-26T23:31:29Z",
-      "primary_item": {
-        "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
-        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-        "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -658,15 +681,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9492,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.8122,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -765,62 +788,83 @@
       }
     },
     {
-      "story_id": "story_d6501d7af258",
-      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-      "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-      "primary_url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_197d3e40effb",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+      "primary_url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
-          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-26T16:51:17Z"
+          "published_at": "2026-06-26T23:31:29Z"
+        },
+        {
+          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T23:31:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
-          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-26T16:51:17Z"
+          "published_at": "2026-06-26T23:31:29Z"
+        },
+        {
+          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T23:31:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7093,
-        "story_heat": 0.0
+        "recency": 0.7652,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-26T16:51:17Z",
-      "latest_at": "2026-06-26T16:51:17Z",
+      "earliest_at": "2026-06-26T23:31:29Z",
+      "latest_at": "2026-06-26T23:31:29Z",
       "primary_item": {
-        "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
-        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-        "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
+        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+        "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -878,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8062,
+        "recency": 0.7899,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -906,63 +950,154 @@
       }
     },
     {
-      "story_id": "story_876d1b8a384d",
-      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-06-27",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
-          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-          "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T16:51:17Z"
+          "id": "03782fa7e35e0a7f45520d1cc94dabe5ab5c0773",
+          "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "ebe078369768f42268ed8f87ed2410bd6ea4c357",
+          "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "d45ce5382baf5a14f9c22f1e3047e22a3c715ca0",
+          "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "b2e4c6cecf3f6fc44e0ada14883ab5b872576121",
+          "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
+          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        },
+        {
+          "id": "4e57b30130778942cf80ec708199dba20d519acc",
+          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "社区更新 · 2026-06-26",
+        "社区更新 · 2026-06-27"
       ],
       "items": [
         {
-          "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
-          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-          "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T16:51:17Z"
+          "id": "03782fa7e35e0a7f45520d1cc94dabe5ab5c0773",
+          "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "ebe078369768f42268ed8f87ed2410bd6ea4c357",
+          "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "d45ce5382baf5a14f9c22f1e3047e22a3c715ca0",
+          "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "b2e4c6cecf3f6fc44e0ada14883ab5b872576121",
+          "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T18:03:15.828116Z"
+        },
+        {
+          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
+          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        },
+        {
+          "id": "4e57b30130778942cf80ec708199dba20d519acc",
+          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7093,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-26T16:51:17Z",
-      "latest_at": "2026-06-26T16:51:17Z",
+      "earliest_at": "2026-06-27T04:34:24.868194Z",
+      "latest_at": "2026-06-27T18:03:15.828116Z",
       "primary_item": {
-        "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
-        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-        "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
+        "id": "03782fa7e35e0a7f45520d1cc94dabe5ab5c0773",
+        "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-06-27",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1019,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6496,
-      "importance": 0.6496,
-      "importance_score": 0.6496,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9352,
+        "recency": 0.9163,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6369,
-      "importance": 0.6369,
-      "importance_score": 0.6369,
+      "score": 0.6343,
+      "importance": 0.6343,
+      "importance_score": 0.6343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.612,
         "source_tier": 0.58,
         "ai_relevance": 0.85,
-        "recency": 0.7263,
+        "recency": 0.7117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1233,15 +1368,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5971,
-      "importance": 0.5971,
-      "importance_score": 0.5971,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8683,
+        "recency": 0.8508,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1312,15 +1447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5827,
-      "importance": 0.5827,
-      "importance_score": 0.5827,
+      "score": 0.5791,
+      "importance": 0.5791,
+      "importance_score": 0.5791,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.45,
         "ai_relevance": 0.67,
-        "recency": 1.0,
+        "recency": 0.98,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1391,15 +1526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6117,
-      "importance": 0.6117,
-      "importance_score": 0.6117,
+      "score": 0.609,
+      "importance": 0.609,
+      "importance_score": 0.609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7245,
+        "recency": 0.7099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,15 +1642,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.8184,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1530,84 +1665,6 @@
         "url": "https://news.ycombinator.com/item?id=48692995",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-06-26",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
-          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T04:34:24.868194Z"
-        },
-        {
-          "id": "4e57b30130778942cf80ec708199dba20d519acc",
-          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T04:34:24.868194Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "社区更新 · 2026-06-26"
-      ],
-      "items": [
-        {
-          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
-          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T04:34:24.868194Z"
-        },
-        {
-          "id": "4e57b30130778942cf80ec708199dba20d519acc",
-          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T04:34:24.868194Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8401,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T04:34:24.868194Z",
-      "latest_at": "2026-06-27T04:34:24.868194Z",
-      "primary_item": {
-        "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
-        "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-06-26",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1683,15 +1740,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5551,
-      "importance": 0.5551,
-      "importance_score": 0.5551,
+      "score": 0.5518,
+      "importance": 0.5518,
+      "importance_score": 0.5518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9129,
+        "recency": 0.8945,
         "story_heat": 0.5
       },
       "category": "multi_source",
