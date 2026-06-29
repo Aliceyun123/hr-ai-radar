@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-06-29T16:52:30.080113Z",
+  "generated_at": "2026-06-29T19:04:13.192584Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91d16542fa1f",
+      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T18:02:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T18:02:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8654,
+      "importance": 0.8654,
+      "importance_score": 0.8654,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9853,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:02:48Z",
+      "latest_at": "2026-06-29T18:02:48Z",
+      "primary_item": {
+        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+        "url": "https://huggingface.co/blog/allenai/discoformer",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5a9c6b882649",
+      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:47:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:47:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9676,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T16:47:16Z",
+      "latest_at": "2026-06-29T16:47:16Z",
+      "primary_item": {
+        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_5b79476b1142",
       "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
@@ -57,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8531,
-      "importance": 0.8531,
-      "importance_score": 0.8531,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8671,
+        "recency": 0.84,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9874,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,6 +269,149 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_022b5040aeb6",
+      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:08:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:08:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9586,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T16:08:23Z",
+      "latest_at": "2026-06-29T16:08:23Z",
+      "primary_item": {
+        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_279d788d0c63",
+      "title": "Qwen 3.6 27B 是本地开发的理想选择",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome",
+      "primary_url": "https://quesma.com/blog/qwen-36-is-awesome",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:03:02.582000Z"
+        },
+        {
+          "id": "9428ed55d1cdab95be4642d83655bbe650b35d1a",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择 / Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-29T17:05:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:03:02.582000Z"
+        },
+        {
+          "id": "9428ed55d1cdab95be4642d83655bbe650b35d1a",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择 / Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-29T17:05:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9854,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T17:05:16Z",
+      "latest_at": "2026-06-29T18:03:02.582000Z",
+      "primary_item": {
+        "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
+        "title": "Qwen 3.6 27B 是本地开发的理想选择",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -201,15 +468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8704,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -282,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9389,
+        "recency": 0.9096,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -310,68 +577,68 @@
       }
     },
     {
-      "story_id": "story_de7af40a60b1",
-      "title": "Herdr：驻留在终端中的AI智能体多路复用器",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "primary_url": "https://github.com/ogulcancelik/herdr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_31e36f083719",
+      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+      "primary_url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
-          "title": "Herdr：驻留在终端中的AI智能体多路复用器",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T14:03:06.351000Z"
+          "published_at": "2026-06-29T10:42:47Z"
         },
         {
-          "id": "c4aa80098473d444f92d1d96ce042711fa3da975",
-          "title": "Herdr：驻留在终端中的AI智能体多路复用器 / Herdr: Agent multiplexer that lives in your terminal",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-29T04:27:46Z"
+          "id": "1baf6bc9b33acf85d68d9d0cdba184798bede9ad",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能 / Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T10:42:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
-          "title": "Herdr：驻留在终端中的AI智能体多路复用器",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T14:03:06.351000Z"
+          "published_at": "2026-06-29T10:42:47Z"
         },
         {
-          "id": "c4aa80098473d444f92d1d96ce042711fa3da975",
-          "title": "Herdr：驻留在终端中的AI智能体多路复用器 / Herdr: Agent multiplexer that lives in your terminal",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-29T04:27:46Z"
+          "id": "1baf6bc9b33acf85d68d9d0cdba184798bede9ad",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能 / Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T10:42:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9601,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -380,13 +647,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T04:27:46Z",
-      "latest_at": "2026-06-29T14:03:06.351000Z",
+      "earliest_at": "2026-06-29T10:42:47Z",
+      "latest_at": "2026-06-29T10:42:47Z",
       "primary_item": {
-        "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
-        "title": "Herdr：驻留在终端中的AI智能体多路复用器",
-        "url": "https://github.com/ogulcancelik/herdr",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+        "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+        "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -425,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9743,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -486,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9343,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -594,111 +861,49 @@
       }
     },
     {
-      "story_id": "story_1ae317c00ced",
-      "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "primary_url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7084,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-28T17:00:00Z",
-      "latest_at": "2026-06-28T17:00:00Z",
-      "primary_item": {
-        "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-        "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_31e36f083719",
-      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-      "primary_url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_519893dab662",
+      "title": "从任何地点构建--Cursor for iOS 公测版发布",
+      "url": "https://cursor.com/blog/ios-mobile-app",
+      "primary_url": "https://cursor.com/blog/ios-mobile-app",
+      "source": "Cursor Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost（RSS）",
+          "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
+          "title": "从任何地点构建--Cursor for iOS 公测版发布",
+          "url": "https://cursor.com/blog/ios-mobile-app",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
+          "published_at": "2026-06-29T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "Cursor Blog"
       ],
       "items": [
         {
-          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-          "source": "MarkTechPost（RSS）",
+          "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
+          "title": "从任何地点构建--Cursor for iOS 公测版发布",
+          "url": "https://cursor.com/blog/ios-mobile-app",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T10:42:47Z"
+          "published_at": "2026-06-29T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -706,13 +911,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T10:42:47Z",
-      "latest_at": "2026-06-29T10:42:47Z",
+      "earliest_at": "2026-06-29T12:00:00Z",
+      "latest_at": "2026-06-29T12:00:00Z",
       "primary_item": {
-        "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
-        "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-        "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-        "source": "MarkTechPost（RSS）",
+        "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
+        "title": "从任何地点构建--Cursor for iOS 公测版发布",
+        "url": "https://cursor.com/blog/ios-mobile-app",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -751,21 +956,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T11:00:07Z",
       "latest_at": "2026-06-29T11:00:07Z",
@@ -774,6 +978,87 @@
         "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
         "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
         "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_de7af40a60b1",
+      "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "primary_url": "https://github.com/ogulcancelik/herdr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
+          "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T14:03:06.351000Z"
+        },
+        {
+          "id": "c4aa80098473d444f92d1d96ce042711fa3da975",
+          "title": "Herdr：驻留在终端中的AI智能体多路复用器 / Herdr: Agent multiplexer that lives in your terminal",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-29T04:27:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
+          "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T14:03:06.351000Z"
+        },
+        {
+          "id": "c4aa80098473d444f92d1d96ce042711fa3da975",
+          "title": "Herdr：驻留在终端中的AI智能体多路复用器 / Herdr: Agent multiplexer that lives in your terminal",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-29T04:27:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9301,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T04:27:46Z",
+      "latest_at": "2026-06-29T14:03:06.351000Z",
+      "primary_item": {
+        "id": "1e64036a95a82de057406ce3cd0154a333c793fa",
+        "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -831,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -855,6 +1140,66 @@
         "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
         "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_78f90780fb21",
+      "title": "Claude 在 Microsoft Foundry 正式可用",
+      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "primary_url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ef147d48230b5aaad3ccf650bfa00b20dc738dc",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20.720000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0ef147d48230b5aaad3ccf650bfa00b20dc738dc",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20.720000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-29T18:22:20.720000Z",
+      "latest_at": "2026-06-29T18:22:20.720000Z",
+      "primary_item": {
+        "id": "0ef147d48230b5aaad3ccf650bfa00b20dc738dc",
+        "title": "Claude 在 Microsoft Foundry 正式可用",
+        "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -893,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -972,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1034,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8083,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,368 +1402,6 @@
         "url": "https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5b273f77cdfd",
-      "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "primary_url": "https://github.com/itsthelore/wayfinder-router",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8245961dd6be71dea60d4a2a9a37118197d0a2b",
-          "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T16:58:56.073000Z"
-        },
-        {
-          "id": "e8d8d51d14dd48c93a22c6f0041dd0604cc31cc1",
-          "title": "Wayfinder Router：在本地和托管的大型语言模型（LLM）之间进行确定性查询路由",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T16:58:56.073000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "f8245961dd6be71dea60d4a2a9a37118197d0a2b",
-          "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T16:58:56.073000Z"
-        },
-        {
-          "id": "e8d8d51d14dd48c93a22c6f0041dd0604cc31cc1",
-          "title": "Wayfinder Router：在本地和托管的大型语言模型（LLM）之间进行确定性查询路由",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T16:58:56.073000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-28T16:58:56.073000Z",
-      "latest_at": "2026-06-28T16:58:56.073000Z",
-      "primary_item": {
-        "id": "f8245961dd6be71dea60d4a2a9a37118197d0a2b",
-        "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-        "url": "https://github.com/itsthelore/wayfinder-router",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91a757f04ddf",
-      "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-      "primary_url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T08:17:41Z"
-        },
-        {
-          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T08:17:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T08:17:41Z"
-        },
-        {
-          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T08:17:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T08:17:41Z",
-      "latest_at": "2026-06-29T08:17:41Z",
-      "primary_item": {
-        "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-        "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-        "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61716f2e68b4",
-      "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-      "url": "https://www.ithome.com/0/969/953.htm",
-      "primary_url": "https://www.ithome.com/0/969/953.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-          "url": "https://www.ithome.com/0/969/953.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T06:44:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-          "url": "https://www.ithome.com/0/969/953.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T06:44:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8638,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T06:44:15Z",
-      "latest_at": "2026-06-29T06:44:15Z",
-      "primary_item": {
-        "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-        "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-        "url": "https://www.ithome.com/0/969/953.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_689fb95fd241",
-      "title": "何夕2077 AI 深度信号周报 (2026 W25)：AI 联盟大解体与算力铁幕降临",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-2077-ai-deep-signal-weekly-2026-w25",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-2077-ai-deep-signal-weekly-2026-w25",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "bcfd34c25e8252371e58f66dfa257f98c9469a84",
-          "title": "何夕2077 AI 深度信号周报 (2026 W25)：AI 联盟大解体与算力铁幕降临",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-2077-ai-deep-signal-weekly-2026-w25",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-06-29T05:03:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "bcfd34c25e8252371e58f66dfa257f98c9469a84",
-          "title": "何夕2077 AI 深度信号周报 (2026 W25)：AI 联盟大解体与算力铁幕降临",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-2077-ai-deep-signal-weekly-2026-w25",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-06-29T05:03:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.843,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T05:03:03Z",
-      "latest_at": "2026-06-29T05:03:03Z",
-      "primary_item": {
-        "id": "bcfd34c25e8252371e58f66dfa257f98c9469a84",
-        "title": "何夕2077 AI 深度信号周报 (2026 W25)：AI 联盟大解体与算力铁幕降临",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-2077-ai-deep-signal-weekly-2026-w25",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_be0ff4ea4757",
-      "title": "高德内测“袋马”入局AI编程，一句话分钟级生成可用应用",
-      "url": "https://www.aibase.com/news/29224",
-      "primary_url": "https://www.aibase.com/news/29224",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5f42bd6fc9519c1988893fbb163b2c1d83ebf6ec",
-          "title": "高德内测“袋马”入局AI编程，一句话分钟级生成可用应用",
-          "url": "https://www.aibase.com/news/29224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T03:57:13.414687Z"
-        },
-        {
-          "id": "71ece85efa08b05615b70ce1c9e13e8e1fe075e0",
-          "title": "高德内测「袋马」入局 AI 编程，一句话分钟级生成可用应用",
-          "url": "https://www.aibase.com/zh/news/29224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f42bd6fc9519c1988893fbb163b2c1d83ebf6ec",
-          "title": "高德内测“袋马”入局AI编程，一句话分钟级生成可用应用",
-          "url": "https://www.aibase.com/news/29224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T03:57:13.414687Z"
-        },
-        {
-          "id": "71ece85efa08b05615b70ce1c9e13e8e1fe075e0",
-          "title": "高德内测「袋马」入局 AI 编程，一句话分钟级生成可用应用",
-          "url": "https://www.aibase.com/zh/news/29224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8298,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T03:57:13.414687Z",
-      "latest_at": "2026-06-29T03:57:13.414687Z",
-      "primary_item": {
-        "id": "5f42bd6fc9519c1988893fbb163b2c1d83ebf6ec",
-        "title": "高德内测“袋马”入局AI编程，一句话分钟级生成可用应用",
-        "url": "https://www.aibase.com/news/29224",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
