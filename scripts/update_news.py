@@ -121,6 +121,11 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
+# Per-fetch item cap for wide discussion-tier aggregators (tophub/buzzing/iris).
+# They dominate raw volume with very low AI keep rates (see
+# reports/source-quality/v0.8-audit.md); cap them at the fetch layer so a
+# single round cannot flood the archive. Override via env for experiments.
+DISCUSSION_FETCH_CAP = int(os.environ.get("DISCUSSION_FETCH_CAP", "50"))
 CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
     {
         "title": "The Decoder AI News",
@@ -1036,6 +1041,8 @@ def fetch_buzzing(session: requests.Session, now: datetime) -> list[RawItem]:
 
     out: list[RawItem] = []
     for it in items:
+        if len(out) >= DISCUSSION_FETCH_CAP:
+            break
         title = (it.get("title") or "").strip()
         url = (it.get("url") or "").strip()
         if not title or not url:
@@ -1084,11 +1091,15 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
 
     out: list[RawItem] = []
     for feed_name, feed_url in feeds:
+        if len(out) >= DISCUSSION_FETCH_CAP:
+            break
         try:
             if feedparser is not None:
                 parsed = feedparser.parse(feed_url)
                 source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
                 for entry in parsed.entries:
+                    if len(out) >= DISCUSSION_FETCH_CAP:
+                        break
                     title = str(entry.get("title", "")).strip()
                     url = str(entry.get("link", "")).strip()
                     if not title or not url:
@@ -1116,6 +1127,8 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
             entries = parse_feed_entries_via_xml(feed_resp.content)
             source_name = str(feed_name or "Iris Feed")
             for entry in entries:
+                if len(out) >= DISCUSSION_FETCH_CAP:
+                    break
                 out.append(
                     RawItem(
                         site_id=site_id,
@@ -1242,6 +1255,8 @@ def fetch_tophub(session: requests.Session, now: datetime) -> list[RawItem]:
 
     out: list[RawItem] = []
     for block in soup.select(".cc-cd"):
+        if len(out) >= DISCUSSION_FETCH_CAP:
+            break
         source_name_tag = block.select_one(".cc-cd-lb span")
         board_tag = block.select_one(".cc-cd-sb-st")
         source_name = source_name_tag.get_text(" ", strip=True) if source_name_tag else "TopHub"
@@ -1251,6 +1266,8 @@ def fetch_tophub(session: requests.Session, now: datetime) -> list[RawItem]:
         source = f"{source_name} · {board_name}" if board_name else source_name
 
         for a in block.select(".cc-cd-cb-l a"):
+            if len(out) >= DISCUSSION_FETCH_CAP:
+                break
             href = a.get("href", "").strip()
             row = a.select_one(".cc-cd-cb-ll")
             title_tag = row.select_one(".t") if row else None
