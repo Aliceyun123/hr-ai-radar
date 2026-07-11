@@ -94,7 +94,6 @@ const SOURCE_KINDS = {
   buzzing: { label: "聚合", tone: "aggregate" },
   iris: { label: "聚合", tone: "aggregate" },
   bestblogs: { label: "博客", tone: "blogs" },
-  tophub: { label: "聚合", tone: "aggregate" },
   zeli: { label: "聚合", tone: "aggregate" },
   hackernews: { label: "HN", tone: "aggregate" },
   aihubtoday: { label: "AI站点", tone: "aihub" },
@@ -2940,11 +2939,54 @@ function renderSourceHealthSummaryNode(status, errorMessage = "") {
   return node;
 }
 
+// Fallback tier ranks mirroring SOURCE_TIER_BY_SITE in scripts/update_news.py.
+// Items carry source_tier_rank and that data-derived value wins; this table
+// only covers sites with zero loaded items (rank otherwise unknowable).
+const SITE_TIER_RANK_FALLBACK = {
+  official_ai: 0,
+  aibreakfast: 1,
+  aihubtoday: 1,
+  aibase: 1,
+  aihot: 1,
+  bestblogs: 1,
+  curated_media: 2,
+  waytoagi: 2,
+  followbuilders: 2,
+  opmlrss: 3,
+  tikhub_douyin: 4,
+  tikhub_xiaohongshu: 4,
+  xapi: 4,
+  socialdata_x: 4,
+  techurls: 5,
+  buzzing: 5,
+  iris: 5,
+  zeli: 5,
+  hackernews: 5,
+  newsnow: 5,
+};
+
+function siteTierRankMap() {
+  // source_tier_rank ships on every pipeline item (items_ai / items_all);
+  // aggregate one rank per site from whatever is loaded so the source table
+  // can sort official tiers first without a duplicated constant table.
+  const m = new Map();
+  const pools = [safeItems(state.itemsAi), safeItems(state.itemsAll), safeItems(state.itemsAllRaw)];
+  pools.forEach((items) => {
+    items.forEach((item) => {
+      if (!item || !item.site_id || m.has(item.site_id)) return;
+      const rank = Number(item.source_tier_rank);
+      if (Number.isFinite(rank)) m.set(item.site_id, rank);
+    });
+  });
+  return m;
+}
+
 function renderSourceStatusTable(status) {
   if (!sourceStatusTableEl) return;
   sourceStatusTableEl.innerHTML = "";
   if (!status || !Array.isArray(status.sites) || !status.sites.length) return;
 
+  const tierRanks = siteTierRankMap();
   const rows = status.sites
     .map((site) => {
       const ai = aiSiteStat(site.site_id);
@@ -2953,9 +2995,16 @@ function renderSourceStatusTable(status) {
       const scanned = Number(site.item_count || rawCount || 0);
       const ratioBase = rawCount || scanned;
       const ratio = ratioBase ? Math.round((aiCount / ratioBase) * 100) : 0;
-      return { ...site, aiCount, rawCount: ratioBase, ratio };
+      const tierRank = tierRanks.has(site.site_id)
+        ? tierRanks.get(site.site_id)
+        : (SITE_TIER_RANK_FALLBACK[site.site_id] ?? 9);
+      return { ...site, aiCount, rawCount: ratioBase, ratio, tierRank };
     })
-    .sort((a, b) => b.aiCount - a.aiCount || b.rawCount - a.rawCount || String(a.site_name).localeCompare(String(b.site_name), "zh-CN"));
+    .sort((a, b) =>
+      a.tierRank - b.tierRank
+      || b.ratio - a.ratio
+      || b.aiCount - a.aiCount
+      || String(a.site_name).localeCompare(String(b.site_name), "zh-CN"));
 
   const table = document.createElement("div");
   table.className = "source-table";
@@ -2975,6 +3024,10 @@ function renderSourceStatusTable(status) {
     `;
     table.appendChild(row);
   });
+  const foot = document.createElement("div");
+  foot.className = "source-table-row source-table-foot";
+  foot.textContent = `共 ${fmtNumber(rows.length)} 源`;
+  table.appendChild(foot);
   sourceStatusTableEl.appendChild(table);
 }
 
