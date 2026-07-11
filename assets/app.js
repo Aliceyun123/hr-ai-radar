@@ -22,6 +22,7 @@ const state = {
   sourceStatus: null,
   generatedAt: null,
   dailyBrief: null,
+  top3Personas: null,
   storiesMerged: null,
   storiesDataUrl: "data/stories-merged.json",
   activeSection: "hot",
@@ -1468,6 +1469,58 @@ function buildBoleTimelineRow(row, rank) {
   return link;
 }
 
+const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "论文警察" };
+
+function buildStoryPersonaLine(story) {
+  const reviewText = typeof story.persona_review === "string" ? story.persona_review.trim() : "";
+  if (!reviewText) return null;
+  const line = document.createElement("div");
+  line.className = "story-persona";
+  const label = document.createElement("span");
+  label.className = "story-persona-label";
+  label.textContent = PERSONA_NAMES[story.persona_id] || PERSONA_NAMES.pragmatic;
+  const text = document.createElement("span");
+  text.className = "story-persona-text";
+  text.textContent = reviewText;
+  line.append(label, text);
+  return line;
+}
+
+function findTop3PersonaEntry(storyId) {
+  if (!storyId) return null;
+  const items = state.top3Personas?.items;
+  if (!Array.isArray(items) || !items.length) return null;
+  return items.find((entry) => entry && entry.story_id === storyId) || null;
+}
+
+function buildPersonaPanel(entry) {
+  const reviews = entry?.reviews;
+  if (!reviews || typeof reviews !== "object") return null;
+  const panel = document.createElement("div");
+  panel.className = "persona-panel";
+  let cols = 0;
+  Object.keys(PERSONA_NAMES).forEach((personaId) => {
+    const review = reviews[personaId];
+    if (!review || typeof review.review !== "string" || !review.review.trim()) return;
+    const col = document.createElement("div");
+    col.className = "persona-col";
+    col.dataset.persona = personaId;
+    const name = document.createElement("span");
+    name.className = "persona-name";
+    name.textContent = PERSONA_NAMES[personaId];
+    const score = document.createElement("strong");
+    score.className = "persona-score";
+    score.textContent = Number.isFinite(Number(review.score)) ? String(review.score) : "-";
+    const text = document.createElement("p");
+    text.className = "persona-review";
+    text.textContent = review.review.trim();
+    col.append(name, score, text);
+    panel.appendChild(col);
+    cols += 1;
+  });
+  return cols > 0 ? panel : null;
+}
+
 function buildStoryCard(story, rank) {
   const link = document.createElement("a");
   link.className = "story-row";
@@ -1561,6 +1614,11 @@ function buildStoryCard(story, rank) {
     title.textContent = primaryTitle;
   }
   body.appendChild(title);
+
+  const personaLine = buildStoryPersonaLine(story);
+  if (personaLine) {
+    body.appendChild(personaLine);
+  }
 
   const originalAction = document.createElement("span");
   originalAction.className = "original-action";
@@ -2244,6 +2302,14 @@ function buildTopStoryCard(row, rank) {
   originalAction.textContent = "查看原文 ↗";
 
   link.append(meta, title, original, summary, why, tags, impact, originalAction);
+
+  // TOP 卡三口味面板：仅当 top3-personas.json 存在且能按 story_id 匹配到时渲染。
+  const personaEntry = findTop3PersonaEntry(row.story?.story_id || item.story_id);
+  const personaPanel = buildPersonaPanel(personaEntry);
+  if (personaPanel) {
+    impact.after(personaPanel);
+  }
+
   return link;
 }
 
@@ -3061,6 +3127,12 @@ async function loadDailyBriefData() {
   return res.json();
 }
 
+async function loadTop3PersonasData() {
+  const res = await fetch(`./data/top3-personas.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 top3-personas.json 失败: ${res.status}`);
+  return res.json();
+}
+
 async function loadStoriesData() {
   const res = await fetch(`./${state.storiesDataUrl}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
@@ -3068,18 +3140,30 @@ async function loadStoriesData() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
     loadStoriesData(),
+    loadTop3PersonasData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
     state.dailyBrief = briefResult.value;
   } else {
     state.dailyBrief = null;
+  }
+
+  // top3-personas.json 是可选增强数据：文件缺失、请求失败或 items 为空都静默降级。
+  if (
+    personasResult.status === "fulfilled" &&
+    Array.isArray(personasResult.value?.items) &&
+    personasResult.value.items.length > 0
+  ) {
+    state.top3Personas = personasResult.value;
+  } else {
+    state.top3Personas = null;
   }
 
   if (storiesResult.status === "fulfilled") {

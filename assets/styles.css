@@ -2920,3 +2920,86 @@ summary:focus-visible {
     box-shadow: none;
   }
 }
+
+/* ============================================================
+   Persona 三味点评（v0.8）
+   只用既有变量：--accent / --ink-soft / --muted / --line / --surface
+   红线：0 圆角、1px 实线边框、单一 accent 色
+   ============================================================ */
+
+.story-persona {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+  min-width: 0;
+}
+
+.story-persona-label {
+  flex: none;
+  border-left: 2px solid var(--accent);
+  padding-left: 6px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 760;
+  line-height: 1.2;
+}
+
+.story-persona-text {
+  color: var(--ink-soft);
+  font-size: 11px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.persona-panel {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--surface);
+}
+
+.persona-col {
+  display: grid;
+  gap: 4px;
+  align-content: start;
+  padding: 9px 10px;
+  min-width: 0;
+}
+
+.persona-col + .persona-col {
+  border-left: 1px solid var(--line);
+}
+
+.persona-name {
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 760;
+  line-height: 1.2;
+}
+
+.persona-score {
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 790;
+  line-height: 1.2;
+}
+
+.persona-review {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 11px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 720px) {
+  .persona-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .persona-col + .persona-col {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+}
