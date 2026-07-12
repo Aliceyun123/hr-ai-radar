@@ -89,6 +89,34 @@ class TestTitleNeedsEnhanceGate(unittest.TestCase):
         }
         self.assertFalse(title_needs_enhance(item))
 
+    def test_fullwidth_year_suffixed_cjk_title_on_discussion_tier_is_gated(self):
+        # Regression for buzzing.cc-style upstream-pre-translated cryptic
+        # titles: a long CJK title (>=12 chars) ending in a full-width
+        # parenthesized year used to hit the CJK-length exemption before the
+        # year-suffix rule ever ran, so it never got enhanced.
+        zh_title = '"反向半人马"是解决人工智能悖论的答案（2025）'
+        item = {
+            "site_id": "buzzing",
+            "source_tier": "discussion",
+            "title": zh_title,
+            "title_original": zh_title,
+            "title_zh": zh_title,
+            "title_en": None,
+        }
+        self.assertTrue(title_needs_enhance(item))
+
+    def test_fullwidth_year_suffixed_cjk_title_on_official_tier_is_not_gated(self):
+        zh_title = '"反向半人马"是解决人工智能悖论的答案（2025）'
+        item = {
+            "site_id": "official_media",
+            "source_tier": "official",
+            "title": zh_title,
+            "title_original": zh_title,
+            "title_zh": zh_title,
+            "title_en": None,
+        }
+        self.assertFalse(title_needs_enhance(item))
+
     def test_short_chinese_title_under_12_chars_can_still_gate(self):
         # Sanity check for the new CJK floor: it only exempts titles that are
         # already long enough to be self-explanatory (>=12 chars), not short

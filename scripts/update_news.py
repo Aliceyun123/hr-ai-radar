@@ -4757,7 +4757,7 @@ TITLE_ENHANCE_CACHE_PREFIX = "te1|"
 _TITLE_ENHANCE_GATED_TIERS = {"discussion", "aggregate", "community"}
 _TITLE_ENHANCE_EXEMPT_TIERS = {"official", "curated"}
 
-_TITLE_ENHANCE_YEAR_SUFFIX_RE = re.compile(r"\(20\d{2}\)\s*$")
+_TITLE_ENHANCE_YEAR_SUFFIX_RE = re.compile(r"[(（]20\d{2}[)）]\s*$")
 
 _TITLE_ENHANCE_ENTITY_RE = re.compile(r"[A-Za-z][A-Za-z0-9]+")
 
@@ -4774,6 +4774,19 @@ def title_needs_enhance(item: dict[str, Any]) -> bool:
     zh_title = str(item.get("title_zh") or "").strip()
     en_title = str(item.get("title_en") or item.get("title_original") or "").strip()
     effective_title = zh_title or en_title
+
+    # Upstream-pre-translated cryptic titles ending in a parenthesized year
+    # (half-width "(2025)" or full-width "（2025）") are a strong "this is an
+    # aggregator/discussion repost, not a real headline" signal on their own.
+    # This must run BEFORE the CJK-length exemption below: those titles are
+    # often long CJK strings that would otherwise be waved through as
+    # already self-explanatory.
+    if (
+        tier in _TITLE_ENHANCE_GATED_TIERS
+        and effective_title
+        and _TITLE_ENHANCE_YEAR_SUFFIX_RE.search(effective_title)
+    ):
+        return True
 
     # A decent-length Chinese title is already self-explanatory; never gate it,
     # regardless of tier. Guards against CJK titles false-positiving on the
