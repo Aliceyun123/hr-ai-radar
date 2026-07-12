@@ -1,658 +1,8 @@
 {
-  "generated_at": "2026-07-12T21:50:17.048005Z",
+  "generated_at": "2026-07-12T22:49:30.784100Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3822e0e0e383",
-      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": null,
-          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T02:23:05.249000Z"
-        },
-        {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48876505",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:38:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": null,
-          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T02:23:05.249000Z"
-        },
-        {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48876505",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:38:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7551,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T22:38:57Z",
-      "latest_at": "2026-07-12T02:23:05.249000Z",
-      "primary_item": {
-        "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
-        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-        "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-        "title_en": null,
-        "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-        "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94a1c14fcbb4",
-      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-      "url": "https://x.com/dotey/status/2076372677577576864",
-      "primary_url": "https://x.com/dotey/status/2076372677577576864",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9522,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T18:26:38Z",
-      "latest_at": "2026-07-12T18:26:38Z",
-      "primary_item": {
-        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "title_en": null,
-        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-        "url": "https://x.com/dotey/status/2076372677577576864",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2d32142bc0da",
-      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_en": null,
-          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_en": null,
-          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9246,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T16:24:32Z",
-      "latest_at": "2026-07-12T16:24:32Z",
-      "primary_item": {
-        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "title_en": null,
-        "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_169d19b44b6c",
-      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-      "url": "https://x.com/satyanadella/status/2076323181154230284",
-      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "title_en": "http://x.com/i/article/2076319195718090753",
-          "title_original": "http://x.com/i/article/2076319195718090753",
-          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "title_en": "http://x.com/i/article/2076319195718090753",
-          "title_original": "http://x.com/i/article/2076319195718090753",
-          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T15:09:57Z",
-      "latest_at": "2026-07-12T15:09:57Z",
-      "primary_item": {
-        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-        "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-        "title_en": "http://x.com/i/article/2076319195718090753",
-        "title_original": "http://x.com/i/article/2076319195718090753",
-        "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-        "url": "https://x.com/satyanadella/status/2076323181154230284",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2e50379c134a",
-      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "summary": null,
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "summary": null,
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8339,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T09:15:49Z",
-      "latest_at": "2026-07-12T09:15:49Z",
-      "primary_item": {
-        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-        "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "summary": null,
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "summary": null,
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7473,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_65908dd1ce5d",
-      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-      "url": "https://www.ithome.com/0/975/646.htm",
-      "primary_url": "https://www.ithome.com/0/975/646.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
-          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
-          "url": "https://www.ithome.com/0/975/646.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T00:44:43Z"
-        },
-        {
-          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
-          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "title_en": null,
-          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "summary": null,
-          "url": "https://www.ithome.com/0/975/646.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:44:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
-          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
-          "url": "https://www.ithome.com/0/975/646.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T00:44:43Z"
-        },
-        {
-          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
-          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "title_en": null,
-          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-          "summary": null,
-          "url": "https://www.ithome.com/0/975/646.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:44:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7374,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T00:44:43Z",
-      "latest_at": "2026-07-12T00:44:43Z",
-      "primary_item": {
-        "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
-        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-        "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-        "title_en": null,
-        "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-        "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
-        "url": "https://www.ithome.com/0/975/646.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_b21c70de14cb",
       "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
@@ -749,15 +99,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7618,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -781,75 +131,497 @@
       }
     },
     {
-      "story_id": "story_8d5a4110e827",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_94a1c14fcbb4",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "primary_url": "https://x.com/dotey/status/2076372677577576864",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-12T03:09:47Z"
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "X：宝玉 (@dotey)"
       ],
       "items": [
         {
-          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-12T03:09:47Z"
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-12T03:09:47Z",
-      "latest_at": "2026-07-12T03:09:47Z",
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
       "primary_item": {
-        "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-        "summary": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+        "url": "https://x.com/dotey/status/2076372677577576864",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de58394b679",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+      "url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9327,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+        "url": "https://x.com/thsottiaux/status/2076365965915467978",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d32142bc0da",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_en": null,
+          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_en": null,
+          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9115,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "title_en": null,
+        "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_169d19b44b6c",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "title_en": "http://x.com/i/article/2076319195718090753",
+          "title_original": "http://x.com/i/article/2076319195718090753",
+          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "title_en": "http://x.com/i/article/2076319195718090753",
+          "title_original": "http://x.com/i/article/2076319195718090753",
+          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8953,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+        "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "title_en": "http://x.com/i/article/2076319195718090753",
+        "title_original": "http://x.com/i/article/2076319195718090753",
+        "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+        "url": "https://x.com/satyanadella/status/2076323181154230284",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2e50379c134a",
+      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        },
+        {
+          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "summary": null,
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        },
+        {
+          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "summary": null,
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8221,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T09:15:49Z",
+      "latest_at": "2026-07-12T09:15:49Z",
+      "primary_item": {
+        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+        "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+        "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+        "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+        "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
+        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_65908dd1ce5d",
+      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+      "url": "https://www.ithome.com/0/975/646.htm",
+      "primary_url": "https://www.ithome.com/0/975/646.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T00:44:43Z"
+        },
+        {
+          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
+          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_en": null,
+          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:44:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T00:44:43Z"
+        },
+        {
+          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
+          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_en": null,
+          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:44:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.727,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T00:44:43Z",
+      "latest_at": "2026-07-12T00:44:43Z",
+      "primary_item": {
+        "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "title_en": null,
+        "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+        "url": "https://www.ithome.com/0/975/646.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -922,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8785,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -951,6 +723,179 @@
         "url": "https://github.com/cosmtrek/mindwalk",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "summary": null,
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "summary": null,
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7367,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d5a4110e827",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7528,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T03:09:47Z",
+      "latest_at": "2026-07-12T03:09:47Z",
+      "primary_item": {
+        "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "summary": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -1023,15 +968,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7577,
+        "recency": 0.747,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1050,6 +995,78 @@
         "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
         "url": "https://www.ithome.com/0/975/666.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": null,
+          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": null,
+          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7444,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T02:23:05.249000Z",
+      "latest_at": "2026-07-12T02:23:05.249000Z",
+      "primary_item": {
+        "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "title_en": null,
+        "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1123,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7229,
+        "recency": 0.7126,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1326,15 +1343,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6763,
-      "importance": 0.6763,
-      "importance_score": 0.6763,
+      "score": 0.6738,
+      "importance": 0.6738,
+      "importance_score": 0.6738,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9467,
+        "recency": 0.9333,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1505,15 +1522,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6121,
+      "importance": 0.6121,
+      "importance_score": 0.6121,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9518,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1631,15 +1648,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5667,
-      "importance": 0.5667,
-      "importance_score": 0.5667,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9772,
+        "recency": 0.9634,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1757,15 +1774,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9661,
+        "recency": 0.9525,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1787,137 +1804,137 @@
       }
     },
     {
-      "story_id": "story_be381b18cc59",
-      "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-      "url": "https://www.adaptiverecall.com",
-      "primary_url": "https://www.adaptiverecall.com",
-      "source": "www.adaptiverecall.com",
+      "story_id": "story_392ad56cd351",
+      "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+      "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "primary_url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "source": "medium.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "title_zh": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "title_zh": "知己知彼：对人工智能辅助软件开发的批判性探讨",
           "title_en": null,
-          "title_original": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "title_original": "知己知彼：对人工智能辅助软件开发的批判性探讨",
           "summary": null,
-          "url": "https://www.adaptiverecall.com",
-          "source": "www.adaptiverecall.com",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T21:17:10.568000Z"
+          "published_at": "2026-07-12T22:21:04.799000Z"
         },
         {
-          "id": "c444a45271c333e252b7a7a863be697238b393c2",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "title_zh": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "title_en": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "title_original": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "title_zh": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "title_en": "Know thine enemy: A critical engagement with AI-assisted software development",
+          "title_original": "Know thine enemy: A critical engagement with AI-assisted software development",
           "summary": null,
-          "url": "https://www.adaptiverecall.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T21:08:20Z"
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "www.adaptiverecall.com"
+        "Lobsters (技术社区)",
+        "medium.com"
       ],
       "items": [
         {
-          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "title_zh": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "title_zh": "知己知彼：对人工智能辅助软件开发的批判性探讨",
           "title_en": null,
-          "title_original": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "title_original": "知己知彼：对人工智能辅助软件开发的批判性探讨",
           "summary": null,
-          "url": "https://www.adaptiverecall.com",
-          "source": "www.adaptiverecall.com",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T21:17:10.568000Z"
+          "published_at": "2026-07-12T22:21:04.799000Z"
         },
         {
-          "id": "c444a45271c333e252b7a7a863be697238b393c2",
-          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "title_zh": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-          "title_en": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-          "title_original": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "title_zh": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "title_en": "Know thine enemy: A critical engagement with AI-assisted software development",
+          "title_original": "Know thine enemy: A critical engagement with AI-assisted software development",
           "summary": null,
-          "url": "https://www.adaptiverecall.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T21:08:20Z"
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9921,
+        "recency": 0.9932,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T21:08:20Z",
-      "latest_at": "2026-07-12T21:17:10.568000Z",
+      "earliest_at": "2026-07-12T22:12:06Z",
+      "latest_at": "2026-07-12T22:21:04.799000Z",
       "primary_item": {
-        "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
-        "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
-        "title_zh": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+        "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+        "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+        "title_zh": "知己知彼：对人工智能辅助软件开发的批判性探讨",
         "title_en": null,
-        "title_original": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+        "title_original": "知己知彼：对人工智能辅助软件开发的批判性探讨",
         "summary": null,
-        "url": "https://www.adaptiverecall.com",
-        "source": "www.adaptiverecall.com",
+        "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+        "source": "medium.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_61e1ad2b47b9",
-      "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-      "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-      "primary_url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "story_id": "story_b94bb6a41fa0",
+      "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+      "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
+      "primary_url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "title_zh": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
+          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+          "title_zh": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
           "title_en": null,
-          "title_original": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "title_original": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
           "summary": null,
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T20:46:20.809000Z"
+          "published_at": "2026-07-12T22:21:04.917000Z"
         },
         {
-          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "title_zh": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "title_en": "The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "title_original": "The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "id": "96c340d04be5d482cd8910b57171cd3546550c88",
+          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法 / Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
+          "title_zh": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+          "title_en": "Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
+          "title_original": "Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
           "summary": null,
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T20:24:48Z"
+          "published_at": "2026-07-12T22:00:58Z"
         }
       ],
       "source_count": 2,
@@ -1927,256 +1944,158 @@
       ],
       "items": [
         {
-          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "title_zh": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
+          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+          "title_zh": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
           "title_en": null,
-          "title_original": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "title_original": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
           "summary": null,
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T20:46:20.809000Z"
+          "published_at": "2026-07-12T22:21:04.917000Z"
         },
         {
-          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
-          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "title_zh": "负责保障OpenAI人工智能安全的负责人接连离职",
-          "title_en": "The leaders responsible for keeping OpenAI's AI safe keep leaving",
-          "title_original": "The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "id": "96c340d04be5d482cd8910b57171cd3546550c88",
+          "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法 / Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
+          "title_zh": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+          "title_en": "Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
+          "title_original": "Sam Atman shares the 'most reliable' way to tell that ChatGPT 5.6 is now the best model in the world",
           "summary": null,
-          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T20:24:48Z"
+          "published_at": "2026-07-12T22:00:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9847,
+        "recency": 0.9932,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T20:24:48Z",
-      "latest_at": "2026-07-12T20:46:20.809000Z",
+      "earliest_at": "2026-07-12T22:00:58Z",
+      "latest_at": "2026-07-12T22:21:04.917000Z",
       "primary_item": {
-        "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
-        "title": "负责保障OpenAI人工智能安全的负责人接连离职",
-        "title_zh": "负责保障OpenAI人工智能安全的负责人接连离职",
+        "id": "400dd5fb50feb93d9d9ac77b4d2127a3bfddfc1b",
+        "title": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
+        "title_zh": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
         "title_en": null,
-        "title_original": "负责保障OpenAI人工智能安全的负责人接连离职",
+        "title_original": "萨姆·阿特曼分享了判断ChatGPT 5.6是否已成为全球最佳模型的“最可靠”方法",
         "summary": null,
-        "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+        "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_0f42f1a43c3e",
-      "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-      "url": "https://xandergos.github.io/terrain-diffusion",
-      "primary_url": "https://xandergos.github.io/terrain-diffusion",
-      "source": "xandergos.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_zh": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_en": null,
-          "title_original": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "summary": null,
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "title_zh": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_en": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "title_original": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "summary": null,
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xandergos.github.io"
-      ],
-      "items": [
-        {
-          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_zh": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_en": null,
-          "title_original": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "summary": null,
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "xandergos.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T20:14:25.984000Z"
-        },
-        {
-          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
-          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "title_zh": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-          "title_en": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "title_original": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-          "summary": null,
-          "url": "https://xandergos.github.io/terrain-diffusion",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T19:56:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9772,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T19:56:07Z",
-      "latest_at": "2026-07-12T20:14:25.984000Z",
-      "primary_item": {
-        "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
-        "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-        "title_zh": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-        "title_en": null,
-        "title_original": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
-        "summary": null,
-        "url": "https://xandergos.github.io/terrain-diffusion",
-        "source": "xandergos.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2596075911d3",
-      "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "primary_url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "story_id": "story_774f7412d1a3",
+      "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+      "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+      "primary_url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
-          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
-          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
-          "title_en": "A no-brainer for protecting your brain",
-          "title_original": "A no-brainer for protecting your brain",
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "title_zh": "“停止削减群摄像头”（大规模监控是好的）[视频]",
+          "title_en": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "title_original": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
           "summary": null,
-          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T15:23:59Z"
+          "published_at": "2026-07-12T20:39:01Z"
         },
         {
-          "id": "a189fb3d7493b75c026dbf64148fd39b29520f86",
-          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / The shingles vaccine may reduce the risk of dementia",
-          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
-          "title_en": "The shingles vaccine may reduce the risk of dementia",
-          "title_original": "The shingles vaccine may reduce the risk of dementia",
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "title_zh": "在浏览器中运行 Claude 和 Codex [视频]",
+          "title_en": "Run Claude and Codex in the Browser [video]",
+          "title_original": "Run Claude and Codex in the Browser [video]",
           "summary": null,
-          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T15:23:59Z"
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "HN Algolia · AI 24h",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
-          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
-          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
-          "title_en": "A no-brainer for protecting your brain",
-          "title_original": "A no-brainer for protecting your brain",
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "title_zh": "“停止削减群摄像头”（大规模监控是好的）[视频]",
+          "title_en": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "title_original": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
           "summary": null,
-          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T15:23:59Z"
+          "published_at": "2026-07-12T20:39:01Z"
         },
         {
-          "id": "a189fb3d7493b75c026dbf64148fd39b29520f86",
-          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / The shingles vaccine may reduce the risk of dementia",
-          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
-          "title_en": "The shingles vaccine may reduce the risk of dementia",
-          "title_original": "The shingles vaccine may reduce the risk of dementia",
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "title_zh": "在浏览器中运行 Claude 和 Codex [视频]",
+          "title_en": "Run Claude and Codex in the Browser [video]",
+          "title_original": "Run Claude and Codex in the Browser [video]",
           "summary": null,
-          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T15:23:59Z"
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9112,
+        "recency": 0.9691,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T15:23:59Z",
-      "latest_at": "2026-07-12T15:23:59Z",
+      "earliest_at": "2026-07-12T03:39:10Z",
+      "latest_at": "2026-07-12T20:39:01Z",
       "primary_item": {
-        "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
-        "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
-        "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
-        "title_en": "A no-brainer for protecting your brain",
-        "title_original": "A no-brainer for protecting your brain",
+        "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+        "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+        "title_zh": "“停止削减群摄像头”（大规模监控是好的）[视频]",
+        "title_en": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+        "title_original": "\"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
         "summary": null,
-        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
