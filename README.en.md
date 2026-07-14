@@ -34,7 +34,7 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 expand inline into three-persona side-by-side reviews (Pragmatist, Cynic, Paper Police). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
+**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 are pinned in a dedicated "Today's TOP3" board with three-persona side-by-side reviews (Pragmatist, Cynic, Stickler). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
@@ -56,7 +56,16 @@ Its core logic is **Scout Skill**. It helps you find the thoroughbreds among a p
 
 Judge first. Then connect.
 
-![AI News Radar v0.9 overview screenshot](assets/screenshots/radar-v09-overview.png)
+<table>
+  <tr>
+    <td width="30%" valign="top"><img src="assets/screenshots/radar-v09-mobile.png" alt="Mobile view (default) screenshot"></td>
+    <td width="70%" valign="top"><img src="assets/screenshots/radar-v09-classic.png" alt="Classic desktop view (/classic/) screenshot"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile view</b> (default on all devices)</td>
+    <td align="center"><b>Classic view</b> (top-right "view" switch, served at <code>/classic/</code>)</td>
+  </tr>
+</table>
 
 ## v0.9: single-layer IA + title enhancement
 
@@ -83,9 +92,12 @@ Whether a story matters depends on who you are. v0.8 gives the daily brief swapp
 |---------|----|----|
 | **Pragmatist** (default) | `pragmatic` | Only cares what practitioners can use today |
 | **Cynic** | `cynic` | Punctures marketing spin and hype — sarcastic, but grounded in facts |
-| **Paper Police** | `paper-police` | Only trusts papers/code/benchmarks; zero tolerance for "coming soon" |
+| **Stickler** | `paper-police` | Only trusts papers/code/benchmarks; zero tolerance for "coming soon" |
 
-- The daily 20 picks are scored and reviewed by the default persona; stories that make the daily TOP3 expand inline in their timeline card to show all three personas side by side — one story, three angles.
+- The daily 20 picks are scored and reviewed by the default persona (each curated card carries its one-line review); stories that make the daily TOP3 are pinned in the homepage "Today's TOP3" board with all three personas side by side — one story, three angles.
+
+![Today's TOP3 three-persona side-by-side reviews screenshot](assets/screenshots/radar-v09-top3-personas.png)
+
 - Each persona is one markdown file under `personas/` (frontmatter + system prompt). Change the taste by editing one file; create a new one following [personas/README.md](personas/README.md) and PR it to join the built-in list.
 - LLM reviews require a `DEEPSEEK_API_KEY` upstream. Without it the whole pipeline still runs — it degrades gracefully to rule-based scores, and both the site and the skill keep working.
 
@@ -126,7 +138,7 @@ It is closer to a lightweight news pipeline: source judgement, fetching, dedupli
 - Multiple sources covering the same event collapse into the card's "N sources" chip — expand it to compare each outlet's own title and wording, reducing duplicate reading
 - Use AI labels to judge whether an item is better for a post, short video, or hands-on tool test
 - Use signals such as multi-source overlap, official-first source, and single-source watch item to judge topic credibility and priority
-- Persona reviews double as topic research: the Pragmatist says it's useful, the Cynic says it's spin, the Paper Police says there's no evidence — the disagreement itself is content
+- Persona reviews double as topic research: the Pragmatist says it's useful, the Cynic says it's spin, the Stickler says there's no evidence — the disagreement itself is content
 
 ### For developers and agents
 
