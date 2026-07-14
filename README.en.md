@@ -34,7 +34,7 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 are pinned in a dedicated "Today's TOP3" board with three-persona side-by-side reviews (Pragmatist, Cynic, Stickler). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
+**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review. When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
@@ -77,7 +77,7 @@ v0.8's three views (Scout Picks / AI Signal Flow / Hot board) are now one layer:
 - **Category tabs**: All/Models/Products/Devtools/Industry/Research/Community/Creator, mutually exclusive
 - **Curated/all global toggle**: curated reads the merged, AI-relevant, high-value story pool; all reads the broader AI-relevant pool (`latest-24h-all.json`, score >= 0.3). Both modes share the same timeline + date-grouping template
 - **Current hotspots board**: no fixed item cap — it shows however many stories clear the multi-source heat threshold, kept separate from the main list
-- **Real, pipeline-generated reviews**: the one-line "why it matters" review on curated cards is now written by the pipeline itself — for items that already passed the AI-relevance filter, it fetches the full article and has DeepSeek write one sentence on why it's worth reading (requires `DEEPSEEK_API_KEY`). When there's no real review, the frontend simply hides that block instead of showing a template sentence. Stories that make the daily TOP3 still expand inline into all three persona reviews side by side, in a separate section of the card
+- **Real, pipeline-generated reviews**: the one-line "why it matters" review on curated cards is now written by the pipeline itself — for items that already passed the AI-relevance filter, it fetches the full article and has DeepSeek write one sentence on why it's worth reading (requires `DEEPSEEK_API_KEY`). When there's no real review, the frontend simply hides that block instead of showing a template sentence
 - **Same-event expansion**: when 2+ sources cover the same event, the card shows an "N sources" chip — expand it to see each source's own title, outlet, and relative time
 - **Title enhancement**: when a title is too terse or jargon-heavy, the pipeline micro-crawls the source page for context (falling back to r.jina.ai on direct-fetch failure) and has an LLM rewrite it. Requires `DEEPSEEK_API_KEY`; without it, titles stay as-is and nothing else breaks
 - **Source-quality hardening**: the zeli aggregator (Hacker News 24h hot list) no longer gets a blanket allowlist pass — it now goes through the same AI-relevance scoring as every other aggregator. Bilingual title translation also gained validation: refusal-style outputs (e.g. "sorry, I can't process link content") and degenerate translations are detected and rejected, falling back to the original title instead of showing garbled text
@@ -85,6 +85,8 @@ v0.8's three views (Scout Picks / AI Signal Flow / Hot board) are now one layer:
 - **aggregator sub-source classification**: items from aggregator sites get a further breakdown chip — X / WeChat / HN / RSS — right after the channel chip
 
 ## v0.8: three-persona reviews
+
+> Note: the **web display** of the three personas is temporarily parked (styling to be redesigned — see [docs/ROADMAP.md](docs/ROADMAP.md)); the data pipeline still scores and reviews every day, and the Skill daily brief is unaffected.
 
 Whether a story matters depends on who you are. v0.8 gives the daily brief swappable "tastes":
 
@@ -94,10 +96,7 @@ Whether a story matters depends on who you are. v0.8 gives the daily brief swapp
 | **Cynic** | `cynic` | Punctures marketing spin and hype — sarcastic, but grounded in facts |
 | **Stickler** | `paper-police` | Only trusts papers/code/benchmarks; zero tolerance for "coming soon" |
 
-- The daily 20 picks are scored and reviewed by the default persona (each curated card carries its one-line review); stories that make the daily TOP3 are pinned in the homepage "Today's TOP3" board with all three personas side by side — one story, three angles.
-
-![Today's TOP3 three-persona side-by-side reviews screenshot](assets/screenshots/radar-v09-top3-personas.png)
-
+- The daily 20 picks are scored and reviewed by the default persona; stories that make the daily TOP3 get scored by all three personas — one story, three angles (the reviews live in `data/daily-brief.json` and `data/top3-personas.json`, consumed directly by the Skill brief).
 - Each persona is one markdown file under `personas/` (frontmatter + system prompt). Change the taste by editing one file; create a new one following [personas/README.md](personas/README.md) and PR it to join the built-in list.
 - LLM reviews require a `DEEPSEEK_API_KEY` upstream. Without it the whole pipeline still runs — it degrades gracefully to rule-based scores, and both the site and the skill keep working.
 
@@ -126,7 +125,7 @@ It is closer to a lightweight news pipeline: source judgement, fetching, dedupli
 - Use the "All/Models/Products/Devtools/Industry/Research/Community/Creator" category tabs to jump straight to what you care about
 - Use the curated/all global toggle: curated shows high-value story timelines; switch to all when you need to backfill or search the broader AI-relevant pool
 - The main list is sorted newest-first and grouped by day, so you can scan what happened today vs. yesterday at a glance; "current hotspots" is a separate, uncapped board for what's hottest right now
-- Every curated card carries a one-line "why it matters" review, written by the pipeline itself — the block is simply hidden when there's no real review; stories in the daily TOP3 expand inline into all three persona reviews
+- Every curated card carries a one-line "why it matters" review, written by the pipeline itself — the block is simply hidden when there's no real review
 - When the same event is covered by multiple sources, the card shows an "N sources" chip — expand it to read each source's own title instead of clicking through duplicates
 - If a title reads like jargon or an abbreviation, sites with `DEEPSEEK_API_KEY` configured will show the LLM-rewritten, more complete version
 - Locate updates quickly with the specific-source filter and keyword search

@@ -1072,6 +1072,10 @@ function buildEventSourceList(row) {
 
 const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "较真党" };
 
+// 三口味 persona 的网页展示暂时下线（2026-07-15 归档，样式待重设计，见 docs/ROADMAP.md）。
+// 数据管线（persona_score.py）与 Skill 端不受影响；置回 true 即恢复 TOP3 板块与卡片锐评行。
+const PERSONA_UI_ENABLED = false;
+
 // 锐评字段（persona_review/persona_id）由 persona_score.py 只写进 daily-brief.json；
 // 主列表/热点榜的 story 对象来自 stories-merged.json，天然没有这两个字段，
 // 必须按 story_id 回查每日精选才能拿到锐评。
@@ -1496,7 +1500,7 @@ function renderItemNode(row) {
   }
 
   const personaSlot = node.querySelector(".persona-slot");
-  if (row.story) {
+  if (row.story && PERSONA_UI_ENABLED) {
     const personaEntry = findTop3PersonaEntry(row.story.story_id);
     const personaPanel = buildPersonaPanel(personaEntry);
     if (personaPanel) {
@@ -1721,7 +1725,7 @@ function top3BoardEntries() {
 // 常沉在几屏之外（用户翻不到，面板等于隐身），所以命中 top3-personas.json 的故事在这里置顶再展示一次。
 function renderTop3Board() {
   if (!top3BoardListEl) return;
-  const rows = top3BoardEntries();
+  const rows = PERSONA_UI_ENABLED ? top3BoardEntries() : [];
   const show = rows.length > 0;
   if (top3BoardWrapEl) top3BoardWrapEl.hidden = !show;
   if (!show) return;
