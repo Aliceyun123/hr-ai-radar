@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T17:39:21.024300Z",
+  "generated_at": "2026-07-15T19:37:09.584063Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "从搭建Shippy中学到的构建Agent经验",
           "title_en": "What building Shippy taught us about building agents",
           "title_original": "What building Shippy taught us about building agents",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+          "summary": null,
           "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
           "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
           "source": "Hugging Face Blog",
@@ -37,7 +37,7 @@
           "title_zh": "从搭建Shippy中学到的构建Agent经验",
           "title_en": "What building Shippy taught us about building agents",
           "title_original": "What building Shippy taught us about building agents",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+          "summary": null,
           "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
           "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.8596,
-      "importance_score": 0.8596,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9977,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "从搭建Shippy中学到的构建Agent经验",
         "title_en": "What building Shippy taught us about building agents",
         "title_original": "What building Shippy taught us about building agents",
-        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+        "summary": null,
         "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
         "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
         "source": "Hugging Face Blog",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
           "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+          "summary": null,
           "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
           "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
           "source": "OpenAI News",
@@ -122,7 +122,7 @@
           "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
           "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+          "summary": null,
           "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
           "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
           "source": "OpenAI News",
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8953,
+        "recency": 0.8703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +158,7 @@
         "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
         "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
         "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+        "summary": null,
         "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
         "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
         "source": "OpenAI News",
@@ -170,179 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
-      }
-    },
-    {
-      "story_id": "story_ee7d92805957",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": null,
-          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-          "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": null,
-          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": null,
-          "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
-          "title": "Cursor 0day：当完全披露成为唯一保护方式 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor 0day：当完全披露成为唯一保护方式",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": "安全研究员发现Cursor远程代码执行漏洞后，经过HackerOne确认并转交，Cursor方却拒绝所有后续回应，连领导层直接联系也无回复，最终只能通过完全公开0day来保护用户。",
-          "url": "https://news.ycombinator.com/item?id=48910676",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T20:10:18.321000Z"
-        },
-        {
-          "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T17:58:35Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "mindgard.ai"
-      ],
-      "items": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "title_en": null,
-          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-          "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": null,
-          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": null,
-          "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
-          "title": "Cursor 0day：当完全披露成为唯一保护方式 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor 0day：当完全披露成为唯一保护方式",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": "安全研究员发现Cursor远程代码执行漏洞后，经过HackerOne确认并转交，Cursor方却拒绝所有后续回应，连领导层直接联系也无回复，最终只能通过完全公开0day来保护用户。",
-          "url": "https://news.ycombinator.com/item?id=48910676",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T20:10:18.321000Z"
-        },
-        {
-          "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T17:58:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.747,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T17:58:35Z",
-      "latest_at": "2026-07-14T21:27:11.693000Z",
-      "primary_item": {
-        "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "title_en": null,
-        "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-        "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -359,7 +187,7 @@
           "title_zh": "模型路由很简单——直到它不再简单。",
           "title_en": "Model Routing Is Simple. Until It Isn’t.",
           "title_original": "Model Routing Is Simple. Until It Isn’t.",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+          "summary": null,
           "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
           "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
           "source": "Hugging Face Blog",
@@ -379,7 +207,7 @@
           "title_zh": "模型路由很简单——直到它不再简单。",
           "title_en": "Model Routing Is Simple. Until It Isn’t.",
           "title_original": "Model Routing Is Simple. Until It Isn’t.",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+          "summary": null,
           "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
           "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
           "source": "Hugging Face Blog",
@@ -390,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.997,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +243,7 @@
         "title_zh": "模型路由很简单——直到它不再简单。",
         "title_en": "Model Routing Is Simple. Until It Isn’t.",
         "title_original": "Model Routing Is Simple. Until It Isn’t.",
-        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+        "summary": null,
         "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
         "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
         "source": "Hugging Face Blog",
@@ -427,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -475,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7752,
+        "recency": 0.7535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -529,7 +357,7 @@
           "title_zh": "美国正通过州和联邦行动推进AI安全",
           "title_en": "The US is advancing AI safety through state and federal action",
           "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+          "summary": null,
           "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
           "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
           "source": "OpenAI News",
@@ -549,7 +377,7 @@
           "title_zh": "美国正通过州和联邦行动推进AI安全",
           "title_en": "The US is advancing AI safety through state and federal action",
           "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+          "summary": null,
           "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
           "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
           "source": "OpenAI News",
@@ -560,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9216,
+        "recency": 0.8958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +413,7 @@
         "title_zh": "美国正通过州和联邦行动推进AI安全",
         "title_en": "The US is advancing AI safety through state and federal action",
         "title_original": "The US is advancing AI safety through state and federal action",
-        "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+        "summary": null,
         "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
         "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
         "source": "OpenAI News",
@@ -597,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -645,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -729,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7708,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -766,7 +594,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
+      }
+    },
+    {
+      "story_id": "story_dce0062539c4",
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title_en": null,
+          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
+          "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        },
+        {
+          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "title_en": null,
+          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "summary": null,
+          "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "mindgard.ai"
+      ],
+      "items": [
+        {
+          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title_en": null,
+          "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
+          "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        },
+        {
+          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "title_en": null,
+          "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "summary": null,
+          "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7261,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T21:27:11.693000Z",
+      "latest_at": "2026-07-14T21:27:11.693000Z",
+      "primary_item": {
+        "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
+        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+        "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+        "title_en": null,
+        "title_original": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+        "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
+        "recommend_reason_zh": "Cursor IDE 存在0day漏洞：打开包含恶意git.exe的仓库即可自动执行任意代码，无任何用户交互。该漏洞发现于2025年12月15日，七个月后仍未修复，影响700万+用户和50K+公司。",
+        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "修复更新前别乱点仓库，代码安全第一。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -814,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -850,7 +792,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -898,15 +840,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,7 +876,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -982,15 +924,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,7 +960,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1095,15 +1037,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.7301,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1132,7 +1074,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1180,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7749,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1217,7 +1159,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1265,21 +1207,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8935,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T11:49:09.104414Z",
       "latest_at": "2026-07-15T11:49:09.104414Z",
@@ -1301,150 +1242,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
-      }
-    },
-    {
-      "story_id": "story_29a1e494fbc3",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "primary_url": "https://prismml.com/news/bonsai-27b",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_en": null,
-          "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-          "recommend_reason_zh": "Bonsai 27B推出1-bit变体仅3.9GB，首次让27B级多模态模型在iPhone 17 Pro上运行，保留90%全精度性能，支持262K上下文和代理循环。",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
-        },
-        {
-          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
-          "title": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型",
-          "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": "Bonsai 27B是全球首个能直接在手机上运行的270亿参数大模型，采用1-bit量化技术，让超大规模模型在移动设备上本地部署成为可能。",
-          "url": "https://news.ycombinator.com/item?id=48910545",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T19:43:38.810000Z"
-        },
-        {
-          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级模型",
-          "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T17:50:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "title_en": null,
-          "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-          "recommend_reason_zh": "Bonsai 27B推出1-bit变体仅3.9GB，首次让27B级多模态模型在iPhone 17 Pro上运行，保留90%全精度性能，支持262K上下文和代理循环。",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19.560000Z"
-        },
-        {
-          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
-          "title": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型",
-          "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": "Bonsai 27B是全球首个能直接在手机上运行的270亿参数大模型，采用1-bit量化技术，让超大规模模型在移动设备上本地部署成为可能。",
-          "url": "https://news.ycombinator.com/item?id=48910545",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T19:43:38.810000Z"
-        },
-        {
-          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级模型",
-          "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
-          "url": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T17:50:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7299,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T17:50:48Z",
-      "latest_at": "2026-07-14T19:51:19.560000Z",
-      "primary_item": {
-        "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
-        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "title_en": null,
-        "title_original": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-        "recommend_reason_zh": "Bonsai 27B推出1-bit变体仅3.9GB，首次让27B级多模态模型在iPhone 17 Pro上运行，保留90%全精度性能，支持262K上下文和代理循环。",
-        "url": "https://prismml.com/news/bonsai-27b",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "本地跑27B模型，离线推理和隐私敏感场景直接受益，找量化方案和Demo试试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1492,21 +1290,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8021,
+        "recency": 0.7796,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T02:22:50Z",
       "latest_at": "2026-07-15T02:22:50Z",
@@ -1528,7 +1325,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
+      }
+    },
+    {
+      "story_id": "story_9906209d7282",
+      "title": "Telegram 无服务器架构",
+      "url": "https://core.telegram.org/bots/serverless",
+      "primary_url": "https://core.telegram.org/bots/serverless",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "title_zh": "Telegram 无服务器架构",
+          "title_en": null,
+          "title_original": "Telegram 无服务器架构",
+          "summary": "Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。",
+          "recommend_reason_zh": "本文详解Telegram Serverless如何让开发者只需写plain JavaScript modules，通过npx tgcloud push一条命令部署至V8沙箱，彻底免去服务器与容器管理，附完整demo bot演示。",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "title_zh": "Telegram 无服务器架构",
+          "title_en": null,
+          "title_original": "Telegram 无服务器架构",
+          "summary": "Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。",
+          "recommend_reason_zh": "本文详解Telegram Serverless如何让开发者只需写plain JavaScript modules，通过npx tgcloud push一条命令部署至V8沙箱，彻底免去服务器与容器管理，附完整demo bot演示。",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T15:37:19.450000Z",
+      "latest_at": "2026-07-15T15:37:19.450000Z",
+      "primary_item": {
+        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+        "title": "Telegram 无服务器架构",
+        "title_zh": "Telegram 无服务器架构",
+        "title_en": null,
+        "title_original": "Telegram 无服务器架构",
+        "summary": "Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。",
+        "recommend_reason_zh": "本文详解Telegram Serverless如何让开发者只需写plain JavaScript modules，通过npx tgcloud push一条命令部署至V8沙箱，彻底免去服务器与容器管理，附完整demo bot演示。",
+        "url": "https://core.telegram.org/bots/serverless",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "今天就能用，部署 Telegram AI Bot 的官方指导，省去自己搭服务器。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1576,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8035,
+        "recency": 0.7811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1611,63 +1492,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
-      "story_id": "story_3c7e9dc57dbe",
-      "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "source": "GitHub Changelog",
+      "story_id": "story_9555e4e5c4d9",
+      "title": "欢迎Thinking Machines推出Inkling / Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "primary_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
+          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+          "title": "欢迎Thinking Machines推出Inkling / Welcome Inkling by Thinking Machines",
+          "title_zh": "欢迎Thinking Machines推出Inkling",
+          "title_en": "Welcome Inkling by Thinking Machines",
+          "title_original": "Welcome Inkling by Thinking Machines",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+          "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
+          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+          "title": "欢迎Thinking Machines推出Inkling / Welcome Inkling by Thinking Machines",
+          "title_zh": "欢迎Thinking Machines推出Inkling",
+          "title_en": "Welcome Inkling by Thinking Machines",
+          "title_original": "Welcome Inkling by Thinking Machines",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+          "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7232,
+        "ai_relevance": 0.95,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1676,27 +1557,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
+      "earliest_at": "2026-07-15T00:00:00Z",
+      "latest_at": "2026-07-15T00:00:00Z",
       "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-        "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-        "title_en": "Code scanning shows AI security detections on pull requests",
-        "title_original": "Code scanning shows AI security detections on pull requests",
-        "summary": null,
-        "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "source": "GitHub Changelog",
+        "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
+        "title": "欢迎Thinking Machines推出Inkling / Welcome Inkling by Thinking Machines",
+        "title_zh": "欢迎Thinking Machines推出Inkling",
+        "title_en": "Welcome Inkling by Thinking Machines",
+        "title_original": "Welcome Inkling by Thinking Machines",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+        "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
+        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。",
+      "persona_score": 65,
+      "persona_review": "新工具发布，但细节不多，等API或源码出来再评估。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1744,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1779,7 +1660,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     },
     {
@@ -1827,21 +1708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8935,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T11:49:09.104414Z",
       "latest_at": "2026-07-15T11:49:09.104414Z",
@@ -1863,7 +1743,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T17:48:50.238121Z"
+        "scored_at": "2026-07-15T19:45:35.149117Z"
       }
     }
   ]

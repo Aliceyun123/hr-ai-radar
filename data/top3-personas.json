@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T17:48:59.349289Z",
+  "generated_at": "2026-07-15T19:46:08.058300Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_29a1e494fbc3",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://prismml.com/news/bonsai-27b",
+      "story_id": "story_183d53d9be78",
+      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "27B模型跑手机？量化到3-bit还能叫多模态？体验估计比PPT还卡。"
+          "score": 60,
+          "review": "第一？先看看对比了哪几家、测试条件是不是自家后院。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有宣称，无论文代码或第三方评测，真实性待考证。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "本地跑27B模型，离线推理和隐私敏感场景直接受益，找量化方案和Demo试试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_ee7d92805957",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
           "score": 30,
-          "review": "AI 自动补代码倒是挺欢，自动补个安全补丁怎么没这积极性？"
-        },
-        "paper-police": {
-          "score": 15,
-          "review": "仅有一篇博客宣称漏洞，无论文无PoC代码，无法验证真实性。"
+          "review": "仅有官方宣称，无论文无代码，排名需第三方验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。"
+          "review": "新模型登顶语音推理榜，实测可换。"
         }
       }
     },
     {
-      "story_id": "story_3c7e9dc57dbe",
-      "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "story_id": "story_e87a72b3d6ec",
+      "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "人类质感这个词被用烂了，先证明它不是另一个自嗨的指标。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有博客宣称，无论文代码和第三方评测，无法验证人类质感指标。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "量化语音AI拟人度，今天就能用来评估和优化模型。"
+        }
+      }
+    },
+    {
+      "story_id": "story_9906209d7282",
+      "title": "Telegram 无服务器架构",
+      "url": "https://core.telegram.org/bots/serverless",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 75,
-          "review": "终于把AI检测结果塞进PR界面了，希望误报率别和之前一样感人。"
+          "review": "无服务器三个字被你们说烂了，不过这次至少是个真能用上的功能，不是画饼。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方博客宣布新功能，无论文无代码无评测，无法独立验证。"
+          "score": 20,
+          "review": "官方文档有架构描述，但无论文、代码和benchmark，无法独立验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。"
+          "score": 88,
+          "review": "今天就能用，部署 Telegram AI Bot 的官方指导，省去自己搭服务器。"
         }
       }
     }
