@@ -336,6 +336,30 @@
       "review": "只有CEO说法，无论文代码评测，无法验证真伪。",
       "title_hash": "93bba0d2",
       "scored_at": "2026-07-15T06:37:25.830300Z"
+    },
+    "story_b1e5b535f0b4|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "备案是好事，但没 API 和文档前，只能先围观。",
+      "title_hash": "4820a55a",
+      "scored_at": "2026-07-15T09:32:03.843029Z"
+    },
+    "story_64f3c9bc3658|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全事件需留意，但无直接工具可换，等官方修复或补偿方案。",
+      "title_hash": "10b58dea",
+      "scored_at": "2026-07-15T09:32:07.084795Z"
+    },
+    "story_84819c7ab252|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "还没发布的产品，等有实测或API再关注。",
+      "title_hash": "f1ac5e1f",
+      "scored_at": "2026-07-15T09:32:09.408421Z"
+    },
+    "story_5a72ffa5ea7e|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "面向终端用户的AI办公客户端，非开发者工具，暂不关注。",
+      "title_hash": "013a2249",
+      "scored_at": "2026-07-15T09:32:12.325231Z"
     }
   }
 }
