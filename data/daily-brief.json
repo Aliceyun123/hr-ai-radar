@@ -1,29 +1,144 @@
 {
-  "generated_at": "2026-07-16T14:24:25.921014Z",
+  "generated_at": "2026-07-16T16:42:31.828035Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_284815e6209e",
-      "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "story_id": "story_187b1be42679",
+      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "title_en": "Create, edit and star in videos with two Google Vids updates",
+          "title_original": "Create, edit and star in videos with two Google Vids updates",
+          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+          "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        },
+        {
+          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create， edit and star in videos with two Google Vids updates",
+          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "title_en": "Create， edit and star in videos with two Google Vids updates",
+          "title_original": "Create， edit and star in videos with two Google Vids updates",
+          "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
+          "recommend_reason_zh": "Google Vids推出Gemini Omni，支持用文字提示和图像参考生成编辑视频；新增personal avatars，上传自拍和语音即可创建数字分身，无需上镜即可出镜。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "title_en": "Create, edit and star in videos with two Google Vids updates",
+          "title_original": "Create, edit and star in videos with two Google Vids updates",
+          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+          "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        },
+        {
+          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create， edit and star in videos with two Google Vids updates",
+          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "title_en": "Create， edit and star in videos with two Google Vids updates",
+          "title_original": "Create， edit and star in videos with two Google Vids updates",
+          "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
+          "recommend_reason_zh": "Google Vids推出Gemini Omni，支持用文字提示和图像参考生成编辑视频；新增personal avatars，上传自拍和语音即可创建数字分身，无需上镜即可出镜。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9898,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+        "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+        "title_en": "Create, edit and star in videos with two Google Vids updates",
+        "title_original": "Create, edit and star in videos with two Google Vids updates",
+        "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+        "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "面向C端的产品更新，对开发者暂无直接可用的API或工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_95e34e657e86",
+      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-          "title_zh": "模型更新，优势依旧",
-          "title_en": "Newer Models, Same Advantage",
-          "title_original": "Newer Models, Same Advantage",
-          "summary": null,
-          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
+          "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+          "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
+          "published_at": "2026-07-16T16:01:21Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +147,31 @@
       ],
       "items": [
         {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-          "title_zh": "模型更新，优势依旧",
-          "title_en": "Newer Models, Same Advantage",
-          "title_original": "Newer Models, Same Advantage",
-          "summary": null,
-          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
+          "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+          "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
+          "published_at": "2026-07-16T16:01:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8642,
+      "importance": 0.8642,
+      "importance_score": 0.8642,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9635,
+        "ai_relevance": 0.98,
+        "recency": 0.9901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,27 +180,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T11:49:48Z",
-      "latest_at": "2026-07-16T11:49:48Z",
+      "earliest_at": "2026-07-16T16:01:21Z",
+      "latest_at": "2026-07-16T16:01:21Z",
       "primary_item": {
-        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-        "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-        "title_zh": "模型更新，优势依旧",
-        "title_en": "Newer Models, Same Advantage",
-        "title_original": "Newer Models, Same Advantage",
-        "summary": null,
-        "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+        "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+        "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
+        "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+        "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
+      "persona_score": 75,
+      "persona_review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_ee917382d959",
+      "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
+          "title_zh": "为什么青少年值得使用安全的AI",
+          "title_en": "Why teens deserve access to safe AI",
+          "title_original": "Why teens deserve access to safe AI",
+          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+          "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
+          "title_zh": "为什么青少年值得使用安全的AI",
+          "title_en": "Why teens deserve access to safe AI",
+          "title_original": "Why teens deserve access to safe AI",
+          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+          "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "ed38a837e6df66b70357bb878fdb525481735328",
+        "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
+        "title_zh": "为什么青少年值得使用安全的AI",
+        "title_en": "Why teens deserve access to safe AI",
+        "title_original": "Why teens deserve access to safe AI",
+        "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+        "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "社会倡议，无新工具或API，开发者不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -249,15 +449,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7503,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -286,7 +486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -334,15 +534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8122,
+        "recency": 0.7856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -371,7 +571,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -419,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9317,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "official",
@@ -456,7 +656,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_284815e6209e",
+      "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": null,
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T11:49:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": null,
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T11:49:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.932,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T11:49:48Z",
+      "latest_at": "2026-07-16T11:49:48Z",
+      "primary_item": {
+        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+        "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+        "title_zh": "模型更新，优势依旧",
+        "title_en": "Newer Models, Same Advantage",
+        "title_original": "Newer Models, Same Advantage",
+        "summary": null,
+        "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_b3af4b376b32",
+      "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+          "title_zh": "将更多应用连接到 Search",
+          "title_en": "Connect more of your apps to Search",
+          "title_original": "Connect more of your apps to Search",
+          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+          "title_zh": "将更多应用连接到 Search",
+          "title_en": "Connect more of your apps to Search",
+          "title_original": "Connect more of your apps to Search",
+          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+        "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+        "title_zh": "将更多应用连接到 Search",
+        "title_en": "Connect more of your apps to Search",
+        "title_original": "Connect more of your apps to Search",
+        "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+        "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "产品功能扩展，等具体API开放后再接入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -504,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7963,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -541,27 +911,27 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
-      "story_id": "story_f5dc0234fef8",
-      "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face Blog",
+      "story_id": "story_1d0a52bac8ca",
+      "title": "Cars24如何借助OpenAI扩展对话能力并加速开发 / How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "primary_url": "https://openai.com/index/cars24",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-          "title_zh": "安全事件披露——2026年7月",
-          "title_en": "Security incident disclosure — July 2026",
-          "title_original": "Security incident disclosure — July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-          "url": "https://huggingface.co/blog/security-incident-july-2026",
-          "source": "Hugging Face Blog",
+          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+          "title": "Cars24如何借助OpenAI扩展对话能力并加速开发 / How Cars24 scales conversations and builds faster with OpenAI",
+          "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
+          "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
+          "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
+          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+          "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
+          "url": "https://openai.com/index/cars24",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-16T00:00:00Z"
@@ -569,19 +939,19 @@
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-          "title_zh": "安全事件披露——2026年7月",
-          "title_en": "Security incident disclosure — July 2026",
-          "title_original": "Security incident disclosure — July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-          "url": "https://huggingface.co/blog/security-incident-july-2026",
-          "source": "Hugging Face Blog",
+          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+          "title": "Cars24如何借助OpenAI扩展对话能力并加速开发 / How Cars24 scales conversations and builds faster with OpenAI",
+          "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
+          "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
+          "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
+          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+          "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
+          "url": "https://openai.com/index/cars24",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-16T00:00:00Z"
@@ -589,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8122,
+        "ai_relevance": 0.91,
+        "recency": 0.7856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,24 +979,24 @@
       "earliest_at": "2026-07-16T00:00:00Z",
       "latest_at": "2026-07-16T00:00:00Z",
       "primary_item": {
-        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-        "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-        "title_zh": "安全事件披露——2026年7月",
-        "title_en": "Security incident disclosure — July 2026",
-        "title_original": "Security incident disclosure — July 2026",
-        "summary": null,
-        "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-        "url": "https://huggingface.co/blog/security-incident-july-2026",
-        "source": "Hugging Face Blog",
+        "id": "48799bf8785bffe1caa48542043220ab69aaac18",
+        "title": "Cars24如何借助OpenAI扩展对话能力并加速开发 / How Cars24 scales conversations and builds faster with OpenAI",
+        "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
+        "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
+        "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
+        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+        "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
+        "url": "https://openai.com/index/cars24",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "安全公告，暂无行动要求，建议检查个人账号密钥是否受影响。",
+      "persona_score": 55,
+      "persona_review": "案例看看思路，但没新工具可抄，等具体方案代码。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -674,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,7 +1080,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_2e5a4333049e",
+      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+      "url": "https://www.ithome.com/0/977/793.htm",
+      "primary_url": "https://www.ithome.com/0/977/793.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_en": null,
+          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_en": null,
+          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T14:38:08Z",
+      "latest_at": "2026-07-16T14:38:08Z",
+      "primary_item": {
+        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "title_en": null,
+        "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+        "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+        "url": "https://www.ithome.com/0/977/793.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "组织成立对写代码没影响，等有实际资源再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -787,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -824,7 +1278,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -872,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.9077,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,91 +1362,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_32cd5d03464b",
-      "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-      "url": "https://www.ithome.com/0/977/544.htm",
-      "primary_url": "https://www.ithome.com/0/977/544.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7abd67cb39105213d5074bb24760e8cb02a4d95b",
-          "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "title_zh": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "title_en": null,
-          "title_original": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "summary": "台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。",
-          "recommend_reason_zh": "台积电将2026年资本支出预测上调至600~640亿美元，A14制程（1.4nm）进展顺利预计2028量产，2026全年收入增幅超40%，HPC占比达66%。",
-          "url": "https://www.ithome.com/0/977/544.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T07:59:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7abd67cb39105213d5074bb24760e8cb02a4d95b",
-          "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "title_zh": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "title_en": null,
-          "title_original": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-          "summary": "台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。",
-          "recommend_reason_zh": "台积电将2026年资本支出预测上调至600~640亿美元，A14制程（1.4nm）进展顺利预计2028量产，2026全年收入增幅超40%，HPC占比达66%。",
-          "url": "https://www.ithome.com/0/977/544.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T07:59:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9115,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T07:59:15Z",
-      "latest_at": "2026-07-16T07:59:15Z",
-      "primary_item": {
-        "id": "7abd67cb39105213d5074bb24760e8cb02a4d95b",
-        "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-        "title_zh": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-        "title_en": null,
-        "title_original": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
-        "summary": "台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。",
-        "recommend_reason_zh": "台积电将2026年资本支出预测上调至600~640亿美元，A14制程（1.4nm）进展顺利预计2028量产，2026全年收入增幅超40%，HPC占比达66%。",
-        "url": "https://www.ithome.com/0/977/544.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "台积电扩产是长期利好，但今天写代码用不上，等A14流片再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -1040,15 +1410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1076,7 +1446,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
+      }
+    },
+    {
+      "story_id": "story_f5dc0234fef8",
+      "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+          "title_zh": "安全事件披露——2026年7月",
+          "title_en": "Security incident disclosure — July 2026",
+          "title_original": "Security incident disclosure — July 2026",
+          "summary": null,
+          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+          "title_zh": "安全事件披露——2026年7月",
+          "title_en": "Security incident disclosure — July 2026",
+          "title_original": "Security incident disclosure — July 2026",
+          "summary": null,
+          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7856,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+        "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+        "title_zh": "安全事件披露——2026年7月",
+        "title_en": "Security incident disclosure — July 2026",
+        "title_original": "Security incident disclosure — July 2026",
+        "summary": null,
+        "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+        "url": "https://huggingface.co/blog/security-incident-july-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "安全公告，暂无行动要求，建议检查个人账号密钥是否受影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -1124,15 +1579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,7 +1615,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -1237,15 +1692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8187,
+        "recency": 0.7919,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1274,7 +1729,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -1322,21 +1777,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T20:26:06Z",
       "latest_at": "2026-07-15T20:26:06Z",
@@ -1358,92 +1812,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_720e8881c84d",
-      "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-          "title_zh": "从搭建Shippy中学到的构建Agent经验",
-          "title_en": "What building Shippy taught us about building agents",
-          "title_original": "What building Shippy taught us about building agents",
-          "summary": null,
-          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-          "title_zh": "从搭建Shippy中学到的构建Agent经验",
-          "title_en": "What building Shippy taught us about building agents",
-          "title_original": "What building Shippy taught us about building agents",
-          "summary": null,
-          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7393,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:29:41Z",
-      "latest_at": "2026-07-15T17:29:41Z",
-      "primary_item": {
-        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-        "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-        "title_zh": "从搭建Shippy中学到的构建Agent经验",
-        "title_en": "What building Shippy taught us about building agents",
-        "title_original": "What building Shippy taught us about building agents",
-        "summary": null,
-        "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "经验总结而非工具，可当案例参考，今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     },
     {
@@ -1520,15 +1889,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7394,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1556,369 +1925,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_c8c596bcfc1b",
-      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "primary_url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "title_en": null,
-          "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-          "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
-          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:17:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "title_en": null,
-          "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-          "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
-          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:17:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9698,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T12:17:11Z",
-      "latest_at": "2026-07-16T12:17:11Z",
-      "primary_item": {
-        "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-        "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-        "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-        "title_en": null,
-        "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-        "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-        "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
-        "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "无代码平台更新，对专业开发者影响有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_5a09b300c8c9",
-      "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-      "url": "https://x.com/OpenBMB/status/2077741814799548451",
-      "primary_url": "https://x.com/OpenBMB/status/2077741814799548451",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
-          "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
-          "url": "https://x.com/OpenBMB/status/2077741814799548451",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-          "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
-          "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
-          "url": "https://x.com/OpenBMB/status/2077741814799548451",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9816,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T13:07:05Z",
-      "latest_at": "2026-07-16T13:07:05Z",
-      "primary_item": {
-        "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-        "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-        "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
-        "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-        "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
-        "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
-        "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
-        "url": "https://x.com/OpenBMB/status/2077741814799548451",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "直接clone就能搭建企业数字员工，省去从零开发。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_9c80708d0a0d",
-      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_en": null,
-          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": null,
-          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "summary": null,
-          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "smarterarticles.co.uk"
-      ],
-      "items": [
-        {
-          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_en": null,
-          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": null,
-          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "summary": null,
-          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.728,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T16:25:19.955000Z",
-      "latest_at": "2026-07-15T16:25:19.955000Z",
-      "primary_item": {
-        "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "title_en": null,
-        "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-        "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "提醒开发者注意语音安全，但暂无具体防御工具可即用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
-      }
-    },
-    {
-      "story_id": "story_b336a63f1703",
-      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-      "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-      "primary_url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
-          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "title_en": null,
-          "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
-          "recommend_reason_zh": "天工短剧工作台推出\"Agent智能分镜+无限画布\"双轨创作模式，用AI分镜与无边界画布释放短剧创作想象力。",
-          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
-          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "title_en": null,
-          "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
-          "recommend_reason_zh": "天工短剧工作台推出\"Agent智能分镜+无限画布\"双轨创作模式，用AI分镜与无边界画布释放短剧创作想象力。",
-          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.836,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T02:00:00Z",
-      "latest_at": "2026-07-16T02:00:00Z",
-      "primary_item": {
-        "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
-        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-        "title_zh": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-        "title_en": null,
-        "title_original": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-        "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
-        "recommend_reason_zh": "天工短剧工作台推出\"Agent智能分镜+无限画布\"双轨创作模式，用AI分镜与无边界画布释放短剧创作想象力。",
-        "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "短剧创作者可试用，普通开发者观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T14:33:53.234392Z"
+        "scored_at": "2026-07-16T16:50:42.475421Z"
       }
     }
   ]

@@ -702,6 +702,42 @@
       "review": "提醒开发者注意语音安全，但暂无具体防御工具可即用。",
       "title_hash": "74faa8fe",
       "scored_at": "2026-07-16T14:34:06.879469Z"
+    },
+    "story_187b1be42679|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "面向C端的产品更新，对开发者暂无直接可用的API或工具。",
+      "title_hash": "5fdffc70",
+      "scored_at": "2026-07-16T16:50:45.317469Z"
+    },
+    "story_95e34e657e86|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。",
+      "title_hash": "cfd475b8",
+      "scored_at": "2026-07-16T16:50:48.211996Z"
+    },
+    "story_ee917382d959|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "社会倡议，无新工具或API，开发者不用行动。",
+      "title_hash": "58c80b67",
+      "scored_at": "2026-07-16T16:50:50.395302Z"
+    },
+    "story_b3af4b376b32|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "产品功能扩展，等具体API开放后再接入。",
+      "title_hash": "f0352ec6",
+      "scored_at": "2026-07-16T16:50:54.700149Z"
+    },
+    "story_1d0a52bac8ca|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "案例看看思路，但没新工具可抄，等具体方案代码。",
+      "title_hash": "1bcd9887",
+      "scored_at": "2026-07-16T16:50:57.737454Z"
+    },
+    "story_2e5a4333049e|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "组织成立对写代码没影响，等有实际资源再说。",
+      "title_hash": "8726f061",
+      "scored_at": "2026-07-16T16:50:59.947817Z"
     }
   }
 }
