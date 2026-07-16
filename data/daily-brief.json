@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T11:54:34.901486Z",
+  "generated_at": "2026-07-16T14:24:25.921014Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_284815e6209e",
-      "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
+      "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "source": "Hugging Face Blog",
@@ -13,11 +13,11 @@
       "sources": [
         {
           "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-          "title_zh": "更新型号，同样的优势",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
           "title_en": "Newer Models, Same Advantage",
           "title_original": "Newer Models, Same Advantage",
-          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+          "summary": null,
           "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
           "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
           "source": "Hugging Face Blog",
@@ -33,11 +33,11 @@
       "items": [
         {
           "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-          "title_zh": "更新型号，同样的优势",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
           "title_en": "Newer Models, Same Advantage",
           "title_original": "Newer Models, Same Advantage",
-          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+          "summary": null,
           "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
           "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8534,
+      "importance": 0.8534,
+      "importance_score": 0.8534,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9988,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,11 +69,11 @@
       "latest_at": "2026-07-16T11:49:48Z",
       "primary_item": {
         "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-        "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-        "title_zh": "更新型号，同样的优势",
+        "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+        "title_zh": "模型更新，优势依旧",
         "title_en": "Newer Models, Same Advantage",
         "title_original": "Newer Models, Same Advantage",
-        "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+        "summary": null,
         "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
         "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
         "source": "Hugging Face Blog",
@@ -81,11 +81,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "需要点开看具体更新了什么，光看标题没法判断今天能用上。",
+      "persona_review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -249,15 +249,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.7757,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -286,92 +286,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
-      }
-    },
-    {
-      "story_id": "story_e58a2c2a018a",
-      "title": "我们的生物韧性策略 / Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-      "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-          "title": "我们的生物韧性策略 / Our approach to bioresilience",
-          "title_zh": "我们的生物韧性策略",
-          "title_en": "Our approach to bioresilience",
-          "title_original": "Our approach to bioresilience",
-          "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
-          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T09:30:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-          "title": "我们的生物韧性策略 / Our approach to bioresilience",
-          "title_zh": "我们的生物韧性策略",
-          "title_en": "Our approach to bioresilience",
-          "title_original": "Our approach to bioresilience",
-          "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
-          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T09:30:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.966,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:30:42Z",
-      "latest_at": "2026-07-16T09:30:42Z",
-      "primary_item": {
-        "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-        "title": "我们的生物韧性策略 / Our approach to bioresilience",
-        "title_zh": "我们的生物韧性策略",
-        "title_en": "Our approach to bioresilience",
-        "title_original": "Our approach to bioresilience",
-        "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
-        "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "战略方向，今天用不上，关注后续产品。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -419,15 +334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.842,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -456,7 +371,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
+      }
+    },
+    {
+      "story_id": "story_e58a2c2a018a",
+      "title": "我们的生物韧性策略 / Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": null,
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": null,
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9317,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:30:42Z",
+      "latest_at": "2026-07-16T09:30:42Z",
+      "primary_item": {
+        "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+        "title": "我们的生物韧性策略 / Our approach to bioresilience",
+        "title_zh": "我们的生物韧性策略",
+        "title_en": "Our approach to bioresilience",
+        "title_original": "Our approach to bioresilience",
+        "summary": null,
+        "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "战略方向，今天用不上，关注后续产品。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -504,15 +504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8256,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -541,7 +541,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -558,7 +558,7 @@
           "title_zh": "安全事件披露——2026年7月",
           "title_en": "Security incident disclosure — July 2026",
           "title_original": "Security incident disclosure — July 2026",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
           "url": "https://huggingface.co/blog/security-incident-july-2026",
           "source": "Hugging Face Blog",
@@ -578,7 +578,7 @@
           "title_zh": "安全事件披露——2026年7月",
           "title_en": "Security incident disclosure — July 2026",
           "title_original": "Security incident disclosure — July 2026",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
           "url": "https://huggingface.co/blog/security-incident-july-2026",
           "source": "Hugging Face Blog",
@@ -589,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.842,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -614,7 +614,7 @@
         "title_zh": "安全事件披露——2026年7月",
         "title_en": "Security incident disclosure — July 2026",
         "title_original": "Security incident disclosure — July 2026",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+        "summary": null,
         "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
         "url": "https://huggingface.co/blog/security-incident-july-2026",
         "source": "Hugging Face Blog",
@@ -626,264 +626,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
-      "story_id": "story_ac16bc5670b9",
-      "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cc9b0f6c2682",
+      "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务 / Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "primary_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-          "title_zh": "美国正通过州和联邦行动推进AI安全",
-          "title_en": "The US is advancing AI safety through state and federal action",
-          "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T12:00:00Z"
+          "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
+          "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务 / Google ordered to open Android and Search to rivals in Europe",
+          "title_zh": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
+          "title_en": "Google ordered to open Android and Search to rivals in Europe",
+          "title_original": "Google ordered to open Android and Search to rivals in Europe",
+          "summary": "欧盟依据《数字市场法案》（DMA）裁定 Google 必须向竞争对手开放 Android 和 Google Search 的关键部分，包括允许第三方 AI 助手和搜索引擎获得更大访问权限。这两项决定可能削弱 Google 对两大核心平台的控制，并为其 AI 工具 Gemini 的未来格局带来深远影响，同时为竞争对手创造新的发展机会。",
+          "recommend_reason_zh": "欧盟责令Google在2027年前开放Android与Search数据给竞争对手，允许AI助手如ChatGPT深度集成，否则面临最高10%全球年营收罚款。",
+          "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T12:06:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-          "title_zh": "美国正通过州和联邦行动推进AI安全",
-          "title_en": "The US is advancing AI safety through state and federal action",
-          "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T12:00:00Z"
+          "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
+          "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务 / Google ordered to open Android and Search to rivals in Europe",
+          "title_zh": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
+          "title_en": "Google ordered to open Android and Search to rivals in Europe",
+          "title_original": "Google ordered to open Android and Search to rivals in Europe",
+          "summary": "欧盟依据《数字市场法案》（DMA）裁定 Google 必须向竞争对手开放 Android 和 Google Search 的关键部分，包括允许第三方 AI 助手和搜索引擎获得更大访问权限。这两项决定可能削弱 Google 对两大核心平台的控制，并为其 AI 工具 Gemini 的未来格局带来深远影响，同时为竞争对手创造新的发展机会。",
+          "recommend_reason_zh": "欧盟责令Google在2027年前开放Android与Search数据给竞争对手，允许AI助手如ChatGPT深度集成，否则面临最高10%全球年营收罚款。",
+          "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T12:06:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.708,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T12:00:00Z",
-      "latest_at": "2026-07-15T12:00:00Z",
-      "primary_item": {
-        "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-        "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-        "title_zh": "美国正通过州和联邦行动推进AI安全",
-        "title_en": "The US is advancing AI safety through state and federal action",
-        "title_original": "The US is advancing AI safety through state and federal action",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "政策动向需关注合规，但无即时工具可用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
-      }
-    },
-    {
-      "story_id": "story_d0f563033be1",
-      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_en": null,
-          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": null,
-          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "summary": null,
-          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒窃案：AI语音诈骗何以超越所有防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_zh": "三秒窃案：AI语音诈骗何以超越所有防御",
-          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "summary": null,
-          "recommend_reason_zh": "祖母20年前险遭AI语音诈骗，由Western Union拦截才幸免；如今INTERPOL发现AI欺诈利润是传统类型的四倍半，案件去年激增26%，防御全面失守。",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:11:14.049000Z"
-        },
-        {
-          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "summary": null,
-          "recommend_reason_zh": "Sharon Brightwell被骗走1.5万美元，只因AI合成女儿哭泣声；FBI报告显示2025年AI欺诈损失超8.93亿美元，其中60岁以上群体损失3.52亿。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "smarterarticles.co.uk"
-      ],
-      "items": [
-        {
-          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "title_en": null,
-          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": null,
-          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "summary": null,
-          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒窃案：AI语音诈骗何以超越所有防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_zh": "三秒窃案：AI语音诈骗何以超越所有防御",
-          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "summary": null,
-          "recommend_reason_zh": "祖母20年前险遭AI语音诈骗，由Western Union拦截才幸免；如今INTERPOL发现AI欺诈利润是传统类型的四倍半，案件去年激增26%，防御全面失守。",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:11:14.049000Z"
-        },
-        {
-          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "title_en": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "title_original": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "summary": null,
-          "recommend_reason_zh": "Sharon Brightwell被骗走1.5万美元，只因AI合成女儿哭泣声；FBI报告显示2025年AI欺诈损失超8.93亿美元，其中60岁以上群体损失3.52亿。",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7547,
-        "story_heat": 0.75
+        "recency": 0.9674,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T13:18:15Z",
-      "latest_at": "2026-07-15T16:25:19.955000Z",
+      "earliest_at": "2026-07-16T12:06:51Z",
+      "latest_at": "2026-07-16T12:06:51Z",
       "primary_item": {
-        "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
-        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "title_en": null,
-        "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
-        "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
-        "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
-        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
+        "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务 / Google ordered to open Android and Search to rivals in Europe",
+        "title_zh": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
+        "title_en": "Google ordered to open Android and Search to rivals in Europe",
+        "title_original": "Google ordered to open Android and Search to rivals in Europe",
+        "summary": "欧盟依据《数字市场法案》（DMA）裁定 Google 必须向竞争对手开放 Android 和 Google Search 的关键部分，包括允许第三方 AI 助手和搜索引擎获得更大访问权限。这两项决定可能削弱 Google 对两大核心平台的控制，并为其 AI 工具 Gemini 的未来格局带来深远影响，同时为竞争对手创造新的发展机会。",
+        "recommend_reason_zh": "欧盟责令Google在2027年前开放Android与Search数据给竞争对手，允许AI助手如ChatGPT深度集成，否则面临最高10%全球年营收罚款。",
+        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "提醒注意AI语音安全，无直接工具或方案可用。",
+      "persona_score": 30,
+      "persona_review": "法规刚定，执行细则未出，短期不影响你调API，先观望。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -960,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -997,7 +824,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1045,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9728,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1081,7 +908,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1129,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,7 +992,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1213,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.9381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1249,7 +1076,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1266,7 +1093,7 @@
           "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
           "title_en": null,
           "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
           "url": "https://www.aibase.com/news/29661",
           "source": "AIbase",
@@ -1286,7 +1113,7 @@
           "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
           "title_en": null,
           "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
           "url": "https://www.aibase.com/news/29661",
           "source": "AIbase",
@@ -1297,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,7 +1148,7 @@
         "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
         "title_en": null,
         "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
         "url": "https://www.aibase.com/news/29661",
         "source": "AIbase",
@@ -1333,7 +1160,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1410,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8488,
+        "recency": 0.8187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1447,7 +1274,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1495,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7997,
+        "recency": 0.7714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1531,7 +1358,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1579,15 +1406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7665,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1616,7 +1443,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1693,22 +1520,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7924,
+        "recency": 0.7644,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T19:47:53Z",
       "latest_at": "2026-07-15T19:47:53Z",
@@ -1730,7 +1556,286 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
+      }
+    },
+    {
+      "story_id": "story_c8c596bcfc1b",
+      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+      "primary_url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
+          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "title_en": null,
+          "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
+          "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
+          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T12:17:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
+          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "title_en": null,
+          "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+          "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
+          "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
+          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T12:17:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9698,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T12:17:11Z",
+      "latest_at": "2026-07-16T12:17:11Z",
+      "primary_item": {
+        "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
+        "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+        "title_zh": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+        "title_en": null,
+        "title_original": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+        "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
+        "recommend_reason_zh": "秒哒3.5全球首发iOS App，升级无代码开发与多端共享后端能力，让零基础用户也能快速构建跨平台应用。",
+        "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "无代码平台更新，对专业开发者影响有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T14:33:53.234392Z"
+      }
+    },
+    {
+      "story_id": "story_5a09b300c8c9",
+      "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+      "url": "https://x.com/OpenBMB/status/2077741814799548451",
+      "primary_url": "https://x.com/OpenBMB/status/2077741814799548451",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
+          "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
+          "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
+          "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
+          "url": "https://x.com/OpenBMB/status/2077741814799548451",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T13:07:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
+          "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
+          "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+          "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
+          "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
+          "url": "https://x.com/OpenBMB/status/2077741814799548451",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T13:07:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9816,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T13:07:05Z",
+      "latest_at": "2026-07-16T13:07:05Z",
+      "primary_item": {
+        "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
+        "title": "面壁智能开源企业AI数字员工平台StaffDeck / The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+        "title_zh": "面壁智能开源企业AI数字员工平台StaffDeck",
+        "title_en": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+        "title_original": "The future of enterprise AI isn't a chatbot-it's a digital workforce. We're open-sourcing StaffDeck…",
+        "summary": "面壁智能联合多团队开源StaffDeck，一个用于构建与管理数字员工的企业平台。该平台旨在将专业知识、标准作业程序（SOP）和决策规则转化为持续工作、改进并保留组织知识的数字员工，而非传统聊天机器人。项目代码已发布于GitHub。",
+        "recommend_reason_zh": "ModelBest等团队开源了企业平台StaffDeck，用于构建和管理数字员工，提出企业AI的未来不是聊天机器人而是数字劳动力。",
+        "url": "https://x.com/OpenBMB/status/2077741814799548451",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "直接clone就能搭建企业数字员工，省去从零开发。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T14:33:53.234392Z"
+      }
+    },
+    {
+      "story_id": "story_9c80708d0a0d",
+      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": null,
+          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_en": null,
+          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "summary": null,
+          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "smarterarticles.co.uk"
+      ],
+      "items": [
+        {
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "title_en": null,
+          "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+          "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_zh": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "title_en": null,
+          "title_original": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "summary": null,
+          "recommend_reason_zh": "2025年，退休老人Sharon Brightwell因AI克隆女儿哭泣声被骗15000美元；FBI报告显示，AI诈骗损失超8.93亿美元，60岁以上受害者损失3.52亿美元，已成最普遍的高科技犯罪。",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.728,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T16:25:19.955000Z",
+      "latest_at": "2026-07-15T16:25:19.955000Z",
+      "primary_item": {
+        "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "title_zh": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "title_en": null,
+        "title_original": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "summary": "2025年夏季，美国佛罗里达州一名退休老人接到\"女儿\"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。",
+        "recommend_reason_zh": "退休老人Sharon Brightwell因听到AI合成的女儿哭声被骗1.5万美元。FBI报告显示，2025年美国AI相关诈骗损失超8.93亿美元，其中60岁以上受害者损失达3.52亿美元。",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "提醒开发者注意语音安全，但暂无具体防御工具可即用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     },
     {
@@ -1778,15 +1883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8667,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1813,174 +1918,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
-      }
-    },
-    {
-      "story_id": "story_cf41bf013c59",
-      "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-      "url": "https://www.aibase.com/news/29653",
-      "primary_url": "https://www.aibase.com/news/29653",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_en": null,
-          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "summary": null,
-          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-          "url": "https://www.aibase.com/news/29653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_en": null,
-          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "summary": null,
-          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-          "url": "https://www.aibase.com/news/29653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9656,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:28:58.009655Z",
-      "latest_at": "2026-07-16T09:28:58.009655Z",
-      "primary_item": {
-        "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-        "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "title_en": null,
-        "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "summary": null,
-        "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-        "url": "https://www.aibase.com/news/29653",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "桌面端已可用，长任务更稳，写代码体验提升，值得更新。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
-      }
-    },
-    {
-      "story_id": "story_3340fcf57dbe",
-      "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T17:58:02Z",
-      "latest_at": "2026-07-15T17:58:02Z",
-      "primary_item": {
-        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-        "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-        "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-        "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "研究论文，揭示潜在对齐问题，暂不直接影响日常开发。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T12:04:38.830888Z"
+        "scored_at": "2026-07-16T14:33:53.234392Z"
       }
     }
   ]

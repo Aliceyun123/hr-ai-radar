@@ -633,9 +633,9 @@
     },
     "story_284815e6209e|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "需要点开看具体更新了什么，光看标题没法判断今天能用上。",
-      "title_hash": "12e1145d",
-      "scored_at": "2026-07-16T12:04:41.848431Z"
+      "review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
+      "title_hash": "3934a841",
+      "scored_at": "2026-07-16T14:33:56.500715Z"
     },
     "story_e58a2c2a018a|pragmatic|0a5c5b24": {
       "score": 45,
@@ -678,6 +678,30 @@
       "review": "官方博客宣布功能，无论文代码或独立评测，证据不足。",
       "title_hash": "e9f4fb0f",
       "scored_at": "2026-07-16T12:05:02.868272Z"
+    },
+    "story_cc9b0f6c2682|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "法规刚定，执行细则未出，短期不影响你调API，先观望。",
+      "title_hash": "7f02bf9a",
+      "scored_at": "2026-07-16T14:33:58.823128Z"
+    },
+    "story_c8c596bcfc1b|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "无代码平台更新，对专业开发者影响有限。",
+      "title_hash": "ca7fa017",
+      "scored_at": "2026-07-16T14:34:01.209911Z"
+    },
+    "story_5a09b300c8c9|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "直接clone就能搭建企业数字员工，省去从零开发。",
+      "title_hash": "c0d6a059",
+      "scored_at": "2026-07-16T14:34:04.314413Z"
+    },
+    "story_9c80708d0a0d|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "提醒开发者注意语音安全，但暂无具体防御工具可即用。",
+      "title_hash": "74faa8fe",
+      "scored_at": "2026-07-16T14:34:06.879469Z"
     }
   }
 }
