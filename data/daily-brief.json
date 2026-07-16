@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:42:31.828035Z",
+  "generated_at": "2026-07-16T18:20:04.602796Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
           "title_en": "Create, edit and star in videos with two Google Vids updates",
           "title_original": "Create, edit and star in videos with two Google Vids updates",
-          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+          "summary": null,
           "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
           "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
           "source": "Google AI Blog",
@@ -52,7 +52,7 @@
           "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
           "title_en": "Create, edit and star in videos with two Google Vids updates",
           "title_original": "Create, edit and star in videos with two Google Vids updates",
-          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+          "summary": null,
           "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
           "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
           "source": "Google AI Blog",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8672,
-      "importance": 0.8672,
-      "importance_score": 0.8672,
+      "score": 0.863,
+      "importance": 0.863,
+      "importance_score": 0.863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9898,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "official",
@@ -103,7 +103,7 @@
         "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
         "title_en": "Create, edit and star in videos with two Google Vids updates",
         "title_original": "Create, edit and star in videos with two Google Vids updates",
-        "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nGemini Omni and personal avatars in Google Vids make video creation easier than ever.\nJul 16, 2026\nGemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos.\nJustin Luk",
+        "summary": null,
         "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
         "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
         "source": "Google AI Blog",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -132,7 +132,7 @@
           "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
           "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
           "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+          "summary": null,
           "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
           "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
           "source": "Hugging Face Blog",
@@ -152,7 +152,7 @@
           "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
           "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
           "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+          "summary": null,
           "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
           "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
           "source": "Hugging Face Blog",
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9901,
+        "recency": 0.9672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -188,7 +188,7 @@
         "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
         "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
         "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nEvaluation: Retrieval Quality, Agentic Efficiency, and Deployment Tradeoffs RTEB Leadership and Strong Gains Across Retrieval Benchmarks Why Better Retrieval Matters for Agents Scaling Retrieval with NVFP4 on Blackwell Day 0 Performant NIM How We Built the Nemotron 3 Embed Models Scaling Down to 1B Enterprise Partner Evaluations Getting Started Retrieval is critical in multi-step agentic workflows where poor retrieval ca",
+        "summary": null,
         "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
         "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
         "source": "Hugging Face Blog",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -217,7 +217,7 @@
           "title_zh": "为什么青少年值得使用安全的AI",
           "title_en": "Why teens deserve access to safe AI",
           "title_original": "Why teens deserve access to safe AI",
-          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+          "summary": null,
           "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
           "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
           "source": "OpenAI News",
@@ -237,7 +237,7 @@
           "title_zh": "为什么青少年值得使用安全的AI",
           "title_en": "Why teens deserve access to safe AI",
           "title_original": "Why teens deserve access to safe AI",
-          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+          "summary": null,
           "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
           "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
           "source": "OpenAI News",
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9898,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +273,7 @@
         "title_zh": "为什么青少年值得使用安全的AI",
         "title_en": "Why teens deserve access to safe AI",
         "title_original": "Why teens deserve access to safe AI",
-        "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nLearn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.\nJuly 16, 2026\nSharing the safeguards, policies, and experts we wo",
+        "summary": null,
         "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
         "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
         "source": "OpenAI News",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -449,15 +449,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7329,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -486,7 +486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -534,15 +534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7856,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,7 +571,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -619,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9013,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,7 +656,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -704,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.932,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -741,7 +741,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -758,7 +758,7 @@
           "title_zh": "将更多应用连接到 Search",
           "title_en": "Connect more of your apps to Search",
           "title_original": "Connect more of your apps to Search",
-          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+          "summary": null,
           "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
           "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
           "source": "Google AI Blog",
@@ -778,7 +778,7 @@
           "title_zh": "将更多应用连接到 Search",
           "title_en": "Connect more of your apps to Search",
           "title_original": "Connect more of your apps to Search",
-          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+          "summary": null,
           "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
           "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
           "source": "Google AI Blog",
@@ -789,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9898,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -814,7 +814,7 @@
         "title_zh": "将更多应用连接到 Search",
         "title_en": "Connect more of your apps to Search",
         "title_original": "Connect more of your apps to Search",
-        "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nJul 16, 2026\nYou’ll be able to securely link and interact with your go-to services directly in AI Mode.\nChips Mistry\nSenior Product Manager, Search\nBiharck Araújo\nEngineering Lead, Search\nYour browser does not support the audio",
+        "summary": null,
         "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
         "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
         "source": "Google AI Blog",
@@ -826,7 +826,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -874,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7703,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -911,7 +911,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
+      }
+    },
+    {
+      "story_id": "story_8ac5a4402ae1",
+      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "primary_url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "source": "VentureBeat：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+          "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:40:48Z"
+        },
+        {
+          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "title_original": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "summary": null,
+          "recommend_reason_zh": "一项针对157家企业的调查发现，50%的组织曾部署通过内部评估却在生产中导致客户失败的AI agent，仅5%完全信任自动化评估，而66%正走向零人工部署。",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T16:40:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "VentureBeat AI",
+        "VentureBeat：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+          "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+          "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:40:48Z"
+        },
+        {
+          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "title_original": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "summary": null,
+          "recommend_reason_zh": "一项针对157家企业的调查发现，50%的组织曾部署通过内部评估却在生产中导致客户失败的AI agent，仅5%完全信任自动化评估，而66%正走向零人工部署。",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T16:40:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:40:48Z",
+      "latest_at": "2026-07-16T16:40:48Z",
+      "primary_item": {
+        "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+        "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+        "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+        "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+        "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+        "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
+        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "source": "VentureBeat：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "提醒了生产环境测试的重要性，但没给工具或具体方案，先记着。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -928,7 +1042,7 @@
           "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
           "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
           "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+          "summary": null,
           "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
           "url": "https://openai.com/index/cars24",
           "source": "OpenAI News",
@@ -948,7 +1062,7 @@
           "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
           "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
           "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+          "summary": null,
           "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
           "url": "https://openai.com/index/cars24",
           "source": "OpenAI News",
@@ -959,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7856,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -984,7 +1098,7 @@
         "title_zh": "Cars24如何借助OpenAI扩展对话能力并加速开发",
         "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
         "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.\nCars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflow",
+        "summary": null,
         "recommend_reason_zh": "Cars24用OpenAI驱动的语音和聊天代理每月处理超100万分钟对话，客户支持解决率提升50%，关键服务周转时间减少80%，并成功挽回12%的流失线索。",
         "url": "https://openai.com/index/cars24",
         "source": "OpenAI News",
@@ -996,7 +1110,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1044,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,7 +1194,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1128,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1164,7 +1278,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1241,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1278,7 +1392,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1326,15 +1440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,7 +1476,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1410,15 +1524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1446,7 +1560,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1494,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7856,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1531,91 +1645,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
-      }
-    },
-    {
-      "story_id": "story_351600ec071e",
-      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-      "url": "https://www.aibase.com/news/29661",
-      "primary_url": "https://www.aibase.com/news/29661",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_en": null,
-          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": null,
-          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T11:54:34.901486Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_en": null,
-          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": null,
-          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T11:54:34.901486Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T11:54:34.901486Z",
-      "latest_at": "2026-07-16T11:54:34.901486Z",
-      "primary_item": {
-        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "title_en": null,
-        "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "summary": null,
-        "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-        "url": "https://www.aibase.com/news/29661",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "办公场景的实用工具，写简历筛数据直接能套用，省人工。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1692,15 +1722,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.7736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1729,7 +1759,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
+      }
+    },
+    {
+      "story_id": "story_351600ec071e",
+      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+      "url": "https://www.aibase.com/news/29661",
+      "primary_url": "https://www.aibase.com/news/29661",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_en": null,
+          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "summary": null,
+          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:54:34.901486Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_en": null,
+          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "summary": null,
+          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:54:34.901486Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9114,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T11:54:34.901486Z",
+      "latest_at": "2026-07-16T11:54:34.901486Z",
+      "primary_item": {
+        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "title_en": null,
+        "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "summary": null,
+        "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+        "url": "https://www.aibase.com/news/29661",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 78,
+      "persona_review": "办公场景的实用工具，写简历筛数据直接能套用，省人工。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     },
     {
@@ -1777,15 +1891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7462,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1812,120 +1926,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
-      }
-    },
-    {
-      "story_id": "story_ddd1632f9351",
-      "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-      "primary_url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "title_zh": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "title_en": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "title_original": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "summary": "OpenAI 训练了内部 AI 模型 GPT-Red，通过自我对弈强化学习自动模拟提示词注入等攻击，在测试场景中成功率达 84%，而人类红队仅为 13%。GPT-Red 的发现直接用于训练，使 GPT-5.6 Sol 在直接提示词注入上的故障次数比四个月前的最佳模型减少六倍，且未影响通用性能。约 3.8% 的\"更强\"提示词注入仍能成功，GPT-Red 暂不对外开放。",
-          "recommend_reason_zh": "OpenAI用AI模型GPT-Red自我对弈攻击自家AI，在84%测试场景中找到漏洞，远超人类红队的13%，结果直接用于加固GPT-5.6 Sol。",
-          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:47:53Z"
-        },
-        {
-          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "title_zh": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "title_en": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "title_original": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT-Red模型通过自对弈训练，在84%的测试场景中找到成功攻击，远超人类13%的基准，并直接用于加固GPT-5.6 Sol，使其直接提示注入失败减少6倍。",
-          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-15T19:47:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "title_zh": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "title_en": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "title_original": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-          "summary": "OpenAI 训练了内部 AI 模型 GPT-Red，通过自我对弈强化学习自动模拟提示词注入等攻击，在测试场景中成功率达 84%，而人类红队仅为 13%。GPT-Red 的发现直接用于训练，使 GPT-5.6 Sol 在直接提示词注入上的故障次数比四个月前的最佳模型减少六倍，且未影响通用性能。约 3.8% 的\"更强\"提示词注入仍能成功，GPT-Red 暂不对外开放。",
-          "recommend_reason_zh": "OpenAI用AI模型GPT-Red自我对弈攻击自家AI，在84%测试场景中找到漏洞，远超人类红队的13%，结果直接用于加固GPT-5.6 Sol。",
-          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:47:53Z"
-        },
-        {
-          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "title_zh": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "title_en": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "title_original": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT-Red模型通过自对弈训练，在84%的测试场景中找到成功攻击，远超人类13%的基准，并直接用于加固GPT-5.6 Sol，使其直接提示注入失败减少6倍。",
-          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-15T19:47:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7394,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T19:47:53Z",
-      "latest_at": "2026-07-15T19:47:53Z",
-      "primary_item": {
-        "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
-        "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-        "title_zh": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-        "title_en": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-        "title_original": "OpenAI is now using AI to attack its own AI， and it's working better than humans ever did",
-        "summary": "OpenAI 训练了内部 AI 模型 GPT-Red，通过自我对弈强化学习自动模拟提示词注入等攻击，在测试场景中成功率达 84%，而人类红队仅为 13%。GPT-Red 的发现直接用于训练，使 GPT-5.6 Sol 在直接提示词注入上的故障次数比四个月前的最佳模型减少六倍，且未影响通用性能。约 3.8% 的\"更强\"提示词注入仍能成功，GPT-Red 暂不对外开放。",
-        "recommend_reason_zh": "OpenAI用AI模型GPT-Red自我对弈攻击自家AI，在84%测试场景中找到漏洞，远超人类红队的13%，结果直接用于加固GPT-5.6 Sol。",
-        "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "内部安全测试工具，暂无直接用途，等后续模型安全更新再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T16:50:42.475421Z"
+        "scored_at": "2026-07-16T18:29:35.058919Z"
       }
     }
   ]
