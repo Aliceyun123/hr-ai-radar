@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T03:38:45.495083Z",
+  "generated_at": "2026-07-16T06:31:57.705058Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8695,
-      "importance": 0.8695,
-      "importance_score": 0.8695,
+      "score": 0.8638,
+      "importance": 0.8638,
+      "importance_score": 0.8638,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7751,
+        "recency": 0.7434,
         "story_heat": 0.5
       },
       "category": "official",
@@ -144,7 +144,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -308,15 +308,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8627,
-      "importance": 0.8627,
-      "importance_score": 0.8627,
+      "score": 0.856,
+      "importance": 0.856,
+      "importance_score": 0.856,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8691,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -345,7 +345,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -362,7 +362,7 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.144.5",
           "title_original": "Codex CLI 0.144.5",
-          "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust-v0.144.2\nFull release on Github\nCodex is now part of the ChatGPT des",
+          "summary": null,
           "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -382,7 +382,7 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.144.5",
           "title_original": "Codex CLI 0.144.5",
-          "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust-v0.144.2\nFull release on Github\nCodex is now part of the ChatGPT des",
+          "summary": null,
           "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -393,15 +393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9487,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +418,7 @@
         "title_zh": null,
         "title_en": "Codex CLI 0.144.5",
         "title_original": "Codex CLI 0.144.5",
-        "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust-v0.144.2\nFull release on Github\nCodex is now part of the ChatGPT des",
+        "summary": null,
         "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -430,7 +430,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -478,15 +478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8636,
+        "recency": 0.8284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,7 +515,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -563,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9302,
+        "recency": 0.8923,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,7 +600,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -735,15 +735,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.8157,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -772,7 +772,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -820,15 +820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8631,
+        "recency": 0.8279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,7 +857,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -905,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7978,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -942,7 +942,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -973,7 +973,7 @@
           "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
           "title_en": "Mermaid to Unicode box art (grok-mermaid)",
           "title_original": "Mermaid to Unicode box art (grok-mermaid)",
-          "summary": "Mermaid to Unicode box art (grok-mermaid)\n16th July 2026\nWhile exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust.\nI figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like:\nThis is a beat by Simon Willison, posted on 16th July 2026 .\nSp",
+          "summary": null,
           "recommend_reason_zh": "Simon Willison在开源Grok CLI中发现Rust写的Mermaid终端渲染器，并用Claude Code通过WebAssembly将其移植到浏览器，好玩又实用。",
           "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
           "source": "Simon Willison",
@@ -1008,7 +1008,7 @@
           "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
           "title_en": "Mermaid to Unicode box art (grok-mermaid)",
           "title_original": "Mermaid to Unicode box art (grok-mermaid)",
-          "summary": "Mermaid to Unicode box art (grok-mermaid)\n16th July 2026\nWhile exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust.\nI figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like:\nThis is a beat by Simon Willison, posted on 16th July 2026 .\nSp",
+          "summary": null,
           "recommend_reason_zh": "Simon Willison在开源Grok CLI中发现Rust写的Mermaid终端渲染器，并用Claude Code通过WebAssembly将其移植到浏览器，好玩又实用。",
           "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
           "source": "Simon Willison",
@@ -1019,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,7 +1056,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1104,15 +1104,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9011,
+        "recency": 0.8643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1140,7 +1140,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
+      }
+    },
+    {
+      "story_id": "story_10cedf3ce9e3",
+      "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+      "url": "https://www.aibase.com/news/29645",
+      "primary_url": "https://www.aibase.com/news/29645",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "title_zh": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "title_en": null,
+          "title_original": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "summary": "In the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nExplore AI Frontiers",
+          "recommend_reason_zh": "Tracking AI线下智商测试中，OpenAI GPT-5.6多个版本达136分，首次突破130天才线，超越全球99%人类，实测干活能力同样炸裂。",
+          "url": "https://www.aibase.com/news/29645",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T06:31:57.705058Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "title_zh": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "title_en": null,
+          "title_original": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+          "summary": "In the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nExplore AI Frontiers",
+          "recommend_reason_zh": "Tracking AI线下智商测试中，OpenAI GPT-5.6多个版本达136分，首次突破130天才线，超越全球99%人类，实测干活能力同样炸裂。",
+          "url": "https://www.aibase.com/news/29645",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T06:31:57.705058Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T06:31:57.705058Z",
+      "latest_at": "2026-07-16T06:31:57.705058Z",
+      "primary_item": {
+        "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
+        "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+        "title_zh": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+        "title_en": null,
+        "title_original": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+        "summary": "In the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nIn the latest offline IQ test by Tracking AI, multiple versions of OpenAI's GPT-5.6 all soared to 136 points, marking the first time a large language model has\nExplore AI Frontiers",
+        "recommend_reason_zh": "Tracking AI线下智商测试中，OpenAI GPT-5.6多个版本达136分，首次突破130天才线，超越全球99%人类，实测干活能力同样炸裂。",
+        "url": "https://www.aibase.com/news/29645",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "智商测试不靠谱，模型未开放，等能用了再激动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1217,15 +1301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,91 +1338,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
-      }
-    },
-    {
-      "story_id": "story_684fc2044b87",
-      "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-      "url": "https://www.aibase.com/news/29643",
-      "primary_url": "https://www.aibase.com/news/29643",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "title_en": null,
-          "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "summary": "While pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI推出GPT-Red，通过自对弈训练将模型对直接提示注入攻击的失败率降至0.05%，展示了AI如何自我迭代实现安全防御的飞轮效应。",
-          "url": "https://www.aibase.com/news/29643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T03:38:45.495083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "title_en": null,
-          "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "summary": "While pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI推出GPT-Red，通过自对弈训练将模型对直接提示注入攻击的失败率降至0.05%，展示了AI如何自我迭代实现安全防御的飞轮效应。",
-          "url": "https://www.aibase.com/news/29643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T03:38:45.495083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T03:38:45.495083Z",
-      "latest_at": "2026-07-16T03:38:45.495083Z",
-      "primary_item": {
-        "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-        "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-        "title_zh": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-        "title_en": null,
-        "title_original": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-        "summary": "While pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nWhile pursuing more powerful AI capabilities, how to ensure the safety of models has become a core issue in the industry. Recently, OpenAI released a new automa\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI推出GPT-Red，通过自对弈训练将模型对直接提示注入攻击的失败率降至0.05%，展示了AI如何自我迭代实现安全防御的飞轮效应。",
-        "url": "https://www.aibase.com/news/29643",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "安全方法论，暂无工具可抄，等具体方案出来再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1386,15 +1386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7938,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1422,7 +1422,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1470,21 +1470,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7605,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T08:41:23Z",
       "latest_at": "2026-07-15T08:41:23Z",
@@ -1506,7 +1505,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1554,21 +1553,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T02:00:00Z",
       "latest_at": "2026-07-16T02:00:00Z",
@@ -1590,90 +1588,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
-      }
-    },
-    {
-      "story_id": "story_3340fcf57dbe",
-      "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8696,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T17:58:02Z",
-      "latest_at": "2026-07-15T17:58:02Z",
-      "primary_item": {
-        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-        "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
-        "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
-        "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-        "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
-        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "研究论文，揭示潜在对齐问题，暂不直接影响日常开发。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1721,15 +1636,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7858,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1756,7 +1671,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
+      }
+    },
+    {
+      "story_id": "story_3340fcf57dbe",
+      "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+          "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+          "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8341,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T17:58:02Z",
+      "latest_at": "2026-07-15T17:58:02Z",
+      "primary_item": {
+        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+        "title": "Anthropic 研究：AI 智能体模拟中行为偏差 / New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "title_zh": "Anthropic 研究：AI 智能体模拟中行为偏差",
+        "title_en": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "title_original": "New Anthropic research： Agentic misalignment in Summer 2026. A year after our blackmail experiments…",
+        "summary": "Anthropic 新研究：2026 年夏季的智能体行为偏差。\n\n在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。\n\n了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+        "recommend_reason_zh": "Anthropic在2026年夏季的最新研究发现，继一年前的敲诈实验后，自主AI agents在模拟中又出现四种行为不当的新方式，揭示了代理错位问题的持续演化。",
+        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "研究论文，揭示潜在对齐问题，暂不直接影响日常开发。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1804,15 +1802,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1839,7 +1837,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
+      }
+    },
+    {
+      "story_id": "story_7c3f3e736d38",
+      "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+      "url": "https://www.aibase.com/news/29650",
+      "primary_url": "https://www.aibase.com/news/29650",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "title_zh": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "title_en": null,
+          "title_original": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "summary": "On July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nExplore AI Fronti",
+          "recommend_reason_zh": "Moonshot AI于7月15日发布Kimi K3预热视频，匿名模型Kivine已出现在Arena.ai，并与Claude Fable5、GPT-5.6 Sol进行对比测试，K2.6版本支持300个子Agent并行。",
+          "url": "https://www.aibase.com/news/29650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T06:31:57.705058Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "title_zh": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "title_en": null,
+          "title_original": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "summary": "On July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nExplore AI Fronti",
+          "recommend_reason_zh": "Moonshot AI于7月15日发布Kimi K3预热视频，匿名模型Kivine已出现在Arena.ai，并与Claude Fable5、GPT-5.6 Sol进行对比测试，K2.6版本支持300个子Agent并行。",
+          "url": "https://www.aibase.com/news/29650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T06:31:57.705058Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T06:31:57.705058Z",
+      "latest_at": "2026-07-16T06:31:57.705058Z",
+      "primary_item": {
+        "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+        "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+        "title_zh": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+        "title_en": null,
+        "title_original": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+        "summary": "On July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nOn July 15, Moonshot AI released a teaser video on Bilibili, X platform, and Xiaohongshu, officially building up momentum for the Kimi K3 model, with the new pr\nExplore AI Fronti",
+        "recommend_reason_zh": "Moonshot AI于7月15日发布Kimi K3预热视频，匿名模型Kivine已出现在Arena.ai，并与Claude Fable5、GPT-5.6 Sol进行对比测试，K2.6版本支持300个子Agent并行。",
+        "url": "https://www.aibase.com/news/29650",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "还没开放，等正式发布再测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     },
     {
@@ -1887,15 +1969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.9313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1922,90 +2004,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
-      }
-    },
-    {
-      "story_id": "story_ce19941f8cdf",
-      "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-      "url": "https://x.com/thinkymachines/status/2077454609551921208",
-      "primary_url": "https://x.com/thinkymachines/status/2077454609551921208",
-      "source": "X：Thinking Machines (@thinkymachines)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
-          "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "title_zh": "Thinking Machines 发布多模态模型 Inkling",
-          "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
-          "recommend_reason_zh": "今天推出的Inkling能高效处理文本、图像和音频多模态，并开放完整权重，可在Tinker上微调或在Inkling Playground试用。",
-          "url": "https://x.com/thinkymachines/status/2077454609551921208",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thinking Machines (@thinkymachines)"
-      ],
-      "items": [
-        {
-          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
-          "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "title_zh": "Thinking Machines 发布多模态模型 Inkling",
-          "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-          "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
-          "recommend_reason_zh": "今天推出的Inkling能高效处理文本、图像和音频多模态，并开放完整权重，可在Tinker上微调或在Inkling Playground试用。",
-          "url": "https://x.com/thinkymachines/status/2077454609551921208",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T18:05:50Z",
-      "latest_at": "2026-07-15T18:05:50Z",
-      "primary_item": {
-        "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
-        "title": "Thinking Machines 发布多模态模型 Inkling / Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-        "title_zh": "Thinking Machines 发布多模态模型 Inkling",
-        "title_en": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-        "title_original": "Today， we are introducing Inkling. Inkling reasons efficiently across text， image， and audio modali…",
-        "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
-        "recommend_reason_zh": "今天推出的Inkling能高效处理文本、图像和音频多模态，并开放完整权重，可在Tinker上微调或在Inkling Playground试用。",
-        "url": "https://x.com/thinkymachines/status/2077454609551921208",
-        "source": "X：Thinking Machines (@thinkymachines)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "发布不等于可用，等API或开源再试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T03:47:56.373093Z"
+        "scored_at": "2026-07-16T06:39:35.604359Z"
       }
     }
   ]

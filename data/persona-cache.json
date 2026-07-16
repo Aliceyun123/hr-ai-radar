@@ -594,6 +594,18 @@
       "review": "仅博客提及，无代码仓库或论文链接，无法验证。",
       "title_hash": "23602459",
       "scored_at": "2026-07-16T03:48:23.657651Z"
+    },
+    "story_10cedf3ce9e3|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "智商测试不靠谱，模型未开放，等能用了再激动。",
+      "title_hash": "e4514051",
+      "scored_at": "2026-07-16T06:39:38.465127Z"
+    },
+    "story_7c3f3e736d38|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "还没开放，等正式发布再测。",
+      "title_hash": "18e997d4",
+      "scored_at": "2026-07-16T06:39:40.509041Z"
     }
   }
 }
