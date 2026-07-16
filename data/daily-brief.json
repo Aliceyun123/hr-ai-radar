@@ -1,150 +1,91 @@
 {
-  "generated_at": "2026-07-16T09:28:58.009655Z",
+  "generated_at": "2026-07-16T11:54:34.901486Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_dbadffdd21c6",
-      "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI News",
+      "story_id": "story_284815e6209e",
+      "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
+          "title_zh": "更新型号，同样的优势",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
-        },
-        {
-          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red： Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT-Red： Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT-Red： Unlocking Self-Improvement for Robustness",
-          "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
-          "recommend_reason_zh": "揭秘OpenAI的GPT-Red自动化红队系统，通过自我对弈训练，使GPT‑5.6 Sol在直接提示注入基准测试中的失败次数减少6倍，用前所未有的计算量提升AI鲁棒性。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T10:00:00Z"
-        },
-        {
-          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT‑Red通过自对弈训练，使GPT‑5.6 Sol在直接提示注入基准测试中失败率降低6倍，展示了自动化红队如何规模化提升模型鲁棒性。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T17:41:46Z"
+          "published_at": "2026-07-16T11:49:48Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
+          "title_zh": "更新型号，同样的优势",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
-        },
-        {
-          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red： Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT-Red： Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT-Red： Unlocking Self-Improvement for Robustness",
-          "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
-          "recommend_reason_zh": "揭秘OpenAI的GPT-Red自动化红队系统，通过自我对弈训练，使GPT‑5.6 Sol在直接提示注入基准测试中的失败次数减少6倍，用前所未有的计算量提升AI鲁棒性。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T10:00:00Z"
-        },
-        {
-          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
-          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-          "title_en": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "title_original": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的GPT‑Red通过自对弈训练，使GPT‑5.6 Sol在直接提示注入基准测试中失败率降低6倍，展示了自动化红队如何规模化提升模型鲁棒性。",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T17:41:46Z"
+          "published_at": "2026-07-16T11:49:48Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7124,
-        "story_heat": 0.5
+        "recency": 0.9988,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T10:00:00Z",
-      "latest_at": "2026-07-15T17:41:46Z",
+      "earliest_at": "2026-07-16T11:49:48Z",
+      "latest_at": "2026-07-16T11:49:48Z",
       "primary_item": {
-        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-        "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-        "title_zh": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-        "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "source": "OpenAI News",
+        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+        "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
+        "title_zh": "更新型号，同样的优势",
+        "title_en": "Newer Models, Same Advantage",
+        "title_original": "Newer Models, Same Advantage",
+        "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThree months ago, we published a paper on DharmaOCR and open-sourced one of the models . The objective was specific: optical character recognition engineered for Brazilian Portuguese.\nThe training pipeline was built in two stages. The first was a supervised fine-tuning step, drawing on a broad collection of Portuguese-language files from different sources, formats, and levels of complexity. This stage aligned the m",
+        "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "内部工具未开放，短期无直接影响，可关注后续接口。",
+      "persona_score": 45,
+      "persona_review": "需要点开看具体更新了什么，光看标题没法判断今天能用上。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -308,15 +249,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8041,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -345,7 +286,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_e58a2c2a018a",
+      "title": "我们的生物韧性策略 / Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:30:42Z",
+      "latest_at": "2026-07-16T09:30:42Z",
+      "primary_item": {
+        "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+        "title": "我们的生物韧性策略 / Our approach to bioresilience",
+        "title_zh": "我们的生物韧性策略",
+        "title_en": "Our approach to bioresilience",
+        "title_original": "Our approach to bioresilience",
+        "summary": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nGoogle DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.\nIsomorphic Labs and Google DeepMind\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, glo",
+        "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "战略方向，今天用不上，关注后续产品。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -393,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.872,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,92 +456,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_720e8881c84d",
-      "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-          "title_zh": "从搭建Shippy中学到的构建Agent经验",
-          "title_en": "What building Shippy taught us about building agents",
-          "title_original": "What building Shippy taught us about building agents",
-          "summary": null,
-          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-          "title_zh": "从搭建Shippy中学到的构建Agent经验",
-          "title_en": "What building Shippy taught us about building agents",
-          "title_original": "What building Shippy taught us about building agents",
-          "summary": null,
-          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7938,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:29:41Z",
-      "latest_at": "2026-07-15T17:29:41Z",
-      "primary_item": {
-        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-        "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
-        "title_zh": "从搭建Shippy中学到的构建Agent经验",
-        "title_en": "What building Shippy taught us about building agents",
-        "title_original": "What building Shippy taught us about building agents",
-        "summary": null,
-        "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "经验总结而非工具，可当案例参考，今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -563,15 +504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.855,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,7 +541,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_f5dc0234fef8",
+      "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+          "title_zh": "安全事件披露——2026年7月",
+          "title_en": "Security incident disclosure — July 2026",
+          "title_original": "Security incident disclosure — July 2026",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+          "title_zh": "安全事件披露——2026年7月",
+          "title_en": "Security incident disclosure — July 2026",
+          "title_original": "Security incident disclosure — July 2026",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.842,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+        "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
+        "title_zh": "安全事件披露——2026年7月",
+        "title_en": "Security incident disclosure — July 2026",
+        "title_original": "Security incident disclosure — July 2026",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat happened What we did For our community Analyzing an AI-driven intrusion The asymmetry problem What this means Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in on",
+        "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
+        "url": "https://huggingface.co/blog/security-incident-july-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "安全公告，暂无行动要求，建议检查个人账号密钥是否受影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_ac16bc5670b9",
+      "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+          "title_zh": "美国正通过州和联邦行动推进AI安全",
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+          "title_zh": "美国正通过州和联邦行动推进AI安全",
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T12:00:00Z",
+      "latest_at": "2026-07-15T12:00:00Z",
+      "primary_item": {
+        "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+        "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+        "title_zh": "美国正通过州和联邦行动推进AI安全",
+        "title_en": "The US is advancing AI safety through state and federal action",
+        "title_original": "The US is advancing AI safety through state and federal action",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "政策动向需关注合规，但无即时工具可用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -735,15 +846,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7816,
+        "recency": 0.7547,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -772,92 +883,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_7f12fb220449",
-      "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
-          "title_zh": "模型路由很简单——直到它不再简单。",
-          "title_en": "Model Routing Is Simple. Until It Isn’t.",
-          "title_original": "Model Routing Is Simple. Until It Isn’t.",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
-          "title_zh": "模型路由很简单——直到它不再简单。",
-          "title_en": "Model Routing Is Simple. Until It Isn’t.",
-          "title_original": "Model Routing Is Simple. Until It Isn’t.",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7933,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:27:01Z",
-      "latest_at": "2026-07-15T17:27:01Z",
-      "primary_item": {
-        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-        "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
-        "title_zh": "模型路由很简单——直到它不再简单。",
-        "title_en": "Model Routing Is Simple. Until It Isn’t.",
-        "title_original": "Model Routing Is Simple. Until It Isn’t.",
-        "summary": null,
-        "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
-        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 73,
-      "persona_review": "模型路由选型避坑指南，部署多模型时可参考，非今天能直接用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -888,7 +914,7 @@
           "title_zh": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
           "title_en": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
           "title_original": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
-          "summary": "Build an AI phone agent with the Patter SDK: register tools, apply output guardrails, simulate calls, and run regression evals\nBuild an AI phone agent with the Patter SDK: register tools, apply output guardrails, simulate calls, and run regression evals\nIn this tutorial, we explore the Patter SDK by building a voice-agent workflow that simulates how an AI phone assistant behaves during real conversations. We work with a restaurant booking use case in which we define dynamic caller variables, reg",
+          "summary": null,
           "recommend_reason_zh": "这篇教程用Patter SDK构建了一个餐厅预订AI电话代理，涵盖工具注册、输出护栏、动态变量定义，并模拟了2次完整通话，通过回归评估验证了预订完成、ID保护、医疗请求拒绝等关键行为。",
           "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
           "source": "MarkTechPost Research",
@@ -923,7 +949,7 @@
           "title_zh": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
           "title_en": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
           "title_original": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
-          "summary": "Build an AI phone agent with the Patter SDK: register tools, apply output guardrails, simulate calls, and run regression evals\nBuild an AI phone agent with the Patter SDK: register tools, apply output guardrails, simulate calls, and run regression evals\nIn this tutorial, we explore the Patter SDK by building a voice-agent workflow that simulates how an AI phone assistant behaves during real conversations. We work with a restaurant booking use case in which we define dynamic caller variables, reg",
+          "summary": null,
           "recommend_reason_zh": "这篇教程用Patter SDK构建了一个餐厅预订AI电话代理，涵盖工具注册、输出护栏、动态变量定义，并模拟了2次完整通话，通过回归评估验证了预订完成、ID保护、医疗请求拒绝等关键行为。",
           "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
           "source": "MarkTechPost Research",
@@ -934,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -971,7 +997,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_50f4f0dc42dc",
+      "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+      "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
+      "primary_url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4319becdaa5337bff676141c712a606da35b1e7",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "title_en": null,
+          "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
+          "recommend_reason_zh": "小红书联合北大、上交提出HYPIC，首个混合注意力大模型位置无关缓存系统，专门解决RAG和Agent场景下长序列推理效率问题。",
+          "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "a4319becdaa5337bff676141c712a606da35b1e7",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "title_en": null,
+          "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
+          "recommend_reason_zh": "小红书联合北大、上交提出HYPIC，首个混合注意力大模型位置无关缓存系统，专门解决RAG和Agent场景下长序列推理效率问题。",
+          "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9728,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T10:00:00Z",
+      "latest_at": "2026-07-16T10:00:00Z",
+      "primary_item": {
+        "id": "a4319becdaa5337bff676141c712a606da35b1e7",
+        "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+        "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+        "title_en": null,
+        "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+        "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
+        "recommend_reason_zh": "小红书联合北大、上交提出HYPIC，首个混合注意力大模型位置无关缓存系统，专门解决RAG和Agent场景下长序列推理效率问题。",
+        "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "论文成果，暂无开源或API，等有仓库再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1019,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,92 +1165,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
-      "story_id": "story_ac16bc5670b9",
-      "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9b3183996a36",
+      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "primary_url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-          "title_zh": "美国正通过州和联邦行动推进AI安全",
-          "title_en": "The US is advancing AI safety through state and federal action",
-          "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T12:00:00Z"
+          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
+          "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
+          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51.914000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-          "title_zh": "美国正通过州和联邦行动推进AI安全",
-          "title_en": "The US is advancing AI safety through state and federal action",
-          "title_original": "The US is advancing AI safety through state and federal action",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T12:00:00Z"
+          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+          "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
+          "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
+          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51.914000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.6,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7333,
+        "ai_relevance": 1.0,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T12:00:00Z",
-      "latest_at": "2026-07-15T12:00:00Z",
+      "earliest_at": "2026-07-16T09:58:51.914000Z",
+      "latest_at": "2026-07-16T09:58:51.914000Z",
       "primary_item": {
-        "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
-        "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
-        "title_zh": "美国正通过州和联邦行动推进AI安全",
-        "title_en": "The US is advancing AI safety through state and federal action",
-        "title_original": "The US is advancing AI safety through state and federal action",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
-        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+        "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+        "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+        "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+        "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
+        "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
+        "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "政策动向需关注合规，但无即时工具可用。",
+      "persona_score": 92,
+      "persona_review": "Agent能联网搜索了，实时信息获取直接集成，今天就能调API试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_351600ec071e",
+      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+      "url": "https://www.aibase.com/news/29661",
+      "primary_url": "https://www.aibase.com/news/29661",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_en": null,
+          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:54:34.901486Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "title_en": null,
+          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:54:34.901486Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T11:54:34.901486Z",
+      "latest_at": "2026-07-16T11:54:34.901486Z",
+      "primary_item": {
+        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "title_en": null,
+        "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "summary": "Resumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nResumes sent out disappear into thin air, staring at a blank document while writing reports makes your head hurt, and getting a sales table full of jumbled data\nExplore AI Fronti",
+        "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
+        "url": "https://www.aibase.com/news/29661",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 78,
+      "persona_review": "办公场景的实用工具，写简历筛数据直接能套用，省人工。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1217,15 +1410,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,91 +1447,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_cf41bf013c59",
-      "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-      "url": "https://www.aibase.com/news/29653",
-      "primary_url": "https://www.aibase.com/news/29653",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_en": null,
-          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "summary": "Anyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nExplore AI Fronti",
-          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-          "url": "https://www.aibase.com/news/29653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "title_en": null,
-          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-          "summary": "Anyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nExplore AI Fronti",
-          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-          "url": "https://www.aibase.com/news/29653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:28:58.009655Z",
-      "latest_at": "2026-07-16T09:28:58.009655Z",
-      "primary_item": {
-        "id": "ab269f327e2be5349b9089486abde8b361c0270a",
-        "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "title_en": null,
-        "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-        "summary": "Anyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nAnyone who has worked on long-chain coding tasks knows the frustration: the agent suddenly loses context halfway through, or gets stuck waiting with no response\nExplore AI Fronti",
-        "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
-        "url": "https://www.aibase.com/news/29653",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "桌面端已可用，长任务更稳，写代码体验提升，值得更新。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1386,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8283,
+        "recency": 0.7997,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1422,7 +1531,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
+      }
+    },
+    {
+      "story_id": "story_720e8881c84d",
+      "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+          "title_zh": "从搭建Shippy中学到的构建Agent经验",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": null,
+          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+          "title_zh": "从搭建Shippy中学到的构建Agent经验",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": null,
+          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7665,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:29:41Z",
+      "latest_at": "2026-07-15T17:29:41Z",
+      "primary_item": {
+        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+        "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+        "title_zh": "从搭建Shippy中学到的构建Agent经验",
+        "title_en": "What building Shippy taught us about building agents",
+        "title_original": "What building Shippy taught us about building agents",
+        "summary": null,
+        "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "经验总结而非工具，可当案例参考，今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1499,15 +1693,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1536,175 +1730,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_81b83ca2954b",
-      "title": "阿里千问将集成至苹果智能，服务中国用户",
-      "url": "https://x.com/berryxia/status/2077357348293939259",
-      "primary_url": "https://x.com/berryxia/status/2077357348293939259",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7de7096f5045c5afa3588a4344b03b26d0a3cc6",
-          "title": "阿里千问将集成至苹果智能，服务中国用户",
-          "title_zh": "阿里千问将集成至苹果智能，服务中国用户",
-          "title_en": null,
-          "title_original": "阿里千问将集成至苹果智能，服务中国用户",
-          "summary": "阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可使用。网信办同日发布7款手机端侧生成式AI服务备案信息，包括苹果智能、华为小艺大模型、OPPO AndesGPT大模型等。",
-          "recommend_reason_zh": "独家消息：阿里千问将集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来无需切换应用即可体验的文本与图像理解、内容生成能力。",
-          "url": "https://x.com/berryxia/status/2077357348293939259",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T11:39:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "b7de7096f5045c5afa3588a4344b03b26d0a3cc6",
-          "title": "阿里千问将集成至苹果智能，服务中国用户",
-          "title_zh": "阿里千问将集成至苹果智能，服务中国用户",
-          "title_en": null,
-          "title_original": "阿里千问将集成至苹果智能，服务中国用户",
-          "summary": "阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可使用。网信办同日发布7款手机端侧生成式AI服务备案信息，包括苹果智能、华为小艺大模型、OPPO AndesGPT大模型等。",
-          "recommend_reason_zh": "独家消息：阿里千问将集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来无需切换应用即可体验的文本与图像理解、内容生成能力。",
-          "url": "https://x.com/berryxia/status/2077357348293939259",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T11:39:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7296,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T11:39:21Z",
-      "latest_at": "2026-07-15T11:39:21Z",
-      "primary_item": {
-        "id": "b7de7096f5045c5afa3588a4344b03b26d0a3cc6",
-        "title": "阿里千问将集成至苹果智能，服务中国用户",
-        "title_zh": "阿里千问将集成至苹果智能，服务中国用户",
-        "title_en": null,
-        "title_original": "阿里千问将集成至苹果智能，服务中国用户",
-        "summary": "阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可使用。网信办同日发布7款手机端侧生成式AI服务备案信息，包括苹果智能、华为小艺大模型、OPPO AndesGPT大模型等。",
-        "recommend_reason_zh": "独家消息：阿里千问将集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来无需切换应用即可体验的文本与图像理解、内容生成能力。",
-        "url": "https://x.com/berryxia/status/2077357348293939259",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "合作消息，暂无具体SDK，等苹果官方发布再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_09b4f857fd4d",
-      "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-      "url": "https://www.aibase.com/news/29657",
-      "primary_url": "https://www.aibase.com/news/29657",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-          "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "title_zh": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "title_en": null,
-          "title_original": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "summary": "Thinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nExplore AI Fronti",
-          "recommend_reason_zh": "前OpenAI CTO Miriam Murati创立的Thinking Machine Lab推出多模态Inkling模型，总参数975B，基于45T tokens训练，支持1M上下文，但推理和编程仍落后于中国开源模型。",
-          "url": "https://www.aibase.com/news/29657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-          "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "title_zh": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "title_en": null,
-          "title_original": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-          "summary": "Thinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nExplore AI Fronti",
-          "recommend_reason_zh": "前OpenAI CTO Miriam Murati创立的Thinking Machine Lab推出多模态Inkling模型，总参数975B，基于45T tokens训练，支持1M上下文，但推理和编程仍落后于中国开源模型。",
-          "url": "https://www.aibase.com/news/29657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:28:58.009655Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:28:58.009655Z",
-      "latest_at": "2026-07-16T09:28:58.009655Z",
-      "primary_item": {
-        "id": "7d1090a56703ac165198f5cd860e65bcfc441628",
-        "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-        "title_zh": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-        "title_en": null,
-        "title_original": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
-        "summary": "Thinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nThinking Machine Lab, founded by former OpenAI Chief Technology Officer Miriam Murati, has released its first multi-modal AI model, Inkling, trained from scratc\nExplore AI Fronti",
-        "recommend_reason_zh": "前OpenAI CTO Miriam Murati创立的Thinking Machine Lab推出多模态Inkling模型，总参数975B，基于45T tokens训练，支持1M上下文，但推理和编程仍落后于中国开源模型。",
-        "url": "https://www.aibase.com/news/29657",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "没给仓库和API链接，号称没用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1752,15 +1778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1787,90 +1813,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
-      "story_id": "story_3a15e0febf2d",
-      "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-      "url": "https://x.com/thexpin/status/2077346752219521469",
-      "primary_url": "https://x.com/thexpin/status/2077346752219521469",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
+      "story_id": "story_cf41bf013c59",
+      "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+      "url": "https://www.aibase.com/news/29653",
+      "primary_url": "https://www.aibase.com/news/29653",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
-          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
-          "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
-          "recommend_reason_zh": "阿里巴巴的Qwen将整合进Apple Intelligence，为中国用户在iOS、iPadOS、macOS和visionOS上提供文本和图像AI功能。",
-          "url": "https://x.com/thexpin/status/2077346752219521469",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T10:57:15Z"
+          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "title_en": null,
+          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "summary": null,
+          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
+          "url": "https://www.aibase.com/news/29653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T09:28:58.009655Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：X.PIN (@thexpin)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
-          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
-          "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-          "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
-          "recommend_reason_zh": "阿里巴巴的Qwen将整合进Apple Intelligence，为中国用户在iOS、iPadOS、macOS和visionOS上提供文本和图像AI功能。",
-          "url": "https://x.com/thexpin/status/2077346752219521469",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T10:57:15Z"
+          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "title_en": null,
+          "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "summary": null,
+          "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
+          "url": "https://www.aibase.com/news/29653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T09:28:58.009655Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7223,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-15T10:57:15Z",
-      "latest_at": "2026-07-15T10:57:15Z",
+      "earliest_at": "2026-07-16T09:28:58.009655Z",
+      "latest_at": "2026-07-16T09:28:58.009655Z",
       "primary_item": {
-        "id": "268358b90291fd9e0bb2c1becae06014ed3f1340",
-        "title": "阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-        "title_zh": "阿里Qwen将集成至Apple Intelligence服务中国用户",
-        "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-        "title_original": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-        "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
-        "recommend_reason_zh": "阿里巴巴的Qwen将整合进Apple Intelligence，为中国用户在iOS、iPadOS、macOS和visionOS上提供文本和图像AI功能。",
-        "url": "https://x.com/thexpin/status/2077346752219521469",
-        "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT"
+        "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+        "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+        "title_zh": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+        "title_en": null,
+        "title_original": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+        "summary": null,
+        "recommend_reason_zh": "7月16日MiniMax Code 2.0桌面端上线，专门解决长任务中agent中途中断、丢失上下文的问题，并预告本月将推出远程操控和浏览器接管功能。",
+        "url": "https://www.aibase.com/news/29653",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "合作落地前没实际接口可用，等具体接入方案再评估。",
+      "persona_score": 75,
+      "persona_review": "桌面端已可用，长任务更稳，写代码体验提升，值得更新。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     },
     {
@@ -1918,15 +1945,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1953,90 +1980,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
-      }
-    },
-    {
-      "story_id": "story_3eeca136967d",
-      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-      "primary_url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "title_en": null,
-          "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
-          "recommend_reason_zh": "本文介绍了用Codex作为主力、UU远程兜底的远程操控Agent方案，实现“在哪都能Coding”的灵活开发环境，适合程序员随时随地进行编码工作。",
-          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "title_en": null,
-          "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
-          "recommend_reason_zh": "本文介绍了用Codex作为主力、UU远程兜底的远程操控Agent方案，实现“在哪都能Coding”的灵活开发环境，适合程序员随时随地进行编码工作。",
-          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8745,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T00:12:00Z",
-      "latest_at": "2026-07-16T00:12:00Z",
-      "primary_item": {
-        "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "title_zh": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "title_en": null,
-        "title_original": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
-        "recommend_reason_zh": "本文介绍了用Codex作为主力、UU远程兜底的远程操控Agent方案，实现“在哪都能Coding”的灵活开发环境，适合程序员随时随地进行编码工作。",
-        "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "若附代码可照搬，否则仅思路参考，需自行调试拼接。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T09:37:27.437898Z"
+        "scored_at": "2026-07-16T12:04:38.830888Z"
       }
     }
   ]
