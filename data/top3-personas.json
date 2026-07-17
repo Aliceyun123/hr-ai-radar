@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T19:38:31.166835Z",
+  "generated_at": "2026-07-17T21:14:05.825684Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_5142a2d0cb41",
+      "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "手机上修PR评论？怕是只改了几个空格，还得回桌面重写。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅官方博客介绍功能，无独立验证，证据不足。"
+        },
+        "pragmatic": {
+          "score": 95,
+          "review": "移动端直接修PR评论，省去开电脑，今天就能省时间。"
+        }
+      }
+    },
+    {
       "story_id": "story_f7be63b540c0",
       "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
       "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -40,7 +60,7 @@
       "story_id": "story_3c32cc962842",
       "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "直接结合NeMo和Diffusers，大规模微调视频/图像模型今天就能上。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4cdf56f2cdfc",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-      "url": "https://www.aibase.com/news/29695",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "8B模型登顶某个榜，但RTEB榜全称是什么？敢上BEIR跑一圈吗？"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有新闻稿，无论文代码和独立评测，可信度存疑。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "直接能换用，检索任务性能更强。"
         }
       }
     }

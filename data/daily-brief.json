@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-07-17T19:33:29.651826Z",
+  "generated_at": "2026-07-17T21:08:25.484115Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5142a2d0cb41",
+      "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：用Copilot云端代理修复拉取请求评论",
+          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and…\nYou can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and on individual review comments, giving you multilpe ways to start a Copilot-assisted fix.\nCopilot cloud agent helps you respond to review feedback wit",
+          "recommend_reason_zh": "在GitHub Mobile的PR评论中，点击Fix with Copilot即可一键启动Copilot cloud agent修复，无需手动编写提示，已在iOS和Android最新版上线。",
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：用Copilot云端代理修复拉取请求评论",
+          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and…\nYou can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and on individual review comments, giving you multilpe ways to start a Copilot-assisted fix.\nCopilot cloud agent helps you respond to review feedback wit",
+          "recommend_reason_zh": "在GitHub Mobile的PR评论中，点击Fix with Copilot即可一键启动Copilot cloud agent修复，无需手动编写提示，已在iOS和Android最新版上线。",
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8545,
+      "importance": 0.8545,
+      "importance_score": 0.8545,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9808,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T19:47:45Z",
+      "latest_at": "2026-07-17T19:47:45Z",
+      "primary_item": {
+        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+        "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "title_zh": "GitHub Mobile：用Copilot云端代理修复拉取请求评论",
+        "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "summary": "You can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and…\nYou can now select Fix with Copilot directly from Copilot code review pull request comments in GitHub Mobile. The button is available both on the pull request’s main view and on individual review comments, giving you multilpe ways to start a Copilot-assisted fix.\nCopilot cloud agent helps you respond to review feedback wit",
+        "recommend_reason_zh": "在GitHub Mobile的PR评论中，点击Fix with Copilot即可一键启动Copilot cloud agent修复，无需手动编写提示，已在iOS和Android最新版上线。",
+        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 95,
+      "persona_review": "移动端直接修PR评论，省去开电脑，今天就能省时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T21:13:55.576120Z"
+      }
+    },
     {
       "story_id": "story_3c32cc962842",
       "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9494,
+        "recency": 0.928,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8711,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -201,7 +286,7 @@
           "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
           "title_en": "Apple’s plot to crush OpenAI",
           "title_original": "Apple’s plot to crush OpenAI",
-          "summary": "On The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nAlso on The Vergecast: Our thoughts on Apple’s public betas and Siri AI, the latest on the X algorithm, the cracking face emoji, and more.\nOn The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic wil",
+          "summary": null,
           "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
           "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
           "source": "The Verge",
@@ -236,7 +321,7 @@
           "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
           "title_en": "Apple’s plot to crush OpenAI",
           "title_original": "Apple’s plot to crush OpenAI",
-          "summary": "On The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nAlso on The Vergecast: Our thoughts on Apple’s public betas and Siri AI, the latest on the X algorithm, the cracking face emoji, and more.\nOn The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic wil",
+          "summary": null,
           "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
           "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
           "source": "The Verge",
@@ -247,15 +332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9514,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -284,7 +369,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -332,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -368,121 +453,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
-      }
-    },
-    {
-      "story_id": "story_780136eb567a",
-      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-          "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        },
-        {
-          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": null,
-          "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-          "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        },
-        {
-          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": null,
-          "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7162,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T20:26:23Z",
-      "latest_at": "2026-07-16T20:26:23Z",
-      "primary_item": {
-        "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-        "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-        "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-        "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
-        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "法律纠纷不写代码，但提醒你注意内容安全合规。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -530,15 +501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.9361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,7 +537,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -614,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,7 +621,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -698,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,7 +705,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -782,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.8355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +789,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -866,15 +837,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.7124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,7 +873,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -950,21 +921,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T11:10:01Z",
       "latest_at": "2026-07-17T11:10:01Z",
@@ -986,7 +956,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1034,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,7 +1039,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1117,15 +1087,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,7 +1122,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1200,15 +1170,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8631,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,7 +1205,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1283,15 +1253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,7 +1288,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1366,15 +1336,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1401,7 +1371,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1478,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7613,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1514,7 +1484,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1562,15 +1532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8631,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1597,7 +1567,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1645,15 +1615,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.837,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1680,7 +1650,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     },
     {
@@ -1728,15 +1698,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8631,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1763,7 +1733,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T19:38:20.679106Z"
+        "scored_at": "2026-07-17T21:13:55.576120Z"
       }
     }
   ]

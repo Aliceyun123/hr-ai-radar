@@ -1032,6 +1032,24 @@
       "review": "垂直场景方案，非通用工具，有相关业务可以观望。",
       "title_hash": "cd61b219",
       "scored_at": "2026-07-17T19:38:31.166701Z"
+    },
+    "story_5142a2d0cb41|pragmatic|0a5c5b24": {
+      "score": 95,
+      "review": "移动端直接修PR评论，省去开电脑，今天就能省时间。",
+      "title_hash": "d6907271",
+      "scored_at": "2026-07-17T21:13:57.804085Z"
+    },
+    "story_5142a2d0cb41|cynic|f4237a62": {
+      "score": 70,
+      "review": "手机上修PR评论？怕是只改了几个空格，还得回桌面重写。",
+      "title_hash": "d6907271",
+      "scored_at": "2026-07-17T21:14:02.564283Z"
+    },
+    "story_5142a2d0cb41|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方博客介绍功能，无独立验证，证据不足。",
+      "title_hash": "d6907271",
+      "scored_at": "2026-07-17T21:14:05.825611Z"
     }
   }
 }
