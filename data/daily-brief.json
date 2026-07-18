@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:32:51.156475Z",
+  "generated_at": "2026-07-18T06:19:00.055664Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8941,
+        "recency": 0.8591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.846,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7762,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9242,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9242,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -502,15 +502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -539,7 +539,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -587,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8667,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -623,7 +623,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
+      }
+    },
+    {
+      "story_id": "story_c449eac7cc43",
+      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+      "primary_url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3de47687089129541af59069ffb80331ab438a3",
+          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+          "title_en": "Neil Rimer thinks the AI money is coming back out",
+          "title_original": "Neil Rimer thinks the AI money is coming back out",
+          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+          "recommend_reason_zh": "Neil Rimer，Index Ventures联合创始人，预测AI在硅谷创造的历史性财富将不得不自愿或非自愿地重新分配，揭示了科技投资圈的深层隐忧。",
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-18T04:47:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f3de47687089129541af59069ffb80331ab438a3",
+          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+          "title_en": "Neil Rimer thinks the AI money is coming back out",
+          "title_original": "Neil Rimer thinks the AI money is coming back out",
+          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+          "recommend_reason_zh": "Neil Rimer，Index Ventures联合创始人，预测AI在硅谷创造的历史性财富将不得不自愿或非自愿地重新分配，揭示了科技投资圈的深层隐忧。",
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-18T04:47:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9782,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T04:47:25Z",
+      "latest_at": "2026-07-18T04:47:25Z",
+      "primary_item": {
+        "id": "f3de47687089129541af59069ffb80331ab438a3",
+        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+        "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+        "title_en": "Neil Rimer thinks the AI money is coming back out",
+        "title_original": "Neil Rimer thinks the AI money is coming back out",
+        "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+        "recommend_reason_zh": "Neil Rimer，Index Ventures联合创始人，预测AI在硅谷创造的历史性财富将不得不自愿或非自愿地重新分配，揭示了科技投资圈的深层隐忧。",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "投资人画饼，对写代码没半点帮助，跳过。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -671,15 +755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -707,7 +791,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -755,21 +839,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:11:19Z",
       "latest_at": "2026-07-17T17:11:19Z",
@@ -791,7 +874,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -839,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9116,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -876,7 +959,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -924,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -959,7 +1042,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1007,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7617,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,90 +1125,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
-      }
-    },
-    {
-      "story_id": "story_6a54ab2c9478",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "url": "https://www.ithome.com/0/978/277.htm",
-      "primary_url": "https://www.ithome.com/0/978/277.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_en": null,
-          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-          "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_en": null,
-          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-          "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T11:10:01Z",
-      "latest_at": "2026-07-17T11:10:01Z",
-      "primary_item": {
-        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "title_en": null,
-        "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-        "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
-        "url": "https://www.ithome.com/0/978/277.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "法律纠纷不写代码，对实操无影响，直接忽略。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1173,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,90 +1208,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
-      "story_id": "story_f7be63b540c0",
-      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-      "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-      "primary_url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "story_id": "story_6a54ab2c9478",
+      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+      "url": "https://www.ithome.com/0/978/277.htm",
+      "primary_url": "https://www.ithome.com/0/978/277.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "631799f38cbcccea4fd890910553090807498366",
-          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
           "title_en": null,
-          "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
-          "recommend_reason_zh": "Kimi K3以1679分登顶Frontend Code Arena总榜，力压Claude Fable 5和GPT-5.6 Sol，从第18名跃升17个名次，打破双头垄断格局。",
-          "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
+          "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-17T04:57:38Z"
+          "published_at": "2026-07-17T11:10:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "631799f38cbcccea4fd890910553090807498366",
-          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
           "title_en": null,
-          "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
-          "recommend_reason_zh": "Kimi K3以1679分登顶Frontend Code Arena总榜，力压Claude Fable 5和GPT-5.6 Sol，从第18名跃升17个名次，打破双头垄断格局。",
-          "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
+          "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-17T04:57:38Z"
+          "published_at": "2026-07-17T11:10:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7217,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T04:57:38Z",
-      "latest_at": "2026-07-17T04:57:38Z",
+      "earliest_at": "2026-07-17T11:10:01Z",
+      "latest_at": "2026-07-17T11:10:01Z",
       "primary_item": {
-        "id": "631799f38cbcccea4fd890910553090807498366",
-        "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-        "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+        "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
         "title_en": null,
-        "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-        "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
-        "recommend_reason_zh": "Kimi K3以1679分登顶Frontend Code Arena总榜，力压Claude Fable 5和GPT-5.6 Sol，从第18名跃升17个名次，打破双头垄断格局。",
-        "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+        "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
+        "recommend_reason_zh": "苹果向约40名跳槽至OpenAI的前员工发出律师函，指控其涉嫌窃取商业机密，诉讼提及两人离职后保留笔记本并多次访问内网下载数十份机密文件。",
+        "url": "https://www.ithome.com/0/978/277.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "开放权重可下载部署，前端编码需求直接替换，省API费用。",
+      "persona_score": 20,
+      "persona_review": "法律纠纷不写代码，对实操无影响，直接忽略。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
+      }
+    },
+    {
+      "story_id": "story_36e3b8c457f1",
+      "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
+      "primary_url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
+          "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
+          "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
+          "title_en": "LLM cliché highlighter",
+          "title_original": "LLM cliché highlighter",
+          "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
+          "recommend_reason_zh": "Simon Willison用Fable 5 vibe开发的这个应用，能检测LLM文本中十种常见陈词滥调模式（如“no X, no Y”句式），解决他被AI写作风格困扰的痛点。",
+          "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T12:11:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
+          "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
+          "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
+          "title_en": "LLM cliché highlighter",
+          "title_original": "LLM cliché highlighter",
+          "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
+          "recommend_reason_zh": "Simon Willison用Fable 5 vibe开发的这个应用，能检测LLM文本中十种常见陈词滥调模式（如“no X, no Y”句式），解决他被AI写作风格困扰的痛点。",
+          "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T12:11:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7697,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T12:11:11Z",
+      "latest_at": "2026-07-17T12:11:11Z",
+      "primary_item": {
+        "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
+        "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
+        "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
+        "title_en": "LLM cliché highlighter",
+        "title_original": "LLM cliché highlighter",
+        "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
+        "recommend_reason_zh": "Simon Willison用Fable 5 vibe开发的这个应用，能检测LLM文本中十种常见陈词滥调模式（如“no X, no Y”句式），解决他被AI写作风格困扰的痛点。",
+        "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源工具可直接检测AI套话，写内容审核或写作辅助时能用上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1339,15 +1422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,7 +1457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1422,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1540,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1505,15 +1588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1540,7 +1623,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     },
     {
@@ -1588,15 +1671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1623,90 +1706,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
-      }
-    },
-    {
-      "story_id": "story_22f675a31da5",
-      "title": "文远知行推出物理 AI 大模型 WITT",
-      "url": "https://www.aibase.com/news/29688",
-      "primary_url": "https://www.aibase.com/news/29688",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-          "title": "文远知行推出物理 AI 大模型 WITT",
-          "title_zh": "文远知行推出物理 AI 大模型 WITT",
-          "title_en": null,
-          "title_original": "文远知行推出物理 AI 大模型 WITT",
-          "summary": null,
-          "recommend_reason_zh": "7月17日，文远知行发布物理AI大模型WeRide WITT，引入“最小物理事实单元”概念，旨在让AI更好理解视频、图像等多模态信息，为自动驾驶决策提供更扎实的认知基础。",
-          "url": "https://www.aibase.com/news/29688",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:21:51.096110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-          "title": "文远知行推出物理 AI 大模型 WITT",
-          "title_zh": "文远知行推出物理 AI 大模型 WITT",
-          "title_en": null,
-          "title_original": "文远知行推出物理 AI 大模型 WITT",
-          "summary": null,
-          "recommend_reason_zh": "7月17日，文远知行发布物理AI大模型WeRide WITT，引入“最小物理事实单元”概念，旨在让AI更好理解视频、图像等多模态信息，为自动驾驶决策提供更扎实的认知基础。",
-          "url": "https://www.aibase.com/news/29688",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:21:51.096110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7691,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T09:21:51.096110Z",
-      "latest_at": "2026-07-17T09:21:51.096110Z",
-      "primary_item": {
-        "id": "0325cceea44beff0fd75c5b049d868daec0c5ff0",
-        "title": "文远知行推出物理 AI 大模型 WITT",
-        "title_zh": "文远知行推出物理 AI 大模型 WITT",
-        "title_en": null,
-        "title_original": "文远知行推出物理 AI 大模型 WITT",
-        "summary": null,
-        "recommend_reason_zh": "7月17日，文远知行发布物理AI大模型WeRide WITT，引入“最小物理事实单元”概念，旨在让AI更好理解视频、图像等多模态信息，为自动驾驶决策提供更扎实的认知基础。",
-        "url": "https://www.aibase.com/news/29688",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "纯产品发布，没开源没API，等能用再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T03:38:39.951403Z"
+        "scored_at": "2026-07-18T06:23:15.834844Z"
       }
     }
   ]

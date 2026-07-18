@@ -1104,6 +1104,18 @@
       "review": "纯产品发布，没开源没API，等能用再说。",
       "title_hash": "a2f616b2",
       "scored_at": "2026-07-18T03:38:45.321196Z"
+    },
+    "story_c449eac7cc43|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "投资人画饼，对写代码没半点帮助，跳过。",
+      "title_hash": "d0330f3b",
+      "scored_at": "2026-07-18T06:23:18.552025Z"
+    },
+    "story_36e3b8c457f1|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源工具可直接检测AI套话，写内容审核或写作辅助时能用上。",
+      "title_hash": "75b6cc02",
+      "scored_at": "2026-07-18T06:23:22.511389Z"
     }
   }
 }

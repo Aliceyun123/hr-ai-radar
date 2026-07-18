@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:38:45.321330Z",
+  "generated_at": "2026-07-18T06:23:22.511528Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_f7be63b540c0",
-      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-      "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "前端编码榜登顶不错，但换到LeetCode Hard试试？开放权重倒是比闭源大方。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅个人推特宣称登顶，无论文无代码无评测细节，可信度低。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "开放权重可下载部署，前端编码需求直接替换，省API费用。"
-        }
-      }
-    },
-    {
       "story_id": "story_39f96da3c40c",
       "title": "仓库级GitHub Copilot使用指标正式推出 / Repository-level GitHub Copilot usage metrics generally available",
       "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "团队可查各仓库Copilot使用量，辅助成本分摊和采纳分析，今天就能开。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c13975dae097",
+      "title": "Copilot代码审查：定制化与可配置性改进 / Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "定制化可配置性，终于不用被Copilot的默认规则气到摔键盘了。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方博客宣称更新，无代码或第三方评测可验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "今天就能配置审查规则，适配自己团队风格，省去手动 review 重复劳动。"
         }
       }
     }
