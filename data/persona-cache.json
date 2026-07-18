@@ -1092,6 +1092,18 @@
       "review": "官方公告，无可复现评测，信源单一。",
       "title_hash": "36528883",
       "scored_at": "2026-07-17T23:13:50.534907Z"
+    },
+    "story_d95ae44b75d8|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "新模型发布但未开放接口，等实测或开源后再评估价值。",
+      "title_hash": "f32d38a9",
+      "scored_at": "2026-07-18T03:38:42.395885Z"
+    },
+    "story_22f675a31da5|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "纯产品发布，没开源没API，等能用再说。",
+      "title_hash": "a2f616b2",
+      "scored_at": "2026-07-18T03:38:45.321196Z"
     }
   }
 }
