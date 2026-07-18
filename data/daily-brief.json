@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T12:05:30.308826Z",
+  "generated_at": "2026-07-18T13:50:15.360041Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7903,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7478,
+        "recency": 0.7292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8169,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -332,15 +332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7667,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -369,7 +369,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -417,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8169,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,7 +454,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -502,21 +502,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.747,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:38:33Z",
       "latest_at": "2026-07-17T17:38:33Z",
@@ -538,7 +537,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -586,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -621,7 +620,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -669,15 +668,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,7 +703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -752,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7611,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,7 +786,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -835,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.7102,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,7 +869,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -918,15 +917,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8058,
+        "recency": 0.7858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,7 +954,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
+      }
+    },
+    {
+      "story_id": "story_b3a9ac157817",
+      "title": "为什么人工智能公司的标志看起来像肛门？",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "primary_url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "source": "velvetshark.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": null,
+          "title_original": "为什么人工智能公司的标志看起来像肛门？",
+          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "ca4b86483c18d3920b69f56e1582688055547279",
+          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么AI公司的Logo都长得像菊花？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": "Naomi Klein在《No Logo》中认为AI公司logo的抽象化反映了从具体业务转向品牌化与金融化，OpenAI的品牌指南强调“right angles”带来精确感。",
+          "url": "https://news.ycombinator.com/item?id=48956924",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:55:45.415000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": "文章幽默地揭示了OpenAI、Anthropic等AI公司渐变圆形logo与人体解剖结构的惊人相似性，并引用FastCompany 2023年因编辑限制未能直言的现象，揭示了设计趋同背后的品牌心理。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes? (2025)",
+          "title_original": "Why do AI company logos look like buttholes? (2025)",
+          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "recommend_reason_zh": "这篇文章幽默揭示了AI公司logo为何普遍采用圆形渐变设计，甚至如Anthropic的Claude logo与Kurt Vonnegut书中插图惊人相似，OpenAI的“Blossom”logo被官方描述为“human-centered thinking”。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "velvetshark.com"
+      ],
+      "items": [
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": null,
+          "title_original": "为什么人工智能公司的标志看起来像肛门？",
+          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "ca4b86483c18d3920b69f56e1582688055547279",
+          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么AI公司的Logo都长得像菊花？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": "Naomi Klein在《No Logo》中认为AI公司logo的抽象化反映了从具体业务转向品牌化与金融化，OpenAI的品牌指南强调“right angles”带来精确感。",
+          "url": "https://news.ycombinator.com/item?id=48956924",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:55:45.415000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": "文章幽默地揭示了OpenAI、Anthropic等AI公司渐变圆形logo与人体解剖结构的惊人相似性，并引用FastCompany 2023年因编辑限制未能直言的现象，揭示了设计趋同背后的品牌心理。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes? (2025)",
+          "title_original": "Why do AI company logos look like buttholes? (2025)",
+          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "recommend_reason_zh": "这篇文章幽默揭示了AI公司logo为何普遍采用圆形渐变设计，甚至如Anthropic的Claude logo与Kurt Vonnegut书中插图惊人相似，OpenAI的“Blossom”logo被官方描述为“human-centered thinking”。",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5915,
+      "importance": 0.5915,
+      "importance_score": 0.5915,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9761,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:06:50Z",
+      "latest_at": "2026-07-18T12:09:54.152000Z",
+      "primary_item": {
+        "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+        "title": "为什么人工智能公司的标志看起来像肛门？",
+        "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+        "title_en": null,
+        "title_original": "为什么人工智能公司的标志看起来像肛门？",
+        "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+        "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
+        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+        "source": "velvetshark.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 5,
+      "persona_review": "设计吐槽，不写代码不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -1023,7 +1192,7 @@
           "published_at": "2026-07-17T14:31:10Z"
         },
         {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "id": "b47194ee0332f9490347528350fd805a286d25e0",
           "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
           "title_zh": "Mozilla：开源人工智能的发展现状",
           "title_en": "The state of open source AI",
@@ -1031,16 +1200,16 @@
           "summary": null,
           "recommend_reason_zh": "Mozilla/SlashData 2026开发者调查显示，79%的开发者使用开源AI模型，但只有51%能进入生产阶段——这篇文章深入剖析了开源AI的商业规模、技术栈分层与全球战略博弈。",
           "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-17T14:31:10Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "stateofopensource.ai"
       ],
@@ -1102,7 +1271,7 @@
           "published_at": "2026-07-17T14:31:10Z"
         },
         {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "id": "b47194ee0332f9490347528350fd805a286d25e0",
           "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
           "title_zh": "Mozilla：开源人工智能的发展现状",
           "title_en": "The state of open source AI",
@@ -1110,23 +1279,23 @@
           "summary": null,
           "recommend_reason_zh": "Mozilla/SlashData 2026开发者调查显示，79%的开发者使用开源AI模型，但只有51%能进入生产阶段——这篇文章深入剖析了开源AI的商业规模、技术栈分层与全球战略博弈。",
           "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-17T14:31:10Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5859,
-      "importance": 0.5859,
-      "importance_score": 0.5859,
+      "score": 0.5822,
+      "importance": 0.5822,
+      "importance_score": 0.5822,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8059,
+        "recency": 0.7858,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1153,7 +1322,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
+      }
+    },
+    {
+      "story_id": "story_1a64b2e84394",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": null,
+          "title_original": "图表展示：AI对Stack Overflow的影响",
+          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+          "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
+          "summary": null,
+          "recommend_reason_zh": "本文通过用户评论揭示AI如何加速Stack Overflow的衰落——AI靠抓取SO数据受益，而SO的toxic社区和错误政策早已埋下祸根，最终“消灭了一种点对点交流方式”。",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:55:45.415000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
+          "summary": null,
+          "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": null,
+          "title_original": "图表展示：AI对Stack Overflow的影响",
+          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+          "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
+          "summary": null,
+          "recommend_reason_zh": "本文通过用户评论揭示AI如何加速Stack Overflow的衰落——AI靠抓取SO数据受益，而SO的toxic社区和错误政策早已埋下祸根，最终“消灭了一种点对点交流方式”。",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:55:45.415000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
+          "summary": null,
+          "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.995,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "title_zh": "图表展示：AI对Stack Overflow的影响",
+        "title_en": null,
+        "title_original": "图表展示：AI对Stack Overflow的影响",
+        "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+        "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "看看数据了解趋势，但没实际工具或方案可抄。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -1259,15 +1569,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.8146,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1294,44 +1604,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
-      "story_id": "story_1a64b2e84394",
-      "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-      "url": "https://news.ycombinator.com/item?id=48956949",
-      "primary_url": "https://news.ycombinator.com/item?id=48956949",
+      "story_id": "story_6e3ae8d4de00",
+      "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://news.ycombinator.com/item?id=48956879",
+      "primary_url": "https://news.ycombinator.com/item?id=48956879",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
-          "summary": "I still don't understand why anyone would go with that whole \"no conversation please\"\nreply\nIt quickly turned into simple questions and \"send me the codes\"\nreply\nNot sure I would blame it all on AI though, the incentives of SO only worked while there were worthwhile questions to answer and make you feel smart about. After that well dried up, the only thing left was the stuff AI can do with a prompt; ironically AI got a leg up by scraping SO. This is similar to what happened with Wikipedia, excep",
-          "recommend_reason_zh": "本文通过用户评论揭示AI如何加速Stack Overflow的衰落——AI靠抓取SO数据受益，而SO的toxic社区和错误政策早已埋下祸根，最终“消灭了一种点对点交流方式”。",
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
+          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:55:45.415000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
-          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
-          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
-          "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
+          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "source_count": 2,
@@ -1341,72 +1651,72 @@
       ],
       "items": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
-          "summary": "I still don't understand why anyone would go with that whole \"no conversation please\"\nreply\nIt quickly turned into simple questions and \"send me the codes\"\nreply\nNot sure I would blame it all on AI though, the incentives of SO only worked while there were worthwhile questions to answer and make you feel smart about. After that well dried up, the only thing left was the stuff AI can do with a prompt; ironically AI got a leg up by scraping SO. This is similar to what happened with Wikipedia, excep",
-          "recommend_reason_zh": "本文通过用户评论揭示AI如何加速Stack Overflow的衰落——AI靠抓取SO数据受益，而SO的toxic社区和错误政策早已埋下祸根，最终“消灭了一种点对点交流方式”。",
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
+          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:55:45.415000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
-          "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "一张图看懂AI对Stack Overflow做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
-          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
-          "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
+          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9977,
+        "recency": 0.9942,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T11:55:45.415000Z",
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T13:26:05.437000Z",
       "primary_item": {
-        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-        "title": "一张图看懂AI对Stack Overflow做了什么 / What AI did to stackoverflow in a graph",
-        "title_zh": "一张图看懂AI对Stack Overflow做了什么",
-        "title_en": "What AI did to stackoverflow in a graph",
-        "title_original": "What AI did to stackoverflow in a graph",
-        "summary": "I still don't understand why anyone would go with that whole \"no conversation please\"\nreply\nIt quickly turned into simple questions and \"send me the codes\"\nreply\nNot sure I would blame it all on AI though, the incentives of SO only worked while there were worthwhile questions to answer and make you feel smart about. After that well dried up, the only thing left was the stuff AI can do with a prompt; ironically AI got a leg up by scraping SO. This is similar to what happened with Wikipedia, excep",
-        "recommend_reason_zh": "本文通过用户评论揭示AI如何加速Stack Overflow的衰落——AI靠抓取SO数据受益，而SO的toxic社区和错误政策早已埋下祸根，最终“消灭了一种点对点交流方式”。",
-        "url": "https://news.ycombinator.com/item?id=48956949",
+        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+        "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+        "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
+        "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
+        "url": "https://news.ycombinator.com/item?id=48956879",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "行业数据，看看就好，不影响今天写代码。",
+      "persona_score": 20,
+      "persona_review": "模型代号不明，无开源或API，只适合论文流。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -1483,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7543,
+        "recency": 0.7355,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,119 +1828,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
-      "story_id": "story_b3a9ac157817",
-      "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-      "url": "https://news.ycombinator.com/item?id=48956924",
-      "primary_url": "https://news.ycombinator.com/item?id=48956924",
+      "story_id": "story_641c7fe4ecc7",
+      "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://news.ycombinator.com/item?id=48957779",
+      "primary_url": "https://news.ycombinator.com/item?id=48957779",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-          "title_zh": "为什么AI公司的Logo都长得像菊花？",
-          "title_en": "Why do AI company logos look like buttholes?",
-          "title_original": "Why do AI company logos look like buttholes?",
-          "summary": "Naomi Klein in her book No Logo interprets it as a form of abstraction away from the passé and less profitable business of whatever concrete task those industries used to do, and towards outsourcing, branding, and financialization as an end in itself.\nreply\nI don’t see the gradient, their logo is black and white. Where’s the gradient? Was this written by an AI hallucinating?\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n“…but that’s really all a butthole is, an aperture” \n- Louis CK\nreply\nWe do what",
-          "recommend_reason_zh": "Naomi Klein在《No Logo》中认为AI公司logo的抽象化反映了从具体业务转向品牌化与金融化，OpenAI的品牌指南强调“right angles”带来精确感。",
-          "url": "https://news.ycombinator.com/item?id=48956924",
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
+          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
+          "url": "https://news.ycombinator.com/item?id=48957779",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:55:45.415000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-          "title_zh": "为什么AI公司的Logo都长得像菊花？",
-          "title_en": "Why do AI company logos look like buttholes?",
-          "title_original": "Why do AI company logos look like buttholes?",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
-          "recommend_reason_zh": "文章幽默地揭示了OpenAI、Anthropic等AI公司渐变圆形logo与人体解剖结构的惊人相似性，并引用FastCompany 2023年因编辑限制未能直言的现象，揭示了设计趋同背后的品牌心理。",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
+          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-          "title_zh": "为什么AI公司的Logo都长得像菊花？",
-          "title_en": "Why do AI company logos look like buttholes?",
-          "title_original": "Why do AI company logos look like buttholes?",
-          "summary": "Naomi Klein in her book No Logo interprets it as a form of abstraction away from the passé and less profitable business of whatever concrete task those industries used to do, and towards outsourcing, branding, and financialization as an end in itself.\nreply\nI don’t see the gradient, their logo is black and white. Where’s the gradient? Was this written by an AI hallucinating?\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n“…but that’s really all a butthole is, an aperture” \n- Louis CK\nreply\nWe do what",
-          "recommend_reason_zh": "Naomi Klein在《No Logo》中认为AI公司logo的抽象化反映了从具体业务转向品牌化与金融化，OpenAI的品牌指南强调“right angles”带来精确感。",
-          "url": "https://news.ycombinator.com/item?id=48956924",
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
+          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
+          "url": "https://news.ycombinator.com/item?id=48957779",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T11:55:45.415000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-          "title_zh": "为什么AI公司的Logo都长得像菊花？",
-          "title_en": "Why do AI company logos look like buttholes?",
-          "title_original": "Why do AI company logos look like buttholes?",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
-          "recommend_reason_zh": "文章幽默地揭示了OpenAI、Anthropic等AI公司渐变圆形logo与人体解剖结构的惊人相似性，并引用FastCompany 2023年因编辑限制未能直言的现象，揭示了设计趋同背后的品牌心理。",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
+          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9977,
+        "recency": 0.9942,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:06:50Z",
-      "latest_at": "2026-07-18T11:55:45.415000Z",
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T13:26:05.437000Z",
       "primary_item": {
-        "id": "ca4b86483c18d3920b69f56e1582688055547279",
-        "title": "为什么AI公司的Logo都长得像菊花？ / Why do AI company logos look like buttholes?",
-        "title_zh": "为什么AI公司的Logo都长得像菊花？",
-        "title_en": "Why do AI company logos look like buttholes?",
-        "title_original": "Why do AI company logos look like buttholes?",
-        "summary": "Naomi Klein in her book No Logo interprets it as a form of abstraction away from the passé and less profitable business of whatever concrete task those industries used to do, and towards outsourcing, branding, and financialization as an end in itself.\nreply\nI don’t see the gradient, their logo is black and white. Where’s the gradient? Was this written by an AI hallucinating?\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n“…but that’s really all a butthole is, an aperture” \n- Louis CK\nreply\nWe do what",
-        "recommend_reason_zh": "Naomi Klein在《No Logo》中认为AI公司logo的抽象化反映了从具体业务转向品牌化与金融化，OpenAI的品牌指南强调“right angles”带来精确感。",
-        "url": "https://news.ycombinator.com/item?id=48956924",
+        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+        "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+        "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
+        "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
+        "url": "https://news.ycombinator.com/item?id=48957779",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_review": "跟写代码无关，浪费时间。",
+      "persona_score": 50,
+      "persona_review": "研究很亮眼，但暂无开源代码或API可用，等可复现再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -1707,15 +2017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8173,
+        "recency": 0.797,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1742,7 +2052,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     },
     {
@@ -1819,15 +2129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4961,
+      "importance": 0.4961,
+      "importance_score": 0.4961,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.724,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1854,231 +2164,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
-      }
-    },
-    {
-      "story_id": "story_6cb927889c1d",
-      "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-      "url": "https://news.ycombinator.com/item?id=48947776",
-      "primary_url": "https://news.ycombinator.com/item?id=48947776",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "00837cb65625720693140c00c98da92b13318611",
-          "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-          "title_zh": "Claude Code：一个反功能的剖析",
-          "title_en": "Claude Code: Anatomy of a Misfeature",
-          "title_original": "Claude Code: Anatomy of a Misfeature",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章揭露了Claude Code的缺陷：Boris Cherny只在GitHub issue中现身以确保移除\"extreme danger\"标签，而OpenAI坚持不让禁用60秒超时，但因其开源，用户已能fork自行添加选项。",
-          "url": "https://news.ycombinator.com/item?id=48947776",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "5f891bce3f8a27e2e84485756020e01043429969",
-          "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-          "title_zh": "Claude Code：一个反功能的剖析",
-          "title_en": "Claude Code: Anatomy of a Misfeature",
-          "title_original": "Claude Code: Anatomy of a Misfeature",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在2026年7月1日向Claude Code 2.1.198悄悄加入一个“彩蛋”：60秒内无人类输入就自动继续，且从未在changelog中提及，两天后修复，但用户信任已受损。",
-          "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:26:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "00837cb65625720693140c00c98da92b13318611",
-          "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-          "title_zh": "Claude Code：一个反功能的剖析",
-          "title_en": "Claude Code: Anatomy of a Misfeature",
-          "title_original": "Claude Code: Anatomy of a Misfeature",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章揭露了Claude Code的缺陷：Boris Cherny只在GitHub issue中现身以确保移除\"extreme danger\"标签，而OpenAI坚持不让禁用60秒超时，但因其开源，用户已能fork自行添加选项。",
-          "url": "https://news.ycombinator.com/item?id=48947776",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "5f891bce3f8a27e2e84485756020e01043429969",
-          "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-          "title_zh": "Claude Code：一个反功能的剖析",
-          "title_en": "Claude Code: Anatomy of a Misfeature",
-          "title_original": "Claude Code: Anatomy of a Misfeature",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在2026年7月1日向Claude Code 2.1.198悄悄加入一个“彩蛋”：60秒内无人类输入就自动继续，且从未在changelog中提及，两天后修复，但用户信任已受损。",
-          "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:26:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7425,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:26:58Z",
-      "latest_at": "2026-07-17T15:28:14.046000Z",
-      "primary_item": {
-        "id": "00837cb65625720693140c00c98da92b13318611",
-        "title": "Claude Code：一个反功能的剖析 / Claude Code: Anatomy of a Misfeature",
-        "title_zh": "Claude Code：一个反功能的剖析",
-        "title_en": "Claude Code: Anatomy of a Misfeature",
-        "title_original": "Claude Code: Anatomy of a Misfeature",
-        "summary": null,
-        "recommend_reason_zh": "这篇文章揭露了Claude Code的缺陷：Boris Cherny只在GitHub issue中现身以确保移除\"extreme danger\"标签，而OpenAI坚持不让禁用60秒超时，但因其开源，用户已能fork自行添加选项。",
-        "url": "https://news.ycombinator.com/item?id=48947776",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "一篇批评文章，指出问题但无解决方案或替代，不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
-      }
-    },
-    {
-      "story_id": "story_11a16a5626cc",
-      "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://news.ycombinator.com/item?id=48947754",
-      "primary_url": "https://news.ycombinator.com/item?id=48947754",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "title_zh": "Show HN: 一个由AI代理发行债券的链上市场",
-          "title_en": "Show HN: On-chain bond market where the issuers are AI agents",
-          "title_original": "Show HN: On-chain bond market where the issuers are AI agents",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道揭示了一个争议性链上债券市场：AI agent作为发行人，但用户已质疑是否会被伊朗利用来融资，引发监管担忧。",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "6c780dcdb5b994be273403d06936d64de1085097",
-          "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "title_zh": "Show HN: 一个由AI代理发行债券的链上市场",
-          "title_en": "Show HN: On-chain bond market where the issuers are AI agents",
-          "title_original": "Show HN: On-chain bond market where the issuers are AI agents",
-          "summary": null,
-          "recommend_reason_zh": "sellbonds.now 让AI代理自主发行、出售和偿还链上债券，已实现在Base主网实时运行，甚至设想了AI为开采价值$20万亿的小行星704 Interamnia而发行$10B债券的未来。",
-          "url": "https://selbonds.now",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "title_zh": "Show HN: 一个由AI代理发行债券的链上市场",
-          "title_en": "Show HN: On-chain bond market where the issuers are AI agents",
-          "title_original": "Show HN: On-chain bond market where the issuers are AI agents",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道揭示了一个争议性链上债券市场：AI agent作为发行人，但用户已质疑是否会被伊朗利用来融资，引发监管担忧。",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "6c780dcdb5b994be273403d06936d64de1085097",
-          "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "title_zh": "Show HN: 一个由AI代理发行债券的链上市场",
-          "title_en": "Show HN: On-chain bond market where the issuers are AI agents",
-          "title_original": "Show HN: On-chain bond market where the issuers are AI agents",
-          "summary": null,
-          "recommend_reason_zh": "sellbonds.now 让AI代理自主发行、出售和偿还链上债券，已实现在Base主网实时运行，甚至设想了AI为开采价值$20万亿的小行星704 Interamnia而发行$10B债券的未来。",
-          "url": "https://selbonds.now",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7425,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:25:20Z",
-      "latest_at": "2026-07-17T15:28:14.046000Z",
-      "primary_item": {
-        "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-        "title": "Show HN: 一个由AI代理发行债券的链上市场 / Show HN: On-chain bond market where the issuers are AI agents",
-        "title_zh": "Show HN: 一个由AI代理发行债券的链上市场",
-        "title_en": "Show HN: On-chain bond market where the issuers are AI agents",
-        "title_original": "Show HN: On-chain bond market where the issuers are AI agents",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道揭示了一个争议性链上债券市场：AI agent作为发行人，但用户已质疑是否会被伊朗利用来融资，引发监管担忧。",
-        "url": "https://news.ycombinator.com/item?id=48947754",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "概念实验，离实际开发远，今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T12:12:33.507867Z"
+        "scored_at": "2026-07-18T13:56:05.277240Z"
       }
     }
   ]

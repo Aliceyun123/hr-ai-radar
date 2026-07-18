@@ -1172,16 +1172,28 @@
       "scored_at": "2026-07-18T10:49:57.628487Z"
     },
     "story_1a64b2e84394|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "行业数据，看看就好，不影响今天写代码。",
-      "title_hash": "a9ee6088",
-      "scored_at": "2026-07-18T12:12:35.870334Z"
+      "score": 55,
+      "review": "看看数据了解趋势，但没实际工具或方案可抄。",
+      "title_hash": "9dff0cca",
+      "scored_at": "2026-07-18T13:56:09.043867Z"
     },
     "story_b3a9ac157817|pragmatic|0a5c5b24": {
-      "score": 0,
-      "review": "跟写代码无关，浪费时间。",
-      "title_hash": "f1a780b7",
-      "scored_at": "2026-07-18T12:12:37.877676Z"
+      "score": 5,
+      "review": "设计吐槽，不写代码不用管。",
+      "title_hash": "15a02be0",
+      "scored_at": "2026-07-18T13:56:06.924180Z"
+    },
+    "story_6e3ae8d4de00|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "模型代号不明，无开源或API，只适合论文流。",
+      "title_hash": "32223a7a",
+      "scored_at": "2026-07-18T13:56:11.638193Z"
+    },
+    "story_641c7fe4ecc7|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "研究很亮眼，但暂无开源代码或API可用，等可复现再关注。",
+      "title_hash": "13cab75f",
+      "scored_at": "2026-07-18T13:56:14.284454Z"
     }
   }
 }
