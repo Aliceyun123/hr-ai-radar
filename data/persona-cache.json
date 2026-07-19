@@ -1272,6 +1272,18 @@
       "review": "地方性监管规定，做房产广告的AI工具需注意合规，多数开发者暂时不受影响。",
       "title_hash": "7c0f0bf8",
       "scored_at": "2026-07-18T23:15:12.121940Z"
+    },
+    "story_1a64b2e84394|cynic|f4237a62": {
+      "score": 35,
+      "review": "把数据拉出来就叫影响分析？相关性和因果先分清楚吧。",
+      "title_hash": "9dff0cca",
+      "scored_at": "2026-07-19T00:14:37.400015Z"
+    },
+    "story_1a64b2e84394|paper-police|966065bf": {
+      "score": 8,
+      "review": "只有数据查询，无论文代码benchmark，无法验证AI影响。",
+      "title_hash": "9dff0cca",
+      "scored_at": "2026-07-19T00:14:39.736713Z"
     }
   }
 }

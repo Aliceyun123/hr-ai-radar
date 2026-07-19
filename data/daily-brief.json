@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-07-18T23:11:42.827183Z",
+  "generated_at": "2026-07-19T00:10:39.372415Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "items": [
-    {
-      "story_id": "story_56c5b0ab76c7",
-      "title": "Codex CLI 0.144.6",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-          "title": "Codex CLI 0.144.6",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.6",
-          "title_original": "Codex CLI 0.144.6",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-18T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-          "title": "Codex CLI 0.144.6",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.6",
-          "title_original": "Codex CLI 0.144.6",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-18T00:00:00Z",
-      "latest_at": "2026-07-18T00:00:00Z",
-      "primary_item": {
-        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
-        "title": "Codex CLI 0.144.6",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.144.6",
-        "title_original": "Codex CLI 0.144.6",
-        "summary": null,
-        "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "小版本更新，用Codex CLI的查下changelog看看修了啥bug。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
-      }
-    },
     {
       "story_id": "story_b3a9ac157817",
       "title": "为什么人工智能公司的标志看起来像肛门？",
@@ -220,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8528,
+        "recency": 0.8407,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -255,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -295,7 +210,7 @@
           "published_at": "2026-07-18T16:51:18.013000Z"
         },
         {
-          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
           "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
@@ -303,15 +218,15 @@
           "summary": null,
           "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
           "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "ykdojo.github.io"
       ],
@@ -345,7 +260,7 @@
           "published_at": "2026-07-18T16:51:18.013000Z"
         },
         {
-          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
           "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
@@ -353,23 +268,23 @@
           "summary": null,
           "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
           "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9497,
+        "recency": 0.9363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -396,7 +311,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -502,15 +417,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5509,
-      "importance": 0.5509,
-      "importance_score": 0.5509,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8895,
+        "recency": 0.877,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -537,7 +452,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -643,15 +558,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8794,
+        "recency": 0.867,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -678,7 +593,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -784,15 +699,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8692,
+        "recency": 0.857,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -819,7 +734,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -836,7 +751,7 @@
           "title_zh": "Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此）",
           "title_en": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
           "title_original": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "summary": "reply\nreply",
+          "summary": null,
           "recommend_reason_zh": "Ada是AI商业智能软件，能从CSV和Excel直接分析数据，结合LLM但不止于此，带来高效洞察，值得了解。",
           "url": "https://news.ycombinator.com/item?id=48962405",
           "source": "hackernews",
@@ -850,7 +765,7 @@
           "title_zh": "Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此）",
           "title_en": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
           "title_original": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "summary": "I tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nI tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nI tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, se",
+          "summary": null,
           "recommend_reason_zh": "开源工具ADA能自动清洗CSV/XLSX/XLSM文件，生成Plotly仪表盘、标记异常并预测基线，默认模型gpt-5.6-luna，甚至无需API key即可工作。",
           "url": "https://github.com/saineshnakra/automated-data-analyst",
           "source": "Hacker News",
@@ -871,7 +786,7 @@
           "title_zh": "Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此）",
           "title_en": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
           "title_original": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "summary": "reply\nreply",
+          "summary": null,
           "recommend_reason_zh": "Ada是AI商业智能软件，能从CSV和Excel直接分析数据，结合LLM但不止于此，带来高效洞察，值得了解。",
           "url": "https://news.ycombinator.com/item?id=48962405",
           "source": "hackernews",
@@ -885,7 +800,7 @@
           "title_zh": "Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此）",
           "title_en": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
           "title_original": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "summary": "I tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nI tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nI tried to automate a data analyst. Contribute to saineshnakra/automated-data-analyst development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, se",
+          "summary": null,
           "recommend_reason_zh": "开源工具ADA能自动清洗CSV/XLSX/XLSM文件，生成Plotly仪表盘、标记异常并预测基线，默认模型gpt-5.6-luna，甚至无需API key即可工作。",
           "url": "https://github.com/saineshnakra/automated-data-analyst",
           "source": "Hacker News",
@@ -896,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -919,7 +834,7 @@
         "title_zh": "Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此）",
         "title_en": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
         "title_original": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-        "summary": "reply\nreply",
+        "summary": null,
         "recommend_reason_zh": "Ada是AI商业智能软件，能从CSV和Excel直接分析数据，结合LLM但不止于此，带来高效洞察，值得了解。",
         "url": "https://news.ycombinator.com/item?id=48962405",
         "source": "hackernews",
@@ -931,7 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -948,7 +863,7 @@
           "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
           "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
           "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": "reply\nAgree AI modified listing make no sense to allow; regulation here is making up for platform failure.\nreply\n- gambling\n  - dating\n  - hiring\n  - advertising It shouldn't even be controversial that this would be broadly good for society. I say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nI say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nreply\nreply\nreply\nreply\nHave you seen some",
+          "summary": null,
           "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
           "url": "https://news.ycombinator.com/item?id=48962983",
           "source": "hackernews",
@@ -962,7 +877,7 @@
           "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
           "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
           "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": "No more AI-edited listings without disclosures.\nNew York City mayor Mamdani announced new recommendations for tenants, including disclosure requirements for AI in real estate listings.\nMayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties\nSearch\nNew York City mayor Zohran Mamdani is having a very busy week. Just a day after announcing a “click-to-cancel” rule aimed at companies like Adobe, Mamdani is cracking down on “deceptive landlord practices,” including using AI-",
+          "summary": null,
           "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
           "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
           "source": "Hacker News",
@@ -983,7 +898,7 @@
           "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
           "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
           "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": "reply\nAgree AI modified listing make no sense to allow; regulation here is making up for platform failure.\nreply\n- gambling\n  - dating\n  - hiring\n  - advertising It shouldn't even be controversial that this would be broadly good for society. I say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nI say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nreply\nreply\nreply\nreply\nHave you seen some",
+          "summary": null,
           "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
           "url": "https://news.ycombinator.com/item?id=48962983",
           "source": "hackernews",
@@ -997,7 +912,7 @@
           "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
           "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
           "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": "No more AI-edited listings without disclosures.\nNew York City mayor Mamdani announced new recommendations for tenants, including disclosure requirements for AI in real estate listings.\nMayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties\nSearch\nNew York City mayor Zohran Mamdani is having a very busy week. Just a day after announcing a “click-to-cancel” rule aimed at companies like Adobe, Mamdani is cracking down on “deceptive landlord practices,” including using AI-",
+          "summary": null,
           "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
           "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
           "source": "Hacker News",
@@ -1008,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1031,7 +946,7 @@
         "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
         "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
         "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "summary": "reply\nAgree AI modified listing make no sense to allow; regulation here is making up for platform failure.\nreply\n- gambling\n  - dating\n  - hiring\n  - advertising It shouldn't even be controversial that this would be broadly good for society. I say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nI say that as an AI maximalist: I fully trust AI with these things. I do not trust the humans using the AI.\nreply\nreply\nreply\nreply\nHave you seen some",
+        "summary": null,
         "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
         "url": "https://news.ycombinator.com/item?id=48962983",
         "source": "hackernews",
@@ -1043,7 +958,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     },
     {
@@ -1120,15 +1035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9461,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,7 +1070,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T23:15:07.104495Z"
+        "scored_at": "2026-07-19T00:14:33.042791Z"
       }
     }
   ]

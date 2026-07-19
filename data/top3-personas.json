@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:15:12.122077Z",
+  "generated_at": "2026-07-19T00:14:39.736769Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_56c5b0ab76c7",
-      "title": "Codex CLI 0.144.6",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 30,
-          "review": "版本号刷得勤，更新日志却空得像节后办公室。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有更新日志，无论文无benchmark，无法验证性能。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "小版本更新，用Codex CLI的查下changelog看看修了啥bug。"
-        }
-      }
-    },
-    {
       "story_id": "story_dad2bbf2a5ce",
       "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
       "url": "https://ykdojo.github.io/claude-controls-mac",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -60,7 +40,7 @@
       "story_id": "story_6e3ae8d4de00",
       "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 48,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 55,
           "review": "研究对比有参考价值，但无实际可用的工具或API，观望即可。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1a64b2e84394",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "把数据拉出来就叫影响分析？相关性和因果先分清楚吧。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "只有数据查询，无论文代码benchmark，无法验证AI影响。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "看看数据了解趋势，但没实际工具或方案可抄。"
         }
       }
     }
