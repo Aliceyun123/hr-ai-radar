@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:03:36.257073+08:00",
+  "generated_at": "2026-07-21T11:53:48.052850+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 12,
   "categories": [
@@ -28,6 +28,18 @@
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
+        "title": "Judge recommends trimming EEOC lawsuit, leaving one failure-to-accommodate claim",
+        "url": "https://www.hrdive.com/news/judge-recommends-trimming-eeoc-lawsuit-osmose-utilities-services/825678/",
+        "published_at": "2026-07-20T19:43:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "组织与人才管理",
+        "id": "79a860777ae5"
+      },
+      {
         "title": "AI HOT 日报 · 2026-07-19 — Claude Code v2.1.214 发布：修复权限绕过、添加 EndConversation 工具与多项 Bash 权限检查改进",
         "url": "https://aihot.virxact.com/daily/2026-07-19",
         "published_at": "2026-07-19T00:00:00+00:00",
@@ -50,23 +62,47 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "94f58f5ed83b"
-      },
-      {
-        "title": "How AI ‘workslop’ is undermining your organization’s performance",
-        "url": "https://www.hrdive.com/news/how-ai-workslop-is-undermining-your-organizations-performance/825517/",
-        "published_at": "2026-07-17T14:35:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "61c5e5abb7a9"
       }
     ],
     "学习发展与技能转型": [],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "AI HOT 日报 · 2026-07-21 — 面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "url": "https://aihot.virxact.com/daily/2026-07-21",
+        "published_at": "2026-07-21T00:00:00+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "be24e71b8a6c"
+      },
+      {
+        "title": "Amazon FMLA snafu led to firing of employee who took leave to care for wife, lawsuit claims",
+        "url": "https://www.hrdive.com/news/amazon-fmla-snafu-firing-employee-leave-to-care-for-wife/825690/",
+        "published_at": "2026-07-20T19:43:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "bbd394703a8c"
+      },
+      {
+        "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs",
+        "url": "https://www.hrdive.com/news/week-in-review-metas-ai-systems-workers-layoffs-leave/825639/",
+        "published_at": "2026-07-20T15:01:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "de9f0c3600b7"
+      },
       {
         "title": "The human capabilities separating AI leaders from AI followers",
         "url": "https://www.hrdive.com/spons/the-human-capabilities-separating-ai-leaders-from-ai-followers/825324/",
@@ -126,46 +162,58 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "fdcaa8dd76ca"
-      },
-      {
-        "title": "Secondhand harassment supports hostile work environment claim, 5th Circuit holds",
-        "url": "https://www.hrdive.com/news/secondhand-harassment-supports-hostile-work-environment-claim-5th-circuit/825514/",
-        "published_at": "2026-07-17T15:55:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "fcbccc5e4d6b"
-      },
-      {
-        "title": "Employers may soon find it harder to retain workers",
-        "url": "https://www.hrdive.com/news/employers-may-soon-find-it-harder-to-retain-workers/825505/",
-        "published_at": "2026-07-17T14:35:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "93e723797f1c"
-      },
-      {
-        "title": "What Is an AI HR Assistant? 6 Use Cases & How To Implement One",
-        "url": "https://www.aihr.com/blog/ai-hr-assistant/",
-        "published_at": "2026-07-17T09:33:18+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "1cd63ce4bf3e"
       }
     ]
   },
   "all_items": [
+    {
+      "title": "AI HOT 日报 · 2026-07-21 — 面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+      "url": "https://aihot.virxact.com/daily/2026-07-21",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "be24e71b8a6c"
+    },
+    {
+      "title": "Amazon FMLA snafu led to firing of employee who took leave to care for wife, lawsuit claims",
+      "url": "https://www.hrdive.com/news/amazon-fmla-snafu-firing-employee-leave-to-care-for-wife/825690/",
+      "published_at": "2026-07-20T19:43:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "bbd394703a8c"
+    },
+    {
+      "title": "Judge recommends trimming EEOC lawsuit, leaving one failure-to-accommodate claim",
+      "url": "https://www.hrdive.com/news/judge-recommends-trimming-eeoc-lawsuit-osmose-utilities-services/825678/",
+      "published_at": "2026-07-20T19:43:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "79a860777ae5"
+    },
+    {
+      "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs",
+      "url": "https://www.hrdive.com/news/week-in-review-metas-ai-systems-workers-layoffs-leave/825639/",
+      "published_at": "2026-07-20T15:01:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "de9f0c3600b7"
+    },
     {
       "title": "The human capabilities separating AI leaders from AI followers",
       "url": "https://www.hrdive.com/spons/the-human-capabilities-separating-ai-leaders-from-ai-followers/825324/",
@@ -261,54 +309,6 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "fdcaa8dd76ca"
-    },
-    {
-      "title": "Secondhand harassment supports hostile work environment claim, 5th Circuit holds",
-      "url": "https://www.hrdive.com/news/secondhand-harassment-supports-hostile-work-environment-claim-5th-circuit/825514/",
-      "published_at": "2026-07-17T15:55:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "fcbccc5e4d6b"
-    },
-    {
-      "title": "Employers may soon find it harder to retain workers",
-      "url": "https://www.hrdive.com/news/employers-may-soon-find-it-harder-to-retain-workers/825505/",
-      "published_at": "2026-07-17T14:35:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "93e723797f1c"
-    },
-    {
-      "title": "How AI ‘workslop’ is undermining your organization’s performance",
-      "url": "https://www.hrdive.com/news/how-ai-workslop-is-undermining-your-organizations-performance/825517/",
-      "published_at": "2026-07-17T14:35:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "61c5e5abb7a9"
-    },
-    {
-      "title": "What Is an AI HR Assistant? 6 Use Cases & How To Implement One",
-      "url": "https://www.aihr.com/blog/ai-hr-assistant/",
-      "published_at": "2026-07-17T09:33:18+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "1cd63ce4bf3e"
     }
   ]
 }
